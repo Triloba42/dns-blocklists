@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762077480 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762106160 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Nov 2025 09:58 UTC
-; Version: 2025.1102.0958.52
+; Last modified: 02 Nov 2025 17:56 UTC
+; Version: 2025.1102.1756.55
 ; Syntax: RPZ
-; Number of entries: 2730
+; Number of entries: 2678
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -2376,74 +2376,22 @@ crossurl.shop CNAME .
 *.crossurl.shop CNAME .
 cubavalue.shop CNAME .
 *.cubavalue.shop CNAME .
-daisysfashions.shop CNAME .
-*.daisysfashions.shop CNAME .
-darayibuy.shop CNAME .
-*.darayibuy.shop CNAME .
 datechurch.shop CNAME .
 *.datechurch.shop CNAME .
-deandryesclothing.shop CNAME .
-*.deandryesclothing.shop CNAME .
-dfashionboutique.shop CNAME .
-*.dfashionboutique.shop CNAME .
-diana-fashion.shop CNAME .
-*.diana-fashion.shop CNAME .
 dietmark.shop CNAME .
 *.dietmark.shop CNAME .
-dinaellen.shop CNAME .
-*.dinaellen.shop CNAME .
-dmodaboutique1.shop CNAME .
-*.dmodaboutique1.shop CNAME .
-dolebropro.shop CNAME .
-*.dolebropro.shop CNAME .
-domepaosell.shop CNAME .
-*.domepaosell.shop CNAME .
-dorabiamarketing.shop CNAME .
-*.dorabiamarketing.shop CNAME .
-doteyoueshop.shop CNAME .
-*.doteyoueshop.shop CNAME .
 drugpoint.shop CNAME .
 *.drugpoint.shop CNAME .
-duchessandthedude.shop CNAME .
-*.duchessandthedude.shop CNAME .
-ebeesboutique.shop CNAME .
-*.ebeesboutique.shop CNAME .
 ebuykind.shop CNAME .
 *.ebuykind.shop CNAME .
-elegantrosebridal.shop CNAME .
-*.elegantrosebridal.shop CNAME .
-elizabethsfashion.shop CNAME .
-*.elizabethsfashion.shop CNAME .
-emmasbowtique.shop CNAME .
-*.emmasbowtique.shop CNAME .
 energycd.shop CNAME .
 *.energycd.shop CNAME .
-esthersresaleshop.shop CNAME .
-*.esthersresaleshop.shop CNAME .
-faithflairboutique.shop CNAME .
-*.faithflairboutique.shop CNAME .
-fancyjsboutique.shop CNAME .
-*.fancyjsboutique.shop CNAME .
-fannielenterprises.shop CNAME .
-*.fannielenterprises.shop CNAME .
-fe-boutique.shop CNAME .
-*.fe-boutique.shop CNAME .
-finassalonboutique.shop CNAME .
-*.finassalonboutique.shop CNAME .
 findarea.shop CNAME .
 *.findarea.shop CNAME .
 finlandway.shop CNAME .
 *.finlandway.shop CNAME .
 fishmeet.shop CNAME .
 *.fishmeet.shop CNAME .
-fitegirlsboutique.shop CNAME .
-*.fitegirlsboutique.shop CNAME .
-gabstinaboutique.shop CNAME .
-*.gabstinaboutique.shop CNAME .
-gakken.shop CNAME .
-*.gakken.shop CNAME .
-gamblerschoiceclothing.shop CNAME .
-*.gamblerschoiceclothing.shop CNAME .
 georgiatwo.shop CNAME .
 *.georgiatwo.shop CNAME .
 godscience.shop CNAME .

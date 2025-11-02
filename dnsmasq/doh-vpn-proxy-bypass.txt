@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Nov 2025 10:40 UTC
-# Version: 2025.1102.1040.20
+# Last modified: 02 Nov 2025 18:37 UTC
+# Version: 2025.1102.1837.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6793
+# Number of entries: 6783
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1368,7 +1368,6 @@ local=/dedidl.com/
 local=/dns.dedsuts.com/
 local=/frank-web.dedyn.io/
 local=/k03.dedyn.io/
-local=/lol-asha.dedyn.io/
 local=/dns.skous.dedyn.io/
 local=/unraid.dedyn.io/
 local=/dns.deekshith.in/
@@ -1413,7 +1412,6 @@ local=/dialertoserver.com/
 local=/dns.diarbagus.id/
 local=/dichvusocks.net/
 local=/adguard.dientutronghuong.com/
-local=/ojisama.dietpc.org/
 local=/digibitdesign.com/
 local=/anonymizing-proxy.digitalcourage.de/
 local=/digitale-gesellschaft.ch/
@@ -1698,7 +1696,6 @@ local=/ns1.dotls.org/
 local=/dns.dotnet.win/
 local=/dotvpn.com/
 local=/family.dns.doubleangels.com/
-local=/agh.doubleatech.site/
 local=/doublehop.me/
 local=/douglaster.com/
 local=/dotserver.douyucdn.cn/
@@ -1717,7 +1714,6 @@ local=/dns.dremaxx.de/
 local=/droidvpn.com/
 local=/droyd.top/
 local=/dns.druta.me/
-local=/doh.dscloud.me/
 local=/agh.dshubham.xyz/
 local=/adguard.dsns.cloud/
 local=/adguard2.dsns.cloud/
@@ -1730,7 +1726,6 @@ local=/ad1guard.duckdns.org/
 local=/adgrm.duckdns.org/
 local=/adguardpi.duckdns.org/
 local=/aduma15.duckdns.org/
-local=/andryk111.duckdns.org/
 local=/armm.duckdns.org/
 local=/bitly-galatikx.duckdns.org/
 local=/blamb.duckdns.org/
@@ -1759,8 +1754,6 @@ local=/site-2.duckdns.org/
 local=/site-3.duckdns.org/
 local=/tuandns.duckdns.org/
 local=/tungdnsne.duckdns.org/
-local=/unixfox.duckdns.org/
-local=/vpich.duckdns.org/
 local=/wired-guardian.duckdns.org/
 local=/wisehomeguard.duckdns.org/
 local=/workcavestl.duckdns.org/
@@ -1864,7 +1857,6 @@ local=/hk.end.pub/
 local=/endente.com/
 local=/adguard.ender.fr/
 local=/dns.enderblocks.net/
-local=/dns.energized.pro/
 local=/dns.engineer-lib.ru/
 local=/dnssec.dns.enginyring.com/
 local=/dns01.enginyring.com/
@@ -2025,7 +2017,6 @@ local=/doh.ffmuc.net/
 local=/dot.ffmuc.net/
 local=/dns.ffnw.de/
 local=/ffsurf.net/
-local=/dns.fgbk.net/
 local=/fiberprox.com/
 local=/fiberprox.me/
 local=/fiberprox.net/
@@ -2052,7 +2043,6 @@ local=/vm3421302.firstbyte.club/
 local=/firstcontact.site/
 local=/fishproxy.com/
 local=/fitnessdepotprices.com/
-local=/chart.books.fivepals.com/
 local=/fixproxy.com/
 local=/adg.fiyaajans.com/
 local=/dns.fizz.studio/
@@ -2157,7 +2147,6 @@ local=/freehost000.xyz/
 local=/freelux.world/
 local=/freemicvpn.com/
 local=/dns.freemyemail.com/
-local=/srgaghome.freemyip.com/
 local=/walhalla.freemyip.com/
 local=/wg-aghome.freemyip.com/
 local=/zuk.freemyip.com/
@@ -2935,6 +2924,7 @@ local=/adguard.johanliebert.top/
 local=/dns.johndave.me/
 local=/johneldenring.lol/
 local=/adguard.johnnypatras.org/
+local=/joindns4.in/
 local=/child.joindns4.eu/
 local=/child-noads.joindns4.eu/
 local=/noads.joindns4.eu/

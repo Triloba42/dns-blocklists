@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Nov 2025 10:39 UTC
-# Version: 2025.1102.1039.46
+# Last modified: 02 Nov 2025 18:36 UTC
+# Version: 2025.1102.1836.35
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3397
+# Number of entries: 3390
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1087,7 +1087,6 @@ local=/dot.pub/
 local=/ns1.dotls.org/
 local=/dns.dotnet.win/
 local=/family.dns.doubleangels.com/
-local=/agh.doubleatech.site/
 local=/douglaster.com/
 local=/dotserver.douyucdn.cn/
 local=/dns35.allone.dpdns.org/
@@ -1101,7 +1100,6 @@ local=/drahonn.pro/
 local=/dns.dremaxx.de/
 local=/droyd.top/
 local=/dns.druta.me/
-local=/doh.dscloud.me/
 local=/agh.dshubham.xyz/
 local=/adguard.dsns.cloud/
 local=/adguard2.dsns.cloud/
@@ -1112,7 +1110,6 @@ local=/ad1guard.duckdns.org/
 local=/adgrm.duckdns.org/
 local=/adguardpi.duckdns.org/
 local=/aduma15.duckdns.org/
-local=/andryk111.duckdns.org/
 local=/armm.duckdns.org/
 local=/blamb.duckdns.org/
 local=/cdzopi.duckdns.org/
@@ -1139,8 +1136,6 @@ local=/site-2.duckdns.org/
 local=/site-3.duckdns.org/
 local=/tuandns.duckdns.org/
 local=/tungdnsne.duckdns.org/
-local=/unixfox.duckdns.org/
-local=/vpich.duckdns.org/
 local=/wired-guardian.duckdns.org/
 local=/wisehomeguard.duckdns.org/
 local=/workcavestl.duckdns.org/
@@ -1206,7 +1201,6 @@ local=/gdns.end.pub/
 local=/hk.end.pub/
 local=/adguard.ender.fr/
 local=/dns.enderblocks.net/
-local=/dns.energized.pro/
 local=/dns.engineer-lib.ru/
 local=/dnssec.dns.enginyring.com/
 local=/dns01.enginyring.com/
@@ -1309,7 +1303,6 @@ local=/2.dnscrypt-cert.ffmuc.net/
 local=/doh.ffmuc.net/
 local=/dot.ffmuc.net/
 local=/dns.ffnw.de/
-local=/dns.fgbk.net/
 local=/fidelius.top/
 local=/dns.fifux.be/
 local=/dns.filipccz.eu/
@@ -1364,7 +1357,6 @@ local=/jonathanaugusto.freeddns.org/
 local=/songochain.freeddns.org/
 local=/studioai.freeddns.org/
 local=/dns.freemyemail.com/
-local=/srgaghome.freemyip.com/
 local=/walhalla.freemyip.com/
 local=/wg-aghome.freemyip.com/
 local=/zuk.freemyip.com/
@@ -1775,6 +1767,7 @@ local=/johneldenring.lol/
 local=/adguard.johnnypatras.org/
 local=/child.joindns4.eu/
 local=/child-noads.joindns4.eu/
+local=/dns.joindns4.in/
 local=/noads.joindns4.eu/
 local=/protective.joindns4.eu/
 local=/unfiltered.joindns4.eu/

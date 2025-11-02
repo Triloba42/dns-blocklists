@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 02 Nov 2025 09:30 UTC
-! Version: 2025.1102.0930.39
+! Last modified: 02 Nov 2025 17:29 UTC
+! Version: 2025.1102.1729.16
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -1877,7 +1877,6 @@
 @@||datalotrk.com^
 @@||dataurbia.com^
 @@||datayi.cn^
-@@||datenami.tw^
 @@||dausel.co^
 @@||davidbombal.wiki^
 @@||davidheardmemorialhardheadyderby.com^
@@ -1911,7 +1910,6 @@
 @@||dee.pl^
 @@||s.deemos.com^
 @@||deepcore.in^
-@@||defigodirect.com^
 @@||dehe.ir^
 @@||deheh.ir^
 @@||deli.bz^
@@ -1978,7 +1976,6 @@
 @@||directpay.dev^
 @@||dis.gd^
 @@||dis.tl^
-@@||disanspam.life^
 @@||discount-forex.biz^
 @@||discvr.co^
 @@||disini.link^
@@ -5926,6 +5923,7 @@
 @@||g.scs71.com^
 @@||scts.in^
 @@||scuf.co^
+@@||scur.cat^
 @@||scurt.eu^
 @@||sd7.in^
 @@||sdfq3cf.site^

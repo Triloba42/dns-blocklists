@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Nov 2025 09:26 UTC
-# Version: 2025.1102.0926.18
+# Last modified: 02 Nov 2025 17:25 UTC
+# Version: 2025.1102.1725.06
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 66259
+# Number of entries: 66023
 #
 *.0.beer
 *.0.club
@@ -5870,10 +5870,7 @@
 *.858akaman.xyz
 *.85a90880b9.com
 *.86043854.xyz
-*.1337ul.8609.cc
-*.908.8609.cc
-*.985.8609.cc
-*.988.8609.cc
+*.8609.cc
 *.86124673.xyz
 *.86165466.xyz
 *.75003826de.8619047757.com
@@ -6066,11 +6063,7 @@
 *.93a72bfca9.com
 *.93febf18c6.com
 *.93tc.com
-*.495.9415.cc
-*.904.9415.cc
-*.914.9415.cc
-*.926.9415.cc
-*.928.9415.cc
+*.9415.cc
 *.9421d59b1d.com
 *.942442.top
 *.94444717.xyz
@@ -6127,7 +6120,6 @@
 *.987258.com
 *.98738797.xyz
 *.987f9e203d.com
-*.98853171.xyz
 *.988538.com
 *.9888.st
 *.9891a36e37.com
@@ -7573,7 +7565,6 @@
 *.adsrv.me
 *.adsrv.net
 *.adsrv.wtf
-*.adsrv4k.com
 *.adsrvmedia.com
 *.adsrvr.org
 *.adstargeting.com
@@ -9069,7 +9060,6 @@
 *.avov.amlyyqjbrvlmm.top
 *.amlzndgkbicak.store
 *.ammeossmalts.help
-*.ammhamor.com
 *.ammlwyacthit.com
 *.ammonicdowsing.com
 *.ammunitionconsiderinstitution.com
@@ -10073,7 +10063,6 @@
 *.arthaven.xyz
 *.arthelaulete.world
 *.de.artheldiscern.com
-*.arthronzebra.com
 *.articlegarlandferment.com
 *.articlehealth.com
 *.articlepawn.com
@@ -10678,7 +10667,6 @@
 *.authenticflirtatious.com
 *.authoritativepilgrimwhirlwind.com
 *.authoritiesdigitalchagrin.com
-*.authoritiesemotional.com
 *.authorizedimmediate.com
 *.authorizesock.com
 *.authorizevanquishcovering.com
@@ -10779,7 +10767,6 @@
 *.avocaterehouse.cyou
 *.avocetriches.com
 *.avoidedtreasr.com
-*.avoihyfziwbn.com
 *.avouchuramil.com
 *.avouerosiest.help
 *.avowneighbouringfaculty.com
@@ -11655,8 +11642,7 @@
 *.bcpbtqpumbarw.online
 *.bcppd.gdn
 *.bcprm.com
-*.dciclc.bctnodv.top
-*.dcivlv.bctnodv.top
+*.bctnodv.top
 *.bctuafpdwarbm.site
 *.track.bcvc.mobi
 *.bcwpdvigokzca.space
@@ -15117,7 +15103,6 @@
 *.cattlegalaxywalker.com
 *.catventions.com
 *.catvitalplus.com
-*.catwalkoutled.com
 *.rd.catwisekusan.com
 *.catwrite.com
 *.caudexintrine.com
@@ -15613,7 +15598,6 @@
 *.charlotteairportclt.com
 *.charlottewindclaim.com
 *.charltonmedia.com
-*.charm-diadem.com
 *.charm-n.com
 *.charmconnects.com
 *.ff.charmduo.site
@@ -16615,10 +16599,7 @@
 *.cmprotraf.club
 *.cmpuwps.com
 *.cmrdr.com
-*.cms100.xyz
-*.276eefe2165e.cmsdurbv.top
-*.a38f0f2b74c4.cmsdurbv.top
-*.b84c7e3bdff5.cmsdurbv.top
+*.cmsdurbv.top
 *.cmtrk.com
 *.cmtrkg.com
 *.cmuadjagpm.com
@@ -16631,10 +16612,7 @@
 *.everpharmanet.cn.tv
 *.cn2f.cn
 *.cn846.com
-*.526c5dc94e12.cndsdsva.top
-*.530076989109.cndsdsva.top
-*.5d58890195ae.cndsdsva.top
-*.e49e0b120ad5.cndsdsva.top
+*.cndsdsva.top
 *.cndw.top
 *.cnesnnavxumlh.online
 *.cngcpy.com
@@ -16648,8 +16626,7 @@
 *.cntrealize.com
 *.cnwafglwlbcro.life
 *.dciclc.cnwuamf.top
-*.dciclc.cnwucnf.top
-*.dcivlv.cnwucnf.top
+*.cnwucnf.top
 *.cnyojprieezzh.store
 *.cnzixiang.com
 *.cnzz.biz
@@ -16831,7 +16808,6 @@
 *.ls.coccyxoasitic.top
 *.mh.cockersbehint.com
 *.cockerwigher.click
-*.cockieswedel.cyou
 *.cockinabox.com
 *.cocklesgaluth.digital
 *.cockleswhose.help
@@ -18161,7 +18137,6 @@
 *.crakedquartin.com
 *.crakrevenue.xyz
 *.cramb.site
-*.crambidnonutilitybayadeer.com
 *.crambusstiffer.com
 *.cramfinalizesluice.com
 *.cramgrasshopperfasten.com
@@ -18184,7 +18159,6 @@
 *.cratecamera.com
 *.craterchildbirthprevail.com
 *.craterpermission.com
-*.craterwhsle.com
 *.cratesketole.cfd
 *.cratestable.com
 *.craveimmensely.com
@@ -18768,8 +18742,7 @@
 *.cuybnvyuqlizr.space
 *.cuzqaskcyjyut.site
 *.cvastico.com
-*.dciclc.cvcnmtf.top
-*.dcivlv.cvcnmtf.top
+*.cvcnmtf.top
 *.cvdbvcrpzjrgv.website
 *.cvdinc.com
 *.cvfr74t.com
@@ -19026,7 +18999,6 @@
 *.daisukimatch.jp
 *.daisybabysitting.com
 *.daitchest.com
-*.daizoode.com
 *.dakikasigara.com
 *.dakirbump.qpon
 *.dakoitspoucey.digital
@@ -19101,7 +19073,6 @@
 *.dandywoken.com
 *.danesbasques.shop
 *.danesuffocate.com
-*.dangerfiddlesticks.com
 *.dangerinsignificantinvent.com
 *.dangerous-cancel.pro
 *.dangerous-leader.pro
@@ -19167,7 +19138,6 @@
 *.darnobedienceupscale.com
 *.ss.darogahvitry.com
 *.daroptiy.com
-*.darpccyae.com
 *.darrellgum.com
 *.darrinwoods.com
 *.dartsprox.cfd
@@ -19236,7 +19206,6 @@
 *.qgerjk.date4connects.com
 *.date4sex.pro
 *.ff.datecraze.space
-*.datedate.today
 *.datedconsistedeerie.com
 *.dateddeduct.com
 *.datedeskads.com
@@ -19616,7 +19585,6 @@
 *.pornostar-14.dddaa.com
 *.telefono.dddaa.com
 *.tettone-18.dddaa.com
-*.dddashasledopyt.com
 *.dddomainccc.com
 *.daf6d45895.ddeec9dbed.com
 *.ddfbgbghyxrtq.site
@@ -19662,12 +19630,10 @@
 *.deandrewynn.com
 *.lk.deaningtediums.com
 *.deanowens.com
-*.deaqmkvrmhshh.site
 *.dear-soil.com
 *.dearest-blame.pro
 *.dearestastray.com
 *.dearesthydrogen.com
-*.dearmonalisa.com
 *.ah.dearoughts.com
 *.cm.dearsfibered.com
 *.deasilgrumps.world
@@ -19729,8 +19695,6 @@
 *.decidegraphics.com
 *.decideharmpervert.com
 *.decideplungedanalyse.com
-*.lk.decidualiaison.com
-*.decimal-catch.pro
 *.decimal-internet.com
 *.decimal-plan.pro
 *.decimalclawkidding.com
@@ -19933,7 +19897,6 @@
 *.mt.deimosfestuca.com
 *.deismpaho.com
 *.deityhumcelery.com
-*.deitynosebleed.com
 *.deityshovedcarriage.com
 *.dekarise.site
 *.ax.dekingcossack.top
@@ -20167,7 +20130,6 @@
 *.derriks.site
 *.dertyhsf.xyz
 *.dervendrus.com
-*.desabrator.com
 *.descarga.pw
 *.descendedlibrarian.com
 *.descendentwringthou.com
@@ -20239,7 +20201,6 @@
 *.despoteavesdropblazing.com
 *.dessertcaptive.com
 *.dessly.ru
-*.dessnivyer.com
 *.destaresources.com
 *.s4fk.destin0.jp
 *.destined-meeting.com
@@ -20303,7 +20264,6 @@
 *.dev-fusion.com
 *.dev2pub.com
 *.devaluequalmrelative.com
-*.devastatedseparategourmet.com
 *.personas.devbam.com
 *.developercoherentbaseball.com
 *.developerlimassol.com
@@ -20335,7 +20295,6 @@
 *.devourstrilium.com
 *.devourthrobbingspeed.com
 *.devqeury.org
-*.devuba.xyz
 *.devvleco.icu
 *.dewaasia.net
 *.xb.dewanibipods.com
@@ -20365,21 +20324,16 @@
 *.dfbzfb.icu
 *.dfcsy.com
 *.dfdgfruitie.xyz
-*.dfdgkwyfharug.online
 *.dfe89deba4.com
 *.dfeajhozqf.com
 *.dfghaqea.xyz
 *.dfhbfgoamcfmw.website
 *.dfirst1.com
-*.dfommwypqqrdw.online
 *.dfqbktlcmmcca.space
-*.dftone.com
 *.dfuijqrojtvcb.site
 *.dfvip222.com
 *.dfvip333.com
 *.dfwjcksuusdzf.site
-*.dfwrcwwmgbimb.store
-*.dfypinknckctz.website
 *.dfyredenvelope.com
 *.dfywakkasl.com
 *.dfzuxtkanxwxx.space
@@ -20413,7 +20367,6 @@
 *.dhojmirptkwfy.website
 *.dhootiepawed.com
 *.vg.dhoulosazone.com
-*.dhqvpexhzduql.online
 *.dhruqpiaftxwk.online
 *.dhssxxkj.com
 *.dhunchifidia.com
@@ -20458,7 +20411,6 @@
 *.dicelocateengland.com
 *.diceresembleshudder.com
 *.dichordravin.click
-*.dichvufconline.com
 *.dicierbirched.top
 *.dicionasted.com
 *.diclotrans.com
@@ -20489,7 +20441,6 @@
 *.dienanhtrongtamtay.com
 *.dienlanhdienmayxanhvn.com
 *.dienlanhmayxanh.com
-*.dienmay-xanh24h.online
 *.dierem.click
 *.diesesstrate.rest
 *.dietarydecreewilful.com
@@ -20556,7 +20507,6 @@
 *.digubpgjkdmsl.website
 *.digzjnuguwwxr.online
 *.diingsinspiringtg.com
-*.dijysata.com
 *.dikasomywnqww.website
 *.dikcmpgwemomx.space
 *.dikedbizonal.cfd
@@ -20568,7 +20518,6 @@
 *.dilapidationgroupprovidence.com
 *.dilapidationmule.com
 *.dilapidationrestminor.com
-*.dilatenine.com
 *.dilemmadaily.com
 *.dilemmaserf.top
 *.diligent-test.pro
@@ -20645,7 +20594,6 @@
 *.dp.dipodeplebby.com
 *.dippergeologyprescribe.com
 *.dippingearlier.com
-*.diptaich.com
 *.dipyredefraud.rest
 *.dirdoophounu.net
 *.direcompulsion.com
@@ -20690,7 +20638,6 @@
 *.dirty-messenger.com
 *.dirty-tinder.com
 *.dirtyflirt9.com
-*.dirtyhire.pro
 *.fb.dirtyhotclub.com
 *.love.dirtyhotclub.com
 *.dirtypassionatescalp.com
@@ -20812,7 +20759,6 @@
 *.dislikingentwinestudio.com
 *.disloyal-peak.pro
 *.disloyal-soil.pro
-*.disloyal-trip.pro
 *.disloyal-variation.pro
 *.disloyalmeddling.com
 *.disloyalmidnight.pro
@@ -20996,10 +20942,7 @@
 *.djw.com
 *.djwwqtgrhtesh.world
 *.djxh1.com
-*.djxtphppxkzkx.website
 *.dk.ai
-*.dk-fornysundhed.com
-*.dkdipktuh.com
 *.dkepsueazpneu.space
 *.dkfkshfzzmxss.online
 *.dkfqrsqg.com
@@ -21030,7 +20973,6 @@
 *.dlssneykonto.com
 *.dlssuizl.art
 *.grlaev.dlstinguishedates.com
-*.ogaonw.dlstinguishedates.net
 *.bgqvxe.dlstnguishedate.net
 *.aolkej.dlvertingdate.net
 *.ogbxmx.dlvertingdate.net
@@ -21081,18 +21023,15 @@
 *.dnmqfaxluvaou.world
 *.dnpgwweaiepdu.top
 *.dnqmuubtrodvi.site
-*.dnurxagcqddad.website
 *.dnvogsqirpcfq.space
 *.do-datesurv.com
 *.do-finsurv.com
 *.do-land-preview.com
 *.do-orig.com
-*.do-snmsurv.com
 *.do-sweepsurv.com
 *.do-test01.com
 *.do-uamsurv.com
 *.doableshuttercrate.com
-*.doaipomer.com
 *.doakosteceet.net
 *.doaltariaer.com
 *.doankhqxgwbui.site
@@ -21139,7 +21078,6 @@
 *.zf.doesnscapha.com
 *.doethemydea.com
 *.so.doffsdennet.com
-*.doflygonan.com
 *.dofrhyluyqtex.online
 *.dofrogadiera.com
 *.doftec.com
@@ -21169,7 +21107,6 @@
 *.dokegisel.shop
 *.dokondigit.quest
 *.dolatiaschan.com
-*.dolatiosom.com
 *.dolcianjaypie.shop
 *.dolefulbailjoy.com
 *.dolefulexaggeratecommon.com
@@ -21192,7 +21129,6 @@
 *.domainparkingmanager.it
 *.domains-traffic.com
 *.ga.domainscherts.com
-*.domakuhitaor.com
 *.dombnrs.com
 *.domdex.com
 *.domeclosureassert.com
@@ -21203,7 +21139,6 @@
 *.domesticrejoinedremark.com
 *.domesticsomebody.com
 *.domesticspacious.com
-*.domewtwotor.com
 *.domexxxcolnsn.life
 *.domicileperil.com
 *.dominachoroid.digital
@@ -21297,23 +21232,16 @@
 *.dortmark.net
 *.dortoordainsain.net
 *.doruffleton.com
-*.doruffletr.com
 *.pb.dosachen.com
 *.dosamurottom.com
-*.doseadraa.com
 *.dosebuildsdeduct.com
-*.doshellosan.com
 *.dosiraktong.com
-*.dosliggooor.com
-*.dosneaselor.com
-*.dospindaan.com
 *.dosreceivethrill.com
 *.he.dossersdementi.com
 *.du.dossersmilor.com
 *.dossierscabbed.world
 *.bj.dostbother.com
 *.dostechsolutions.net
-*.dostunkyan.com
 *.dosudosuo.com
 *.dosukoudo.net
 *.dosya-indirici.online
@@ -21326,7 +21254,6 @@
 *.uj.dotiestnucleli.com
 *.doting-carry.pro
 *.doting-rush.pro
-*.dotingrewing.digital
 *.dotobjection.com
 *.dotsrv.com
 *.dottypeguidance.com
@@ -21377,7 +21304,6 @@
 *.douzvrswnkxzv.icu
 *.dovecyton.com
 *.dovekeyhealing.shop
-*.dovictinian.com
 *.zn.dovishliegier.com
 *.iu.dowabledecil.com
 *.zu.dowelrld.top
@@ -21435,7 +21361,6 @@
 *.dprivatedquali.org
 *.dprptfbtilpmp.site
 *.dpsecuredinvestments.com
-*.dpseympatijgpaw.com
 *.dpssevgyylnkh.site
 *.dptai.com
 *.dptxqbwdwuqye.website
@@ -21445,7 +21370,6 @@
 *.dpxadf.icu
 *.dq6la3mb.com
 *.dq95d35.com
-*.dqajdnjenuvifq.com
 *.dqfzbnhbqeqox.space
 *.dqgjkrsabhnqd.space
 *.dqhooyeampqsg.space
@@ -21505,7 +21429,6 @@
 *.dramaticconsequencedigestion.com
 *.dramaticdeterpulverize.com
 *.dramaticmight.pro
-*.dramaticsalad.com
 *.dramb.site
 *.qr.drammerxylinid.com
 *.dran.live
@@ -21774,7 +21697,6 @@
 *.drivingeagerly.com
 *.drizzlenoblemansplash.com
 *.drizzlerules.com
-*.drjhwuezjrdsl.store
 *.drjsialuvitqq.space
 *.drkness.net
 *.drleez.xyz
@@ -21837,7 +21759,6 @@
 *.dryerhalfmoon.com
 *.dryerlast.com
 *.dryforestpath.com
-*.drylnk.com
 *.drynalisage.site
 *.dryrlsebjzcvb.site
 *.drzqijno6u91u832r91yqzou1jvd5pn2mt2s.com
@@ -21854,7 +21775,6 @@
 *.dsau5u.com
 *.dsb68d.com
 *.dsbohcqqdvbyt.site
-*.dscdkrwk.com
 *.dsckgc.com
 *.dsdfhyey.net
 *.dseel9.com
@@ -21894,7 +21814,6 @@
 *.dtf-htx.net
 *.dtf2.com
 *.dtheircleanwhitepi.org
-*.dthipkts.com
 *.dtibgbtfoitnv.store
 *.dtjzcyjeywfaa.website
 *.dtmjpefzybt.fun
@@ -21950,15 +21869,12 @@
 *.duckswillsmoochyou.com
 *.duckvoidrebuke.com
 *.np.ductilevoider.com
-*.ducubchooa.com
 *.dudaixou.com
-*.dudialgator.com
 *.dudleyscience.com
 *.dudleyspirittoaster.com
 *.in.dudmangenty.top
 *.dudragonitean.com
 *.dudsurdeensinso.net
-*.duellocajeput.shop
 *.duerighe.com
 *.duespajamassurgical.com
 *.sq.duessacaufle.com
@@ -21967,7 +21883,6 @@
 *.dufterferny.digital
 *.dugfairfaxgait.com
 *.dugksbcmvvxdf.site
-*.dugothitachan.com
 *.dugrhmdlsdcop.website
 *.duidoaghteqgs.website
 *.duiionogen.com
@@ -21977,7 +21892,6 @@
 *.dukandinar.com
 *.dukasowse.com
 *.dukerationpecial.com
-*.dukgikax.com
 *.dukingdraon.com
 *.duksomsy.com
 *.dulativergs.com
@@ -22037,7 +21951,6 @@
 *.dupjagsu.com
 *.dt.duplettoosh.shop
 *.duppedbawsunt.life
-*.dupsyduckom.com
 *.dupy-hsjctyn.icu
 *.duqluquxvoijx.site
 *.durableordinarilyadministrator.com
@@ -22106,7 +22019,6 @@
 *.dvxrxm-cxo.top
 *.dvymkekwkkgdi.space
 *.dvypar.com
-*.0owiu1p.dw79.com
 *.2gry5.dw79.com
 *.dwaiblycab.shop
 *.mj.dwangairmen.top
@@ -22130,7 +22042,6 @@
 *.dwoetbarcrooplsloiwh.com
 *.dwpfxr.icu
 *.dwpuuaxhcqlvz.website
-*.dwshoes.net
 *.dwvdofpcelstt.site
 *.dwztkzptvisct.site
 *.dx-44717-tr.xyz
@@ -22201,7 +22112,6 @@
 *.dz4ad.com
 *.dzhjmp.com
 *.dziamswamc.com
-*.dzioldox.com
 *.dzjlyvcsggmls.online
 *.dzkdyqyvadyqq.online
 *.dzpoejczjsmkk.store
@@ -22263,7 +22173,6 @@
 *.eaagzbrscgtzw.space
 *.eaaratte.net
 *.eabids.com
-*.eac0823ca94e3c07.com
 *.eacdn.com
 *.each-access.com
 *.each-task.com
@@ -22394,7 +22303,6 @@
 *.eavesdroppingfurniture.com
 *.eavesdropraven.com
 *.eavesdropthenashame.com
-*.eavesofefinegoldf.info
 *.eavytybstr.com
 *.eaxmvpgmvsazo.site
 *.eazyleads.com
@@ -22458,7 +22366,6 @@
 *.eclipsenumberfirst.com
 *.rl.eclipserabbles.com
 *.ecliptic.services
-*.eclkmpbn.com
 *.eclkmpsa.com
 *.eclnqdlbtgokj.site
 *.eclvgswxvthwx.space
@@ -22491,8 +22398,7 @@
 *.ectedithconsuk.com
 *.ectenepenury.com
 *.ecteneunroven.shop
-*.dciclc.ectnodw.top
-*.dcivlv.ectnodw.top
+*.ectnodw.top
 *.ectozoaquagga.top
 *.ectsofcukorpor.com
 *.ectuklyeconen.com
@@ -22600,7 +22506,6 @@
 *.eebivsjgsjktp.store
 *.eebsoohajaung.net
 *.eecd.xyz
-*.eecheckouchaumt.com
 *.eechicha.com
 *.eecmauks.net
 *.eeco.xyz
@@ -22633,13 +22538,11 @@
 *.eemaigiwhoo.net
 *.eemgl.com
 *.eemwe.com
-*.eenaftaubutsarg.com
 *.eengilee.xyz
 *.eephaush.com
 *.eepholseeb.net
 *.eepjhvlyzlred.icu
 *.eeposhadsakrodi.com
-*.eepsoumt.com
 *.eeptoabs.com
 *.eergamursais.net
 *.eeriepleased.com
@@ -22651,13 +22554,9 @@
 *.eessoong.com
 *.eetamseethe.com
 *.eetognauy.net
-*.eetsooso.net
 *.eetspaae.net
 *.eewhapseepoo.net
 *.eexevaudraikair.net
-*.eeynurylm.com
-*.eezavops.net
-*.eezegrip.net
 *.ef13348130.com
 *.7a7bedd6ea.ef8d86ab11.com
 *.ef9i0f3oev47.com
@@ -22667,7 +22566,6 @@
 *.mrgbeq.efectivedate.com
 *.efectlvedate.com
 *.efef322148.com
-*.efemsvcdjuov.com
 *.efeyaukqwlyticafr.com
 *.effacedefend.com
 *.effaceecho.com
@@ -22789,11 +22687,9 @@
 *.eightmessengerphysique.com
 *.eijivbeakvnpi.store
 *.eika-akie220202.com
-*.eikegolehem.com
 *.eikxz.gdn
 *.zy.eilaeliza.top
 *.eiledstevermotorie.org
-*.eileenparks.site
 *.eimesthanzogt.space
 *.eirxggijnfnto.space
 *.eiteribesshaints.com
@@ -23095,8 +22991,6 @@
 *.embittersmallerrage.com
 *.emblemexceptionscorer.com
 *.emblicsabaism.qpon
-*.embogsoarers.com
-*.emboitejebat.qpon
 *.emboldenrettsyndrome.net
 *.embolicpenlop.com
 *.emboulder.shop
@@ -23194,7 +23088,6 @@
 *.pa.emptionunpray.com
 *.empty-advantage.pro
 *.emptyhate.pro
-*.emptytough.com
 *.ez.empusacooner.com
 *.emqokltbiegez.space
 *.emslskcwvhzhx.tech
@@ -23380,7 +23273,6 @@
 *.enjoyingcane.com
 *.enjoyingclienthousing.com
 *.enjoylife2001.net
-*.enjoysetup.pro
 *.enkcyenrat.club
 *.enkraalspouse.com
 *.enlabspartners.com
@@ -23402,7 +23294,6 @@
 *.enmitykindergartendebatable.com
 *.enmusubimail000.com
 *.ennedranorway.top
-*.enneobmbavxlw.store
 *.ennhtjzkuhjjw.online
 *.hp.ennoicscurvy.com
 *.enointquinoyl.rest
@@ -23448,7 +23339,6 @@
 *.rt.enteratinety.com
 *.enteredcocktruthful.com
 *.enterprisealso.com
-*.enterscb.com
 *.entertainedmagneticclients.com
 *.entertainlavish.com
 *.entertainment3x.fun
@@ -23479,7 +23369,6 @@
 *.entrustscratchedcriticize.com
 *.entterto.com
 *.entwithoughtsu.com
-*.enucjpdviryix.site
 *.enueduringhere.info
 *.enum.pro
 *.fh.envelopoutshow.com
@@ -23513,7 +23402,6 @@
 *.eondunpea.com
 *.eonsmedia.com
 *.eontappetito.com
-*.eoplnpposf.com
 *.eopuzol1.online
 *.eopuzol4.online
 *.eoredi.com
@@ -23556,7 +23444,6 @@
 *.epixonix.com
 *.epldjrxblnvpa.store
 *.eplixxwmbkoqp.space
-*.eplndhtrobl.com
 *.epnredirect.ru
 *.epoackouxaik.com
 *.epointatoncean.com
@@ -23569,7 +23456,6 @@
 *.masdak.epsilonsoft.to
 *.eptrpomofmqtx.website
 *.eptwm.com
-*.epu.sh
 *.epue.net
 *.eputysolomon.com
 *.tn.epylliafending.com
@@ -23581,7 +23467,6 @@
 *.eqddkngvrgvkw.site
 *.eqfqekkgkwpya.online
 *.eqlsure.co
-*.eqnhdlauuuz.com
 *.eqrard.com
 *.eqtig.lat
 *.equal-emphasis.pro
@@ -23761,7 +23646,6 @@
 *.mr.eskarstootles.com
 *.eskimi.com
 *.eskx.top
-*.esmudmsccavdcvn.com
 *.esmystemgthro.org
 *.esofth.site
 *.espbrohujtbch.online
@@ -23779,7 +23663,6 @@
 *.esrhhahegznlj.website
 *.esrogsrisky.shop
 *.esrogssannop.shop
-*.essay-ideas.com
 *.essayads.com
 *.essaycosigninvite.com
 *.essaycoupons.com
@@ -23801,7 +23684,6 @@
 *.estatesectcoolest.com
 *.estatestitch.com
 *.estatueofthea.info
-*.estebanbille.com
 *.esteemcountryside.com
 *.esteemed-laugh.pro
 *.esteemed-spend.pro
@@ -23880,7 +23762,6 @@
 *.etrem.site
 *.etrewon.com
 *.etrogshuzzah.cfd
-*.etrxqcibpd.com
 *.ets2.gr
 *.etterismypersonal.com
 *.etukuqstzpkzz.space
@@ -23920,7 +23801,6 @@
 *.jc.euphonefiar.com
 *.euphoric-nature.com
 *.euphoric-square.com
-*.euphoriccommittee.com
 *.euphoricreplacement.com
 *.euphuesmasses.com
 *.eurekawhiz.website
@@ -23940,7 +23820,6 @@
 *.eutecnimzptot.space
 *.yv.euterpecabinet.com
 *.euwdsqkrxwhwu.online
-*.euyiouggtacm.com
 *.euz.net
 *.ev-upstart.com
 *.ev2fbgf.cyou
@@ -23950,7 +23829,6 @@
 *.evanetwork.com
 *.evaporatesuitcases.com
 *.evar2.com
-*.evasiondemandedlearning.com
 *.evasionseptemberbee.com
 *.evcnmtw.top
 *.evcustom-ad.xyz
@@ -23985,7 +23863,6 @@
 *.evergreen-scheme.pro
 *.evergreenjoint.pro
 *.evergreenshow.site
-*.evergreenshows.site
 *.evergreentroutpitiful.com
 *.evergreenvast.pro
 *.everhiking.com
@@ -24007,7 +23884,6 @@
 *.every-enjoy.com
 *.every-salmon.com
 *.every-shopping.pro
-*.every-super.com
 *.everybodysophomore.com
 *.everyconclusion.pro
 *.everydaykennsyou.com
@@ -24046,7 +23922,6 @@
 *.evolvemediallc.com
 *.evolvenation.com
 *.evotec.solutions
-*.evouxoup.com
 *.evsw-zfdmag.one
 *.evushuco.com
 *.evuuiytrdkshg.website
@@ -24058,7 +23933,6 @@
 *.ewasverymuchad.info
 *.ewbvurkrbxspe.vip
 *.ewcnmtw.top
-*.ewdxisdrc.com
 *.eweconciliate.com
 *.ewerertalpid.com
 *.latin.eweriesisidia.cfd
@@ -24085,7 +23959,6 @@
 *.exactdispersedainty.com
 *.exactdrive.com
 *.exaggerating.makeup
-*.exaltationinsufficientintentional.com
 *.exalted-house.com
 *.exalted-treat.pro
 *.exaltedsleep.com
@@ -24154,7 +24027,6 @@
 *.excitedlyvista.com
 *.excitedteam.com
 *.exciting-date-haven.com
-*.exciting-example.com
 *.exciting-independent.com
 *.exciting-influence.pro
 *.exciting-meetcasual.com
@@ -24232,7 +24104,6 @@
 *.ic.exoduswether.shop
 *.exofrwe.com
 *.exogampeplos.com
-*.exoletegallate.top
 *.exolveguttier.shop
 *.exonews.ru
 *.vq.exonymneavil.com
@@ -24338,7 +24209,6 @@
 *.extlinka.ru
 *.extra69.net
 *.extractcares.com
-*.extractdissolve.com
 *.extracthorizontaldashing.com
 *.extractionalofthumiliation.com
 *.extractionatticpillowcase.com
@@ -24414,7 +24284,6 @@
 *.eyxafvqxebmxc.space
 *.eyyejsherkfws.online
 *.ez59jklgmdypm-9k4mtnz.work
-*.ezagaksooho.net
 *.ezanalytics.xyz
 *.ezanposies.world
 *.ezcamsites.com
@@ -24463,14 +24332,12 @@
 *.f5e52969d7.com
 *.f5fb2e203c.com
 *.f5ff45b3d4.com
-*.f62b2a8ac6.com
 *.f65e53278b.com
 *.30dd07ff57.f680e0bdca.com
 *.f7170e601a.com
 *.f761efe176.com
 *.f7dcc97ce6.com
 *.5e6fac45ed.f7f23a189b.com
-*.f8260adbf8558d6.com
 *.f864fdc049.com
 *.f8b536a2e6.com
 *.f8dt6.com
@@ -24538,7 +24405,6 @@
 *.faduz.xyz
 *.faecbook.vn
 *.lz.faenasturbit.com
-*.fafagou.com
 *.fafxuylrwwnxg.online
 *.fag-bearing.net
 *.fagarauvitic.com
@@ -24636,7 +24502,6 @@
 *.fairysicular.click
 *.fairytaletablets.com
 *.faishoar.com
-*.faithaiy.com
 *.faithdikeeach.com
 *.faithful-fact.pro
 *.faithful-yard.pro
@@ -24826,7 +24691,6 @@
 *.fashion18.cn
 *.fashionedstrengthen.com
 *.fashionwarrior.com
-*.fashlgshbv3851cung.com
 *.faspox.com
 *.fast-pair.pro
 *.fast-redirecting.com
@@ -24886,7 +24750,6 @@
 *.fathomcause.com
 *.fathomderelict.com
 *.fatiguemataspiration.com
-*.fatiguenoodlecomb.com
 *.fatiguepermanentbooty.com
 *.fatkh.com
 *.fatlikeaiwain.com
@@ -24915,7 +24778,6 @@
 *.tds.favbet.partners
 *.faverogroup.com
 *.ep.favismnilgau.com
-*.favismthrinax.cyou
 *.favorable-hire.pro
 *.favoritedawn.com
 *.favoritedivide.pro
@@ -25060,7 +24922,6 @@
 *.fedirresponsibilityface.com
 *.fedlee.com
 *.fedot.site
-*.fedroafouwheesy.com
 *.gu.fedscete.com
 *.feebleassuredness.com
 *.feechnyfafdgq.online
@@ -25134,12 +24995,10 @@
 *.femalehasslegloss.com
 *.femalehunt.pro
 *.femalepilesteering.com
-*.femefaih.com
 *.femin.online
 *.feminine-control.pro
 *.feminineconsequence.com
 *.femininequarter.com
-*.femininetextmessageseducing.com
 *.fempjfqhpylty.space
 *.femvxitrquzretxzdq.info
 *.fenacheaverage.com
@@ -25151,7 +25010,6 @@
 *.fengcu.com
 *.fengmingqi.org
 *.fengwutian.com
-*.fengxiao.cn
 *.fenixm.com
 *.fenkscoquets.click
 *.fennzh.icu
@@ -25272,7 +25130,6 @@
 *.ffswithabras.com
 *.fftwljklhkigm.site
 *.ffuapqgwe.com
-*.fgeivosgjk.com
 *.fgfjnvk.xyz
 *.fgjaelzvzxtdq.rocks
 *.fgk-jheepn.site
@@ -25301,7 +25158,6 @@
 *.fhtpntevoiojz.online
 *.fhuwsmjjijivj.top
 *.fhxgezqysdmtg.online
-*.fhyawwqfolze.com
 *.fhylzx.com
 *.fi25hcsr6d1n.top
 *.fiare-activity.com
@@ -25311,7 +25167,6 @@
 *.fibbooze.com
 *.fiber.win
 *.ht.fiberatabek.com
-*.fibimivy.pro
 *.fibmaths.com
 *.fibra.sbs
 *.fibreclaimfundamental.com
@@ -25333,7 +25188,6 @@
 *.pm.fidgesglaucus.com
 *.fidgethid.com
 *.fiduciary-realty.com
-*.field-programmablegatearray.com
 *.fier-comme-un-coq.com
 *.fiercedental.com
 *.fiercedibbles.click
@@ -25540,7 +25394,6 @@
 *.finished-chocolate.com
 *.finisheddaysflamboyant.com
 *.finisheddisdainsmug.com
-*.finishedfamily.pro
 *.finishedneat.com
 *.finized.co
 *.finkedbekah.shop
@@ -25549,7 +25402,6 @@
 *.finnisheatche.shop
 *.finreporter.net
 *.fipnvuixbrwuv.space
-*.firaapp.com
 *.firadecalella.com
 *.firdoagh.net
 *.firearmnutrition.com
@@ -25586,7 +25438,6 @@
 *.firmgossipy.com
 *.firmlyconclusivespecialize.com
 *.firmlypokingtasting.com
-*.firmopposite.com
 *.firmsepacme.com
 *.firmwarrior.com
 *.firsatkampaatan.click
@@ -25622,7 +25473,6 @@
 *.firstjessamy.com
 *.firstlightera.com
 *.firstload.com
-*.firstload.de
 *.firstosama.com
 *.firsttexture.com
 *.firstvilla.cn
@@ -25639,7 +25489,6 @@
 *.fishingslaplobby.com
 *.fishingsoutlets.com
 *.fishingthankinane.com
-*.jl.fishmangyral.com
 *.fishnchip.net
 *.fishyoverallsupplement.com
 *.fisioentreno.com
@@ -25668,7 +25517,6 @@
 *.fixatessoused.com
 *.fixatestali.help
 *.fixatifslinger.com
-*.fixaxxcruamg.com
 *.fixbpoonj.com
 *.fixbreakthrough.com
 *.fixed-beach.com
@@ -25913,7 +25761,6 @@
 *.flockthoughtfulnestle.com
 *.flogesoft.com
 *.flogunethicalexceedingly.com
-*.floitcarites.com
 *.flome.ru
 *.flooddimlylens.com
 *.floodingdaredsanctuary.com
@@ -25925,7 +25772,6 @@
 *.flooredviscount.com
 *.floralrichardapprentice.com
 *.floraltorn.com
-*.florapitchy.com
 *.da.floreatsnipes.com
 *.floremavenresorts.com
 *.floridagiftst.shop
@@ -25986,7 +25832,6 @@
 *.fluese.com
 *.fluffy-host.com
 *.fluffyaltarrecords.com
-*.fluffyfall.pro
 *.fluffyinfection.com
 *.fluffysavings.pro
 *.fluffyslide.pro
@@ -26006,7 +25851,6 @@
 *.flushgenuinelydominion.com
 *.flushoppression.com
 *.flushpersist.com
-*.flushwedges.com
 *.fluslay.xyz
 *.flusoprano.com
 *.flustered-beer.com
@@ -26031,7 +25875,6 @@
 *.flybymobile.com
 *.flyerfuzzy.com
 *.flyerrepentembrace.com
-*.flyerseafood.com
 *.flyersquare.com
 *.flyeryodels.shop
 *.flyfcfa.com
@@ -26075,7 +25918,6 @@
 *.fnnoemdymhpso.store
 *.fnobmuvwhvmna.store
 *.fnoxmhkwrkhxv.space
-*.fnpbvqcho.com
 *.fnpftjzykrbbg.store
 *.fnqhgazwgznjq.site
 *.fnsn79.top
@@ -26202,7 +26044,6 @@
 *.foolhardy-audience.com
 *.foolhardyevent.com
 *.foolhardywear.pro
-*.foolish-walk.pro
 *.foolishgap.pro
 *.foolishinfected.com
 *.foolishmenskyscraper.com
@@ -26236,12 +26077,9 @@
 *.for-tg.com
 *.for20-coco.com
 *.go1.for3e.com
-*.forabomasnowan.com
 *.foraketene.com
 *.foramscoypou.com
 *.foramsthene.com
-*.foranetter.com
-*.forarchenchan.com
 *.forazelftor.com
 *.forbearfashionable.com
 *.forbecomesdresser.com
@@ -26308,12 +26146,10 @@
 *.ur.foretopheaved.com
 *.forevergears.com
 *.foreverstopper.com
-*.forex-affiliate.com
 *.forex4you.xyz
 *.forexclub.ru
 *.forfeitassignedperky.com
 *.forfeitheliumyearn.com
-*.forflareonan.com
 *.forflygonom.com
 *.forfrogadiertor.com
 *.forgavecentury.com
@@ -26373,25 +26209,20 @@
 *.formulastore.ru
 *.fe.formulearchin.com
 *.gg.fornaxperuked.com
-*.fornoiverna.com
 *.forooqso.tv
 *.forprimeapeon.com
 *.forrepresentzen.com
 *.forsakenburn.com
 *.forsakenmom.pro
 *.forsaketurf.com
-*.forsawka.com
 *.forscprts.com
 *.forshrd.com
 *.forsiteid6441.tech
-*.forslugmar.com
-*.forsphealan.com
 *.fortaillowon.com
 *.fortezzahotel.com
 *.fortgulped.com
 *.forthbootyintricate.com
 *.forthcomingclassroom.com
-*.forthcomingconsequencesreally.com
 *.forthcomingmugged.com
 *.forthcomingshruggeddrift.com
 *.forthdigestive.com
@@ -26437,7 +26268,6 @@
 *.forwank.com
 *.forwardfishermanbidding.com
 *.forwardrb.bid
-*.forwhimsicottan.com
 *.forwoobatan.com
 *.forworksyconus.com
 *.foryanmachan.com
@@ -26451,8 +26281,6 @@
 *.fosterrespite.com
 *.rz.fotiveearns.com
 *.fotmrrwfgprar.fun
-*.fotoompi.com
-*.fotsaulr.net
 *.fotsbon.net
 *.fotymuo9.pro
 *.fouettbrauna.com
@@ -26508,10 +26336,8 @@
 *.fprqnp.icu
 *.fpukmwpb.top
 *.fpvtdveo.icu
-*.fpwmteuijmoil.com
 *.fpxpobaudkjzu.site
 *.fpyf8.com
-*.fpyfowtmpihq.com
 *.fqayoymigvmbw.website
 *.fqdpqpwruidrz.store
 *.fqdqndubwixwk.website
@@ -26727,7 +26553,6 @@
 *.je.frigagewardage.com
 *.tn.friggaantres.com
 *.frightened-let.pro
-*.frightened-project.com
 *.frightenedcraft.com
 *.frightenedworkout.com
 *.frightenimpoliteoverstep.com
@@ -26759,7 +26584,6 @@
 *.frizzy-bite.pro
 *.frizzy-document.pro
 *.frizzyshocked.com
-*.frjmfaqfse.com
 *.frjnnudnmborf.store
 *.frjrwixwogqjt.site
 *.frmmqfwviupoa.today
@@ -26848,7 +26672,6 @@
 *.yx.frypanhamster.shop
 *.fs-loader.com
 *.fsalfrwdr.com
-*.fsbimtflichw.net
 *.fsdfvnmf.icu
 *.fsdzafmzbdyan.store
 *.fsfibjccvgkki.site
@@ -26873,7 +26696,6 @@
 *.ft2775.com
 *.ft382x.mom
 *.ftaakgxkyag.com
-*.ftacbwmrfphxa.online
 *.ftakaxbit.com
 *.ftblltrck.com
 *.ftd.agency
@@ -27033,7 +26855,6 @@
 *.funny-dot.pro
 *.funny-pranks.com
 *.funny-quality.pro
-*.funny-shot.pro
 *.funnynudity.net
 *.funnyslender.com
 *.777.funnyy.net
@@ -27084,7 +26905,6 @@
 *.rr.fustianwaked.com
 *.fusulaptt.shop
 *.futcceabr.com
-*.futebolmania.net
 *.futilereposerefreshments.com
 *.futseerdoa.com
 *.future-future55.com
@@ -27097,12 +26917,10 @@
 *.fuvvgziqxmsrg.rocks
 *.fuwin.sbs
 *.fuxingtongyi.com
-*.fuzakumpaks.com
 *.fuzeeretells.com
 *.fuzilsstorage.cyou
 *.fuzzyconfoundsworn.com
 *.fuzzyerror.com
-*.ag.fuzzyvisuals.com
 *.fv-bpmnrzkv.vip
 *.fv882.com
 *.fvahbwnlcqvaf.site
@@ -27116,7 +26934,6 @@
 *.fvlqjw.top
 *.fvmiafwauhy.fun
 *.fvrpgjewjakqo.site
-*.fvvpekpy.com
 *.fvvyndmujhviq.store
 *.fvxemeqkmkmox.site
 *.fvziwdycvudxd.tech
@@ -27142,7 +26959,6 @@
 *.fxgrscstakhxi.space
 *.fxhdjx.com
 *.fxmnba.com
-*.fxpqgulptthg.com
 *.fxqikdwtgabho.website
 *.fxqixgyrslaqo.store
 *.fxsupzozeialv.online
@@ -27183,14 +26999,10 @@
 *.fzzc67.com
 *.g-xtqrgag.rocks
 *.g0-g3t-msg.com
-*.g0-g3t-msg.net
 *.g0-g3t-s0me.com
 *.g0-g3t-s0me.net
-*.g0-g3t-som3.com
 *.g0-g3t-som3.net
-*.g0-get-msg.net
 *.g0-get-s0me.com
-*.g0-get-s0me.net
 *.g0gr67p.de
 *.g0st.com
 *.g0uxvrhz.com
@@ -27225,7 +27037,6 @@
 *.gadslimz.com
 *.gadspms.com
 *.gadspmz.com
-*.gadssystems.com
 *.gaelwvtomjmbm.store
 *.gagebonus.com
 *.gagedependable.com
@@ -27243,7 +27054,6 @@
 *.gahyuck.com
 *.gaietydirector.com
 *.gaietyunhappy.com
-*.gaifichauy.com
 *.gaifutaishede.xyz
 *.gaimoupy.net
 *.gaindrastic.com
@@ -27254,7 +27064,6 @@
 *.gainsscarceshiny.com
 *.gaintfang.com
 *.gaiphaud.xyz
-*.gaisteem.net
 *.gaitcubicle.com
 *.jm.gaitersnippled.shop
 *.gakaoxulxuheu.store
@@ -27297,7 +27106,6 @@
 *.gamblingrootninety.com
 *.gambol.link
 *.je.gamboneresect.com
-*.gamdiadivise.life
 *.game-clicks.com
 *.game-word.com
 *.game02-com.ru
@@ -27398,7 +27206,6 @@
 *.gardeningremovalcontrary.com
 *.gardenroots.com
 *.gardens-west.com
-*.gardoult.com
 *.garehalgazel.top
 *.garettahoolee.rest
 *.gargantuan-potential.pro
@@ -27436,7 +27243,6 @@
 *.gaseous-worker.com
 *.gaseouspuggle.com
 *.gasheraire.com
-*.gasheswelders.world
 *.gasken77pro1.store
 *.gaslockrejoin.digital
 *.gasolinelocomotiveresentment.com
@@ -27557,7 +27363,6 @@
 *.gbosp.pro
 *.gbquersgilgpf.space
 *.gbrwplgcsjieu.online
-*.gbztputcfgp.com
 *.gc89.com
 *.jq.gcdfennecs.com
 *.syndication.gcdnanalytics.com
@@ -27592,7 +27397,6 @@
 *.gdrcaguddyj.space
 *.gdrttf.com
 *.gdtrbrsyziwmw.website
-*.gdxgfldzzovjr.space
 *.gdxt10.cn
 *.gdyqq.gdn
 *.gearbootflask.com
@@ -27617,13 +27421,11 @@
 *.nrjbow.geetdates.com
 *.zowman.geetdates.com
 *.geethaiw.xyz
-*.geetooshaiptooz.net
 *.gefoo.com
 *.gefqbzyzufohv.online
 *.gegenhartz.de
 *.geggeewrossle.com
 *.geghlyrecomemu.com
-*.gegneejerse.net
 *.gegori.xyz
 *.geh.jp
 *.geheimerseitensprung.com
@@ -28392,7 +28194,6 @@
 *.glogoowo.net
 *.gloochie.com
 *.gloodsie.com
-*.gloogruk.com
 *.gloohougnee.net
 *.gloomilysigning.com
 *.gloomscratch.com
@@ -31545,7 +31346,6 @@
 *.hue11.com
 *.hue2b.com
 *.hue2n.com
-*.hue4c.com
 *.hueads.com
 *.hueadsxml.com
 *.rc.hueddui.com
@@ -31720,8 +31520,7 @@
 *.huzytgmqsnecd.website
 *.huzzahwhatintently.com
 *.huzzvariac.life
-*.dciclc.hvcnmtu.top
-*.dcivlv.hvcnmtu.top
+*.hvcnmtu.top
 *.hvdzdrovccwom.site
 *.hvefnbufkpxou.website
 *.hvert.site
@@ -33663,8 +33462,7 @@
 *.ivajnwwpadtow.love
 *.ivanchinastandard.com
 *.ivangrammarfalling.com
-*.dciclc.ivcnmto.top
-*.dcivlv.ivcnmto.top
+*.ivcnmto.top
 *.ivcsmrt.com
 *.ivemjdir-g.top
 *.iviralpartners.com
@@ -34041,11 +33839,8 @@
 *.jemtaucmowhu.top
 *.jenkinkuttab.com
 *.jennduncanphoto.com
-*.max.jenny4.fun
-*.wew.jenny4.fun
-*.wmx.jenny4.fun
+*.jenny4.fun
 *.wnw.jenny4.com
-*.wow.jenny4.fun
 *.news.jennydanny.com
 *.jennyvisits.com
 *.jenoga.xyz
@@ -34148,7 +33943,6 @@
 *.jhqieljrzibnr.store
 *.jhrulp.icu
 *.jhscp.com
-*.jhsnshueyt.click
 *.jhtnyluxe.shop
 *.jhu8u9.pro
 *.jhumcozuds.com
@@ -34861,8 +34655,7 @@
 *.juxtaposetextbookcaptivate.com
 *.juywkhbpmswmq.website
 *.juzaugleed.com
-*.dciclc.jvcnmta.top
-*.dcivlv.jvcnmta.top
+*.jvcnmta.top
 *.jvebyd.com
 *.jviot.com
 *.jvlrcbfxijxgk.store
@@ -35165,7 +34958,8 @@
 *.kcjkoxgldo.cyou
 *.kcjmivforjixu.online
 *.kcmstredk.com
-*.kcolb.site
+*.js.kcolb.site
+*.mngr.kcolb.site
 *.kcqbrwygxixdh.site
 *.dciclc.kctnodd.top
 *.kcxljicqwzjfd.space
@@ -35989,8 +35783,7 @@
 *.kvaaa.com
 *.kvarcureeny.com
 *.kvbojuxkwvcfk.global
-*.dciclc.kvcnmtd.top
-*.dcivlv.kvcnmtd.top
+*.kvcnmtd.top
 *.kvcon.de
 *.kvdnetmzqvwxw.store
 *.kvdqzsytlcxuf.space
@@ -36456,8 +36249,7 @@
 *.lclocation.com
 *.lcnmoccchdoij.vip
 *.lcskincarecenter.com
-*.dciclc.lctnodl.top
-*.dcivlv.lctnodl.top
+*.lctnodl.top
 *.lcuaerlknisgy.space
 *.lcugatnuhfpo.com
 *.lcwfab1.com
@@ -37667,7 +37459,6 @@
 *.loobochoun.com
 *.loobyfleyed.com
 *.loocor.com
-*.loodauni.com
 *.loofahsinchain.top
 *.looglakaimoo.net
 *.loohaiturigavik.net
@@ -38857,7 +38648,6 @@
 *.manualpayback.com
 *.manualpeasantconnoisseur.com
 *.manufacturerscenery.com
-*.manureinforms.com
 *.manurepatronageitalian.com
 *.manurepungentfew.com
 *.manuscriptfelt.com
@@ -40851,8 +40641,6 @@
 *.moussesumacs.website
 *.moustachemailboxdesirable.com
 *.moustacheoverloadwar.com
-*.moustachepoke.com
-*.mouthdistance.bond
 *.mouthinvincibleexpecting.com
 *.vf.mouthschena.com
 *.mouzahbifilar.shop
@@ -41837,7 +41625,6 @@
 *.ndtvbcxhvmtde.site
 *.ndvqhobnheivh.club
 *.ndwsqexojpuka.online
-*.ndymehnthakuty.com
 *.neads.delivery
 *.near-guide.pro
 *.near-heat.com
@@ -42000,7 +41787,6 @@
 *.nessainy.net
 *.nestledmph.com
 *.nestleintogether.com
-*.nestlelento.shop
 *.nestnose.com
 *.kb.nestorssplunt.com
 *.cart.net.cn
@@ -43381,8 +43167,7 @@
 *.gb.octavechicles.com
 *.octaviantraprelease.com
 *.octinvemb.com
-*.dciclc.octnodk.top
-*.dcivlv.octnodk.top
+*.octnodk.top
 *.octo25.me
 *.octoads.shop
 *.octoberads.space
@@ -43930,7 +43715,6 @@
 *.onclicksuper.com
 *.onclicktop.com
 *.onclink.org
-*.onclkds.com
 *.onclklnd.com
 *.oncominggaragegravely.com
 *.ondatradrink.com
@@ -44499,7 +44283,6 @@
 *.osqcipmkeji.com
 *.osrfihqucg.com
 *.gy.osseaiowt.top
-*.ossfloetteor.com
 *.ossgogoaton.com
 *.osshydreigonan.com
 *.ossiclebuccin.shop
@@ -48700,8 +48483,7 @@
 *.qcnragymlulzk.website
 *.qcqfkzglgynfr.site
 *.qcqobpxpeeiwh.store
-*.dciclc.qctnody.top
-*.dcivlv.qctnody.top
+*.qctnody.top
 *.qcuoyo.icu
 *.qcuwpicccoscr.online
 *.qcwnfoqtqgvau.icu
@@ -52331,8 +52113,7 @@
 *.scrupulousyet.com
 *.scrutinizeordealscrutinize.com
 *.sctaylor.com
-*.dciclc.sctnodb.top
-*.dcivlv.sctnodb.top
+*.sctnodb.top
 *.scubaenterdane.com
 *.scuffleputrefy.com
 *.ld.scuftockster.com
@@ -53077,9 +52858,7 @@
 *.shemalesofhentai.com
 *.eo.shemdipolar.shop
 *.shempaurdou.net
-*.bnrs.shemrec.cc
-*.proll.shemrec.cc
-*.pundr.shemrec.cc
+*.shemrec.cc
 *.shenbingask.com
 *.shengfleming.com
 *.shengheimin.com
@@ -53217,7 +52996,6 @@
 *.shookahi.xyz
 *.shoolrautch.net
 *.shooltuca.net
-*.shoopusahealth.com
 *.shoordaird.com
 *.shooterconsultationcart.com
 *.shooterlearned.com
@@ -53383,7 +53161,6 @@
 *.sievealiasbailed.com
 *.sievepalmful.com
 *.sifcbavqjaxbn.website
-*.sifenews.com
 *.sifflettreetop.com
 *.sigao.cn
 *.sigcutlash.help
@@ -55502,7 +55279,6 @@
 *.stoopsellers.com
 *.ps.stooreywauns.com
 *.stoorgel.com
-*.stoorgouzoy.com
 *.stootsou.net
 *.stoowipicke.com
 *.stop-adblocker.info
@@ -55692,7 +55468,6 @@
 *.stsejehaurbpx.site
 *.kgo.stske.net
 *.stst.store
-*.stt6.cfd
 *.stthykerewasn.com
 *.stubboyfatuus.shop
 *.studads.com
@@ -56913,8 +56688,7 @@
 *.tcrtidleivyai.space
 *.tcskitchensandcatering.xyz
 *.tcsmgstagingserver.com
-*.dciclc.tctnodi.top
-*.dcivlv.tctnodi.top
+*.tctnodi.top
 *.tctrbtdxbscuw.site
 *.tcudrocivr.com
 *.tcvlrtqsfqkbo.store
@@ -57035,7 +56809,6 @@
 *.tegminacissing.world
 *.teiaoz.xyz
 *.teicdn.com
-*.tejoafotocmal.com
 *.tekflight.ai
 *.tekhacks.net
 *.teknologia.co
@@ -57276,7 +57049,6 @@
 *.thaigapousty.net
 *.thaipurgoowha.com
 *.thairmamzel.help
-*.thairoob.com
 *.thaistopiuufishing.com
 *.oc.thalerboer.com
 *.thalroolre.com
@@ -59563,8 +59335,7 @@
 *.uckiaaoul.rest
 *.ucouxoudroopt.com
 *.ucpfezjbcrmwh.space
-*.dciclc.uctnodt.top
-*.dcivlv.uctnodt.top
+*.uctnodt.top
 *.ucuhyu.com
 *.ucuoknexq.global
 *.ucwkvipzetzxc.space
@@ -61731,9 +61502,7 @@
 *.vipmilan69.com
 *.viporalsurgery.com
 *.vipriver28.net
-*.cw32brt.vipspotflirts.life
-*.gwqpmrg.vipspotflirts.life
-*.k8cpmrdll.vipspotflirts.life
+*.vipspotflirts.life
 *.vipvs.com
 *.vipwealthmanagement.net
 *.vipwomans-zone.org
@@ -62601,8 +62370,7 @@
 *.wcpgtxpzhpdgy.website
 *.wcpmoh.com
 *.wct.link
-*.dciclc.wctnode.top
-*.dcivlv.wctnode.top
+*.wctnode.top
 *.wcuggkuxfgutu.today
 *.wcuxkyjwndqxj.top
 *.wcvevntrztrdi.site
@@ -63757,7 +63525,6 @@
 *.bjl.worldprintech.com
 *.worldsbestpills.com
 *.vh.worldstarries.com
-*.worldtimes2.xyz
 *.worldtraffic.trade
 *.worldwidecoherenutty.com
 *.worldyarable.cyou
@@ -63908,7 +63675,6 @@
 *.wristseeingscald.com
 *.write-for-me.com
 *.writeaffectionately.com
-*.writeestatal.space
 *.writehopedcrashed.com
 *.writhehawm.com
 *.writhenwends.com
@@ -64306,9 +64072,7 @@
 *.xgiiioziwwayu.store
 *.xgks.com
 *.xgolyqyfjuuwn.online
-*.1048877cc998.xgoxwcldkz.top
-*.680ad07504ce.xgoxwcldkz.top
-*.f971bc9f9ae8.xgoxwcldkz.top
+*.xgoxwcldkz.top
 *.xgozhrjmwwgxf.site
 *.xgraph.net
 *.xgsxkzscxapvj.online
@@ -65406,7 +65170,8 @@
 *.yueyinglighting.com
 *.yugjwgg.top
 *.yuhuads.com
-*.yuhuan.cc
+*.59557com.yuhuan.cc
+*.wwwtk1976com.yuhuan.cc
 *.yuiiy.com
 *.yuintbradshed.com
 *.mv.yuitvr.com
@@ -66204,8 +65969,7 @@
 *.zxfqtqmtlldld.world
 *.zxgjrlpmaqyek.website
 *.zxinihfgkdpfb.space
-*.2774c5d7b48b.zxmenhmo.top
-*.bb6b7391a692.zxmenhmo.top
+*.zxmenhmo.top
 *.zxnmbtdwlyafw.website
 *.zxnymrendoxms.space
 *.zxttvkshqbded.space

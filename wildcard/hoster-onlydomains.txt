@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Nov 2025 09:58 UTC
-# Version: 2025.1102.0958.52
+# Last modified: 02 Nov 2025 17:56 UTC
+# Version: 2025.1102.1756.55
 # Syntax: Domains (without subdomains)
-# Number of entries: 1365
+# Number of entries: 1339
 #
 000a.de
 000space.com
@@ -464,8 +464,6 @@ d3l.de
 da.cx
 da.ru
 daftpage.com
-daisysfashions.shop
-darayibuy.shop
 datechurch.shop
 datesize.top
 datingpm.club
@@ -481,27 +479,18 @@ de.mg
 de.pl
 de-2.de
 de-info.de
-deandryesclothing.shop
 design.tl
 designcarthosting.com
-dfashionboutique.shop
-diana-fashion.shop
 dietmark.shop
 digitalzones.com
 dimsolo.com
-dinaellen.shop
 dinamikajambi.com
-dmodaboutique1.shop
 dnip.net
 doctorfew.top
-dolebropro.shop
 domain.lc
 members.domaindlx.com
-domepaosell.shop
 doodlekit.com
-dorabiamarketing.shop
 dot.tk
-doteyoueshop.shop
 download.ac
 download.sh
 downloaden24.de
@@ -513,7 +502,6 @@ dreht-auf.de
 drugpoint.shop
 dtiblog.com
 duanwenzi.cn
-duchessandthedude.shop
 dvd.lc
 e.gp
 e-docssig.com
@@ -521,7 +509,6 @@ e-kei.pl
 e-monsite.com
 easyfreehosting.com
 eb2a.com
-ebeesboutique.shop
 ebuykind.shop
 ec.gp
 ecardalert.com
@@ -538,10 +525,7 @@ eg.gp
 ehaitao.com
 eklablog.com
 eklablog.fr
-elegantrosebridal.shop
 elementfx.com
-elizabethsfashion.shop
-emmasbowtique.shop
 emyspot.com
 energycd.shop
 english.lc
@@ -557,7 +541,6 @@ es-bbvacliente-movil.com
 es-caixamovil-clientes.com
 esel.in
 eshop-ya.life
-esthersresaleshop.shop
 eu.cm
 eu.cr
 eu.gg
@@ -582,26 +565,20 @@ ez-sites.ws
 ezblogz.com
 ezyro.com
 f11.us
-faithflairboutique.shop
 familylobby.com
-fancyjsboutique.shop
-fannielenterprises.shop
 fast-page.org
 fat-fly.com
 fb-business.com
 fcpages.com
-fe-boutique.shop
 ferreracademy.com
 fileave.com
 filme.lc
 financecryptoworld.com
-finassalonboutique.shop
 findarea.shop
 finlandway.shop
 firearms.com
 firm.nu
 fishmeet.shop
-fitegirlsboutique.shop
 fitnell.com
 flashbuilder.net
 flazio.com
@@ -663,9 +640,6 @@ fun.pe
 fun5.de
 fw.bz
 fw.hu
-gabstinaboutique.shop
-gakken.shop
-gamblerschoiceclothing.shop
 game.lc
 gaming.lc
 gamingadd.club

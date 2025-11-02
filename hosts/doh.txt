@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Nov 2025 10:39 UTC
-# Version: 2025.1102.1039.46
+# Last modified: 02 Nov 2025 18:36 UTC
+# Version: 2025.1102.1836.35
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3875
+# Number of entries: 3867
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -1291,7 +1291,6 @@
 0.0.0.0 ns1.dotls.org
 0.0.0.0 dns.dotnet.win
 0.0.0.0 family.dns.doubleangels.com
-0.0.0.0 agh.doubleatech.site
 0.0.0.0 douglaster.com
 0.0.0.0 dotserver.douyucdn.cn
 0.0.0.0 dns35.allone.dpdns.org
@@ -1323,7 +1322,6 @@
 0.0.0.0 dns.dremaxx.de
 0.0.0.0 droyd.top
 0.0.0.0 dns.druta.me
-0.0.0.0 doh.dscloud.me
 0.0.0.0 agh.dshubham.xyz
 0.0.0.0 adguard.dsns.cloud
 0.0.0.0 adguard2.dsns.cloud
@@ -1335,7 +1333,6 @@
 0.0.0.0 adgrm.duckdns.org
 0.0.0.0 adguardpi.duckdns.org
 0.0.0.0 aduma15.duckdns.org
-0.0.0.0 andryk111.duckdns.org
 0.0.0.0 armm.duckdns.org
 0.0.0.0 blamb.duckdns.org
 0.0.0.0 cdzopi.duckdns.org
@@ -1362,8 +1359,6 @@
 0.0.0.0 site-3.duckdns.org
 0.0.0.0 tuandns.duckdns.org
 0.0.0.0 tungdnsne.duckdns.org
-0.0.0.0 unixfox.duckdns.org
-0.0.0.0 vpich.duckdns.org
 0.0.0.0 wired-guardian.duckdns.org
 0.0.0.0 wisehomeguard.duckdns.org
 0.0.0.0 workcavestl.duckdns.org
@@ -1430,7 +1425,6 @@
 0.0.0.0 hk.end.pub
 0.0.0.0 adguard.ender.fr
 0.0.0.0 dns.enderblocks.net
-0.0.0.0 dns.energized.pro
 0.0.0.0 dns.engineer-lib.ru
 0.0.0.0 dnssec.dns.enginyring.com
 0.0.0.0 dns01.enginyring.com
@@ -1541,7 +1535,6 @@
 0.0.0.0 doh.ffmuc.net
 0.0.0.0 dot.ffmuc.net
 0.0.0.0 dns.ffnw.de
-0.0.0.0 dns.fgbk.net
 0.0.0.0 fidelius.top
 0.0.0.0 dns.fifux.be
 0.0.0.0 dns.filipccz.eu
@@ -1597,8 +1590,6 @@
 0.0.0.0 songochain.freeddns.org
 0.0.0.0 studioai.freeddns.org
 0.0.0.0 dns.freemyemail.com
-0.0.0.0 srgaghome.freemyip.com
-0.0.0.0 www.srgaghome.freemyip.com
 0.0.0.0 walhalla.freemyip.com
 0.0.0.0 wg-aghome.freemyip.com
 0.0.0.0 www.wg-aghome.freemyip.com
@@ -2089,6 +2080,7 @@
 0.0.0.0 adguard.johnnypatras.org
 0.0.0.0 child.joindns4.eu
 0.0.0.0 child-noads.joindns4.eu
+0.0.0.0 dns.joindns4.in
 0.0.0.0 noads.joindns4.eu
 0.0.0.0 protective.joindns4.eu
 0.0.0.0 unfiltered.joindns4.eu

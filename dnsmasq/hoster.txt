@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Nov 2025 09:58 UTC
-# Version: 2025.1102.0958.52
+# Last modified: 02 Nov 2025 17:56 UTC
+# Version: 2025.1102.1756.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1365
+# Number of entries: 1339
 #
 local=/000a.de/
 local=/000space.com/
@@ -464,8 +464,6 @@ local=/d3l.de/
 local=/da.cx/
 local=/da.ru/
 local=/daftpage.com/
-local=/daisysfashions.shop/
-local=/darayibuy.shop/
 local=/datechurch.shop/
 local=/datesize.top/
 local=/datingpm.club/
@@ -481,27 +479,18 @@ local=/de.mg/
 local=/de.pl/
 local=/de-2.de/
 local=/de-info.de/
-local=/deandryesclothing.shop/
 local=/design.tl/
 local=/designcarthosting.com/
-local=/dfashionboutique.shop/
-local=/diana-fashion.shop/
 local=/dietmark.shop/
 local=/digitalzones.com/
 local=/dimsolo.com/
-local=/dinaellen.shop/
 local=/dinamikajambi.com/
-local=/dmodaboutique1.shop/
 local=/dnip.net/
 local=/doctorfew.top/
-local=/dolebropro.shop/
 local=/domain.lc/
 local=/members.domaindlx.com/
-local=/domepaosell.shop/
 local=/doodlekit.com/
-local=/dorabiamarketing.shop/
 local=/dot.tk/
-local=/doteyoueshop.shop/
 local=/download.ac/
 local=/download.sh/
 local=/downloaden24.de/
@@ -513,7 +502,6 @@ local=/dreht-auf.de/
 local=/drugpoint.shop/
 local=/dtiblog.com/
 local=/duanwenzi.cn/
-local=/duchessandthedude.shop/
 local=/dvd.lc/
 local=/e.gp/
 local=/e-docssig.com/
@@ -521,7 +509,6 @@ local=/e-kei.pl/
 local=/e-monsite.com/
 local=/easyfreehosting.com/
 local=/eb2a.com/
-local=/ebeesboutique.shop/
 local=/ebuykind.shop/
 local=/ec.gp/
 local=/ecardalert.com/
@@ -538,10 +525,7 @@ local=/eg.gp/
 local=/ehaitao.com/
 local=/eklablog.com/
 local=/eklablog.fr/
-local=/elegantrosebridal.shop/
 local=/elementfx.com/
-local=/elizabethsfashion.shop/
-local=/emmasbowtique.shop/
 local=/emyspot.com/
 local=/energycd.shop/
 local=/english.lc/
@@ -557,7 +541,6 @@ local=/es-bbvacliente-movil.com/
 local=/es-caixamovil-clientes.com/
 local=/esel.in/
 local=/eshop-ya.life/
-local=/esthersresaleshop.shop/
 local=/eu.cm/
 local=/eu.cr/
 local=/eu.gg/
@@ -582,26 +565,20 @@ local=/ez-sites.ws/
 local=/ezblogz.com/
 local=/ezyro.com/
 local=/f11.us/
-local=/faithflairboutique.shop/
 local=/familylobby.com/
-local=/fancyjsboutique.shop/
-local=/fannielenterprises.shop/
 local=/fast-page.org/
 local=/fat-fly.com/
 local=/fb-business.com/
 local=/fcpages.com/
-local=/fe-boutique.shop/
 local=/ferreracademy.com/
 local=/fileave.com/
 local=/filme.lc/
 local=/financecryptoworld.com/
-local=/finassalonboutique.shop/
 local=/findarea.shop/
 local=/finlandway.shop/
 local=/firearms.com/
 local=/firm.nu/
 local=/fishmeet.shop/
-local=/fitegirlsboutique.shop/
 local=/fitnell.com/
 local=/flashbuilder.net/
 local=/flazio.com/
@@ -663,9 +640,6 @@ local=/fun.pe/
 local=/fun5.de/
 local=/fw.bz/
 local=/fw.hu/
-local=/gabstinaboutique.shop/
-local=/gakken.shop/
-local=/gamblerschoiceclothing.shop/
 local=/game.lc/
 local=/gaming.lc/
 local=/gamingadd.club/

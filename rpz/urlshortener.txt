@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762075800 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762104540 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Nov 2025 09:30 UTC
-; Version: 2025.1102.0930.39
+; Last modified: 02 Nov 2025 17:29 UTC
+; Version: 2025.1102.1729.16
 ; Syntax: RPZ
-; Number of entries: 17822
+; Number of entries: 17818
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1329,6 +1329,8 @@ ja.cat CNAME .
 *.ja.cat CNAME .
 monster.cat CNAME .
 *.monster.cat CNAME .
+scur.cat CNAME .
+*.scur.cat CNAME .
 sho.cat CNAME .
 *.sho.cat CNAME .
 small.cat CNAME .
@@ -3579,8 +3581,6 @@ decenturl.com CNAME .
 *.decenturl.com CNAME .
 s.deemos.com CNAME .
 *.s.deemos.com CNAME .
-defigodirect.com CNAME .
-*.defigodirect.com CNAME .
 delivr.com CNAME .
 *.delivr.com CNAME .
 demcon24.com CNAME .
@@ -10805,8 +10805,6 @@ cry-pto.life CNAME .
 *.cry-pto.life CNAME .
 cuoinamdiedm.life CNAME .
 *.cuoinamdiedm.life CNAME .
-disanspam.life CNAME .
-*.disanspam.life CNAME .
 dr-lisa.life CNAME .
 *.dr-lisa.life CNAME .
 dreamshigh.life CNAME .
@@ -16787,8 +16785,6 @@ cmy.tw CNAME .
 *.cmy.tw CNAME .
 ctbc.tw CNAME .
 *.ctbc.tw CNAME .
-datenami.tw CNAME .
-*.datenami.tw CNAME .
 dna360.tw CNAME .
 *.dna360.tw CNAME .
 go.edh.tw CNAME .

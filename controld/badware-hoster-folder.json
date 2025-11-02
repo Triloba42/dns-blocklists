@@ -3102,20 +3102,6 @@
       }
     },
     {
-      "PK": "daisysfashions.shop",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "darayibuy.shop",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "datechurch.shop",
       "action": {
         "do": 0,
@@ -3228,13 +3214,6 @@
       }
     },
     {
-      "PK": "deandryesclothing.shop",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "design.tl",
       "action": {
         "do": 0,
@@ -3243,20 +3222,6 @@
     },
     {
       "PK": "designcarthosting.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "dfashionboutique.shop",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "diana-fashion.shop",
       "action": {
         "do": 0,
         "status": 1
@@ -3284,21 +3249,7 @@
       }
     },
     {
-      "PK": "dinaellen.shop",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "dinamikajambi.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "dmodaboutique1.shop",
       "action": {
         "do": 0,
         "status": 1
@@ -3319,21 +3270,7 @@
       }
     },
     {
-      "PK": "dolebropro.shop",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "domain.lc",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "domepaosell.shop",
       "action": {
         "do": 0,
         "status": 1
@@ -3347,21 +3284,7 @@
       }
     },
     {
-      "PK": "dorabiamarketing.shop",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "dot.tk",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "doteyoueshop.shop",
       "action": {
         "do": 0,
         "status": 1
@@ -3452,13 +3375,6 @@
       }
     },
     {
-      "PK": "duchessandthedude.shop",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "dvd.lc",
       "action": {
         "do": 0,
@@ -3502,13 +3418,6 @@
     },
     {
       "PK": "eb2a.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ebeesboutique.shop",
       "action": {
         "do": 0,
         "status": 1
@@ -3627,28 +3536,7 @@
       }
     },
     {
-      "PK": "elegantrosebridal.shop",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "elementfx.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "elizabethsfashion.shop",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "emmasbowtique.shop",
       "action": {
         "do": 0,
         "status": 1
@@ -3754,13 +3642,6 @@
     },
     {
       "PK": "eshop-ya.life",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "esthersresaleshop.shop",
       "action": {
         "do": 0,
         "status": 1
@@ -3942,28 +3823,7 @@
       }
     },
     {
-      "PK": "faithflairboutique.shop",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "familylobby.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "fancyjsboutique.shop",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "fannielenterprises.shop",
       "action": {
         "do": 0,
         "status": 1
@@ -3998,13 +3858,6 @@
       }
     },
     {
-      "PK": "fe-boutique.shop",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "ferreracademy.com",
       "action": {
         "do": 0,
@@ -4027,13 +3880,6 @@
     },
     {
       "PK": "financecryptoworld.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "finassalonboutique.shop",
       "action": {
         "do": 0,
         "status": 1
@@ -4069,13 +3915,6 @@
     },
     {
       "PK": "fishmeet.shop",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "fitegirlsboutique.shop",
       "action": {
         "do": 0,
         "status": 1
@@ -4510,27 +4349,6 @@
     },
     {
       "PK": "fw.hu",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "gabstinaboutique.shop",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "gakken.shop",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "gamblerschoiceclothing.shop",
       "action": {
         "do": 0,
         "status": 1
