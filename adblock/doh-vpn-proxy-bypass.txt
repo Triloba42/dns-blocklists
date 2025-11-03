@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 03 Nov 2025 10:37 UTC
-! Version: 2025.1103.1037.28
+! Last modified: 03 Nov 2025 18:35 UTC
+! Version: 2025.1103.1835.36
 ! Syntax: AdBlock
-! Number of entries: 6119
+! Number of entries: 6102
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -3888,7 +3888,6 @@
 ||orangeproxy.net^
 ||proxy.ordentlichbreit.de^
 ||historyofutopia.orekhov.space^
-||learning.orestpena.com^
 ||noads.api.org.pl^
 ||resolver.dnsprivacy.org.uk^
 ||teslacoils.org.uk^
@@ -4036,7 +4035,6 @@
 ||draco.plan9-ns2.com^
 ||door.plasmadancer.ru^
 ||play5r.com^
-||playproxy.com^
 ||secure-dns.pleumkungz.com^
 ||thanos.pleumkungz.com^
 ||gaia.plonknet.com^
@@ -4045,7 +4043,6 @@
 ||dns.ploshadi.ru^
 ||privacy.plumedns.com^
 ||pluralsight.gq^
-||plushub.pro^
 ||pm1239-bd.xyz^
 ||pm7051-br.xyz^
 ||pm9352-bd.xyz^
@@ -4069,7 +4066,6 @@
 ||polisitogel.show^
 ||polisitogel.webcam^
 ||vps.poly-tank.jp^
-||doh.port53.dk^
 ||portalssh.com^
 ||dns.porteii.com^
 ||dns2.porteii.com^
@@ -4127,14 +4123,6 @@
 ||printruns.us^
 ||printtools.us^
 ||privacy.io^
-||hungary.privacy-dns.pw^
-||india.privacy-dns.pw^
-||las-vegas.privacy-dns.pw^
-||luxembourg.privacy-dns.pw^
-||romania.privacy-dns.pw^
-||sweden.privacy-dns.pw^
-||switzerland.privacy-dns.pw^
-||united-arab-emirates.privacy-dns.pw^
 ||privacyprotector.eu^
 ||privado.io^
 ||dns.privado.ovh^
@@ -4285,7 +4273,6 @@
 ||proxyium.org^
 ||proxyiumi.com^
 ||proxyjet.io^
-||proxylib.com^
 ||proxylister.com^
 ||proxylistpro.com^
 ||proxylists.org^
@@ -4360,7 +4347,6 @@
 ||purevpn.fr^
 ||purevpn-tools.com^
 ||adguard.pushedv.de^
-||pushokey.com^
 ||pushvpn.com^
 ||owa.pvmedia.ru^
 ||pxaa.com^
@@ -4417,7 +4403,6 @@
 ||frog.dns.qwer.pw^
 ||lion.dns.qwer.pw^
 ||tiger.dns.qwer.pw^
-||mahiro-9.1project.r-o-o-t.net^
 ||home.r01.fr^
 ||resolver.r0cket.net^
 ||r1bnc.com^
@@ -4617,7 +4602,6 @@
 ||defsnldns01.sc-hosting.info^
 ||ns1.sc-lezhi.com^
 ||us.sc92.cn^
-||dns.scapetical.com^
 ||dns.scarx.net^
 ||dns.scayn.com^
 ||filter.das.sch.id^
@@ -4644,7 +4628,6 @@
 ||sdvizhkov.ru^
 ||se3v5tjfff3aet.me^
 ||adguard.sealyserver.com^
-||seanfat.club^
 ||dns.seaotter.cc^
 ||proxy.searchfiles.de^
 ||searchproxy.info^

@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 03 Nov 2025 10:15 UTC
-! Version: 2025.1103.1015.35
+! Last modified: 03 Nov 2025 17:28 UTC
+! Version: 2025.1103.1728.28
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -865,6 +865,7 @@
 @@||bamaccoin.com^
 @@||bamerus.top^
 @@||banaccroblox.com^
+@@||bankua.xyz^
 @@||bannercho.com^
 @@||baoyung.com^
 @@||baratun.de^
@@ -1921,7 +1922,6 @@
 @@||dcri.io^
 @@||dcshru.ru^
 @@||dd.ma^
-@@||ddls.to^
 @@||ddot.to^
 @@||ddw.nu^
 @@||dealc.me^
@@ -5020,7 +5020,6 @@
 @@||onforb.es^
 @@||onion.com^
 @@||only.li^
-@@||only-fans.click^
 @@||onlyads.space^
 @@||onlyfansclub.live^
 @@||onmeto.net^
@@ -5288,7 +5287,6 @@
 @@||pke.to^
 @@||pkg.pw^
 @@||pkv.li^
-@@||pkvg.link^
 @@||plabtainment.com^
 @@||placesunknown.art^
 @@||pladollmo.com^
@@ -5973,7 +5971,6 @@
 @@||scbet88vvip.org^
 @@||scbetgacorr.org^
 @@||scd.tips^
-@@||kutt.schantli.cloud^
 @@||sched.co^
 @@||schellenberg.ca^
 @@||scholarlyus.com^
@@ -6010,7 +6007,6 @@
 @@||sdwone.us^
 @@||se1.me^
 @@||seagate.media^
-@@||sealed.in^
 @@||seamlessqrcode.com^
 @@||searchtheearth.com^
 @@||searl.co^

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762164900 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762190880 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Nov 2025 10:15 UTC
-; Version: 2025.1103.1015.35
+; Last modified: 03 Nov 2025 17:28 UTC
+; Version: 2025.1103.1728.28
 ; Syntax: RPZ
-; Number of entries: 18052
+; Number of entries: 18044
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1819,8 +1819,6 @@ myown.click CNAME .
 *.myown.click CNAME .
 nord.click CNAME .
 *.nord.click CNAME .
-only-fans.click CNAME .
-*.only-fans.click CNAME .
 paksa.click CNAME .
 *.paksa.click CNAME .
 pinball.click CNAME .
@@ -1885,8 +1883,6 @@ lukes.cloud CNAME .
 *.lukes.cloud CNAME .
 go.popoway.cloud CNAME .
 *.go.popoway.cloud CNAME .
-kutt.schantli.cloud CNAME .
-*.kutt.schantli.cloud CNAME .
 teraboxl.cloud CNAME .
 *.teraboxl.cloud CNAME .
 17mimei.club CNAME .
@@ -8929,8 +8925,6 @@ scts.in CNAME .
 *.scts.in CNAME .
 sd7.in CNAME .
 *.sd7.in CNAME .
-sealed.in CNAME .
-*.sealed.in CNAME .
 senc.in CNAME .
 *.senc.in CNAME .
 shlink.in CNAME .
@@ -11541,8 +11535,6 @@ pino.link CNAME .
 *.pino.link CNAME .
 pixel.link CNAME .
 *.pixel.link CNAME .
-pkvg.link CNAME .
-*.pkvg.link CNAME .
 premex.link CNAME .
 *.premex.link CNAME .
 pressthis.link CNAME .
@@ -16513,8 +16505,6 @@ d.to CNAME .
 *.d.to CNAME .
 daftar.to CNAME .
 *.daftar.to CNAME .
-ddls.to CNAME .
-*.ddls.to CNAME .
 ddot.to CNAME .
 *.ddot.to CNAME .
 dell.to CNAME .
@@ -17887,6 +17877,8 @@ answ.xyz CNAME .
 *.answ.xyz CNAME .
 axonn.xyz CNAME .
 *.axonn.xyz CNAME .
+bankua.xyz CNAME .
+*.bankua.xyz CNAME .
 becakrcg.xyz CNAME .
 *.becakrcg.xyz CNAME .
 bemygirlplease.xyz CNAME .

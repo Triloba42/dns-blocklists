@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 03 Nov 2025 09:26 UTC
-! Version: 2025.1103.0926.50
+! Last modified: 03 Nov 2025 17:26 UTC
+! Version: 2025.1103.1726.45
 ! Syntax: AdBlock
-! Number of entries: 13966
+! Number of entries: 13918
 !
 ||01broker.com^
 ||01crypto.com^
@@ -9252,7 +9252,6 @@
 ||oopoie.shop^
 ||opabitcoin.com^
 ||opcte.com^
-||openai-trips-reserve.com^
 ||openmedicine-online.com^
 ||openuplife.com^
 ||operar.xyz^
@@ -9274,7 +9273,6 @@
 ||optionbanking.com^
 ||optionbinaireamf.com^
 ||optionet.com^
-||optionside.com^
 ||optionsmarter.com^
 ||optionsxo.com^
 ||optiplacements.com^
@@ -9467,7 +9465,6 @@
 ||palladiumsuomishop.com^
 ||palletssale.com^
 ||palmarkt.de^
-||pamelajaffey.shop^
 ||pamphlety.com^
 ||pamura.com^
 ||panamajack-france.fr^
@@ -9532,7 +9529,6 @@
 ||patrisor.com^
 ||paulinasinger.com^
 ||pavan.top^
-||pavelaholz.com^
 ||pavlik24.at^
 ||pavolpangrac.shop^
 ||pawheartmission.com^
@@ -9594,7 +9590,6 @@
 ||perfect-booty.de^
 ||perfectsalah.nl^
 ||perfecttoolshop.com^
-||perfumeowner.com^
 ||perfumestylish.com^
 ||perfumology.shop^
 ||pergolarabatt.com^
@@ -9683,7 +9678,6 @@
 ||pictureoutdooor.com^
 ||pierone-de.com^
 ||pieroneverkauf.com^
-||pieronistore.com^
 ||pierrebuy.com^
 ||pierrecardindeutschland.de^
 ||pilemeds.com^
@@ -9705,7 +9699,6 @@
 ||pinkkola.com^
 ||pinkofcloud.com^
 ||pinkowien.at^
-||pinkpalmpuff-deutschland.de^
 ||pintaro.de^
 ||pipz.xyz^
 ||piragroup.com^
@@ -9735,7 +9728,6 @@
 ||plantshopp.de^
 ||plantsmartkit.com^
 ||planttshop.com^
-||planttshop.de^
 ||plasice.xyz^
 ||plasmarkt.com^
 ||plasticsdaily.com^
@@ -9767,7 +9759,6 @@
 ||pleaserssuomi.com^
 ||pleasersuomi.com^
 ||plexiglass.nl^
-||trade.plf-tchb.com^
 ||pliken.com^
 ||platform.pltf-tchg.io^
 ||pluralsilk.com^
@@ -9793,7 +9784,6 @@
 ||pokestores.com^
 ||pokezonetcg.com^
 ||pokkia.com^
-||polaramarket.de^
 ||polarbtc.com^
 ||polenboeller-deutschland.com^
 ||polene.at^
@@ -9850,11 +9840,9 @@
 ||lp.potenzmittel.gratis^
 ||potenzmittel-1.com^
 ||potenzmittel-apotheke.biz^
-||potenzmittel-apotheke.eu^
 ||potenzmittel-kaufen-deutschland.com^
 ||potenzmittelapotheke24at.com^
 ||potenzmittelonlinekaufen.org^
-||potenzpillenschweiz.com^
 ||potfit.shop^
 ||potsdampal.de^
 ||pottery-classes.org^
@@ -9873,7 +9861,6 @@
 ||pranaclothingcanada.com^
 ||pranakleidung.com^
 ||prashanti-baumarkt.com^
-||praxis-natuerlichgesund.de^
 ||prdictorehad.com^
 ||precidion.com^
 ||precioustreasuresdeutschland.com^
@@ -9900,7 +9887,6 @@
 ||premiumpricepills24hr.com^
 ||premiumvip-spot.com^
 ||premiumyields1.com^
-||prenrt.com^
 ||prescribet.com^
 ||presentlyk.com^
 ||presentpanda.de^
@@ -9915,7 +9901,6 @@
 ||prettystarme.com^
 ||prevailk.com^
 ||prevalentw.com^
-||previdialkredit.com^
 ||priceslash.shop^
 ||primada.de^
 ||primaprofi-reinigung.at^
@@ -9923,7 +9908,6 @@
 ||prime-analytics.de^
 ||prime-deutschland.com^
 ||prime-e-bike.eu^
-||prime-moda.com^
 ||prime-smog.com^
 ||primecapitals.de^
 ||primecargotransit.com^
@@ -9942,7 +9926,6 @@
 ||printerellaeu.shop^
 ||printokindia.com^
 ||printyourgesicht24.de^
-||prioligroup.com^
 ||priseria.com^
 ||privaag.com^
 ||privanaeu.shop^
@@ -9957,7 +9940,6 @@
 ||pro-radler.de^
 ||pro-talentsycner.online^
 ||proactiveping.com^
-||probikeclothes.com^
 ||probutton-tech.de^
 ||procedenciapecas.com^
 ||procknationdashcam.com^
@@ -9971,7 +9953,6 @@
 ||produtosachados.digital^
 ||profibikes.de^
 ||proficienct.com^
-||profit-bee.org^
 ||profititerra.co^
 ||profitmarket.org^
 ||profitphantom.org^
@@ -10107,8 +10088,6 @@
 ||quantwise.ai^
 ||quarmart.com^
 ||quartersoap.com^
-||quartier-berlin.de^
-||quartier97.shop^
 ||quatclub.com^
 ||quaygreece.net^
 ||quayocchiali.it^
@@ -10161,7 +10140,6 @@
 ||raceoption.com^
 ||rachelentwistle-store.com^
 ||racinghelmetde.com^
-||radbegeisterung.de^
 ||radbekleidung4u.com^
 ||radfahrzeit.com^
 ||radiadoresadicionales.com^
@@ -10223,8 +10201,6 @@
 ||raumdeko-supply.com^
 ||raumzauberde.com^
 ||rauschde.site^
-||rauwolf-tech.de^
-||ravella-dortmund.de^
 ||rawu.ink^
 ||raybansales.us^
 ||raybanslovensko.sk^
@@ -10296,9 +10272,7 @@
 ||regionales-heizoel.de^
 ||registerk.com^
 ||registrykissen.com^
-||regonius.net^
 ||regosunglasses.com^
-||regtek-kauf.de^
 ||rehaubrandstore.com^
 ||rehdergmbh.com^
 ||rehearsalk.com^
@@ -10336,13 +10310,7 @@
 ||remorcas.com^
 ||remorquesdunords.com^
 ||remote-arbeiten.com^
-||remote-arbeittworkde.com^
-||remote-arbeittworrde.com^
-||remote-arbeittworvde.com^
 ||remote-starten.com^
-||remotearbeitt-work.com^
-||remotearbeittworkcde.com^
-||remotearbeittworkgde.com^
 ||remotearboeitt-work.com^
 ||remotehomejobs24.com^
 ||remotenow-talent.com^
@@ -10387,7 +10355,6 @@
 ||restchess.com^
 ||restliss.com^
 ||restockssuomi.com^
-||retail-homekit.com^
 ||retailbbq.com^
 ||retailchemy.com^
 ||retentionh.com^
@@ -10428,12 +10395,10 @@
 ||rheinjobs-gmbh.de^
 ||rheinkuss-handel24.de^
 ||rheinlandholz.com^
-||rheinlandstore.shop^
 ||rheinwing.de^
 ||rhineritz.de^
 ||rhinowalk.com^
 ||rhodeshotel24.com^
-||ri-lieeoodu.com^
 ||ribeiraoautoparts.com^
 ||ricadihotelspage.com^
 ||ricasrucksack.com^
@@ -10520,7 +10485,6 @@
 ||rocolee.com^
 ||roctec-europe.com^
 ||rod-wheels.de^
-||rodaalhandel.com^
 ||rodetis.com^
 ||roeck-performance.at^
 ||rohdeschuhewerksverkauf.com^
@@ -10559,12 +10523,10 @@
 ||rootsandwings.at^
 ||ropepflege.de^
 ||roraproduction.com^
-||rosa-mode.shop^
 ||rosche-bedachungen.de^
 ||rosecapital.ltd^
 ||roselinlin.com^
 ||rosenbaum-berlin.de^
-||rosenberg-boutique.de^
 ||rosenfeldgoldschmied.com^
 ||rosenherzmode.com^
 ||rosesealiy.com^
@@ -10577,7 +10539,6 @@
 ||rotes-tor.de^
 ||rothause.de^
 ||rothen-burg.de^
-||rotyka.com^
 ||roudamo.shop^
 ||roulettegem.com^
 ||roumite.com^
@@ -10662,8 +10623,6 @@
 ||saatgutrabatt.com^
 ||saatmod.com^
 ||sabine-becker.de^
-||sabirtasi-logistik.de^
-||sachsen-pellet.de^
 ||sacsparisoutlet.com^
 ||sadela.de^
 ||sadiluxe.de^
@@ -10748,7 +10707,6 @@
 ||samilla.de^
 ||samofotografie.de^
 ||samsoe-outlet.shop^
-||samsonite-at.com^
 ||samsonitedeutschland.de^
 ||samsonitexdeutschland.de^
 ||fr.samtradefx.com^
@@ -10762,7 +10720,6 @@
 ||sandwichg.com^
 ||sanemedi-handel.de^
 ||sanfte-huegel.de^
-||sangastinly.com^
 ||sanitaer-meier.de^
 ||sanitaerfreude.com^
 ||sanitatsbedarf24.com^
@@ -10788,7 +10745,6 @@
 ||sardinenbarberlinava.shop^
 ||sarvamits.com^
 ||saskiabader.de^
-||sastre-kauf.de^
 ||satis-beauty-store.de^
 ||satona.de^
 ||satorisandeutschland.com^
@@ -10848,7 +10804,6 @@
 ||schlumpfs-welt.de^
 ||schlund-woehr.de^
 ||schlusseldienst.at^
-||schmidmodesalzburg.de^
 ||schmidt-digital.de^
 ||schmidtmode.de^
 ||schmidtstil.com^
@@ -10889,7 +10844,6 @@
 ||schraubheld24.de^
 ||schreibtischecouchtische.com^
 ||schreibundstilonline.shop^
-||schroeer23.de^
 ||schuhegiesswein.com^
 ||schuhegunstignice.de^
 ||schuhehoka.de^
@@ -10911,7 +10865,6 @@
 ||schwarzundlang.de^
 ||schweibenhandel.com^
 ||schweibenprofi.com^
-||schweihoferdiscount.shop^
 ||schweizer-modewelt.com^
 ||scilulustore.com^
 ||scootbike.de^
@@ -10991,7 +10944,6 @@
 ||separaten.com^
 ||sepkicks.com^
 ||seprun.com^
-||sepwalk.com^
 ||serenadeutschland.de^
 ||serendiplty.com^
 ||serenitybot.com^

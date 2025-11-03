@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Nov 2025 10:36 UTC
-# Version: 2025.1103.1036.54
+# Last modified: 03 Nov 2025 18:35 UTC
+# Version: 2025.1103.1835.03
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3860
+# Number of entries: 3849
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -2898,7 +2898,6 @@
 0.0.0.0 doh.plop.cc
 0.0.0.0 dns.ploshadi.ru
 0.0.0.0 privacy.plumedns.com
-0.0.0.0 plushub.pro
 0.0.0.0 pm1239-bd.xyz
 0.0.0.0 pm7051-br.xyz
 0.0.0.0 pm9352-bd.xyz
@@ -2919,7 +2918,6 @@
 0.0.0.0 polisitogel.show
 0.0.0.0 polisitogel.webcam
 0.0.0.0 vps.poly-tank.jp
-0.0.0.0 doh.port53.dk
 0.0.0.0 dns.porteii.com
 0.0.0.0 dns2.porteii.com
 0.0.0.0 adguard.poster.place
@@ -2951,14 +2949,6 @@
 0.0.0.0 dns2.prima-solusindo.com
 0.0.0.0 princez.uk
 0.0.0.0 agh.printk.info
-0.0.0.0 hungary.privacy-dns.pw
-0.0.0.0 india.privacy-dns.pw
-0.0.0.0 las-vegas.privacy-dns.pw
-0.0.0.0 luxembourg.privacy-dns.pw
-0.0.0.0 romania.privacy-dns.pw
-0.0.0.0 sweden.privacy-dns.pw
-0.0.0.0 switzerland.privacy-dns.pw
-0.0.0.0 united-arab-emirates.privacy-dns.pw
 0.0.0.0 dns.privado.ovh
 0.0.0.0 orpi.privado.ovh
 0.0.0.0 oury.privado.ovh
@@ -3182,7 +3172,6 @@
 0.0.0.0 defsnldns01.sc-hosting.info
 0.0.0.0 ns1.sc-lezhi.com
 0.0.0.0 us.sc92.cn
-0.0.0.0 dns.scapetical.com
 0.0.0.0 dns.scarx.net
 0.0.0.0 dns.scayn.com
 0.0.0.0 filter.das.sch.id

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Nov 2025 09:56 UTC
-# Version: 2025.1103.0956.45
+# Last modified: 03 Nov 2025 17:56 UTC
+# Version: 2025.1103.1756.09
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1334
+# Number of entries: 1333
 #
 local=/000a.de/
 local=/000space.com/
@@ -1041,7 +1041,6 @@ local=/sa.com/
 local=/sa.gp/
 local=/safe-girogate.com/
 local=/safwhatsapp.top/
-local=/sapabayeshops.shop/
 local=/schmust.de/
 local=/schoolrack.com/
 local=/scienceontheweb.net/

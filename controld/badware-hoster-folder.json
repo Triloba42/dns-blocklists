@@ -7162,13 +7162,6 @@
       }
     },
     {
-      "PK": "sapabayeshops.shop",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "schmust.de",
       "action": {
         "do": 0,

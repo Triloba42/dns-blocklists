@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762165860 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762194540 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Nov 2025 10:31 UTC
-; Version: 2025.1103.1031.09
+; Last modified: 03 Nov 2025 18:29 UTC
+; Version: 2025.1103.1829.24
 ; Syntax: RPZ
-; Number of entries: 22498
+; Number of entries: 22472
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -2304,8 +2304,6 @@ pelisflix20.co CNAME .
 *.pelisflix20.co CNAME .
 pelisplus.co CNAME .
 *.pelisplus.co CNAME .
-phaze.co CNAME .
-*.phaze.co CNAME .
 piratebays.co CNAME .
 *.piratebays.co CNAME .
 pirates-zone.co CNAME .
@@ -6238,8 +6236,6 @@ portalultautv.com CNAME .
 *.portalultautv.com CNAME .
 porytka.com CNAME .
 *.porytka.com CNAME .
-potlockermovies.com CNAME .
-*.potlockermovies.com CNAME .
 potuk.com CNAME .
 *.potuk.com CNAME .
 pow7.com CNAME .
@@ -6308,8 +6304,6 @@ psyreactor.com CNAME .
 *.psyreactor.com CNAME .
 psystation.com CNAME .
 *.psystation.com CNAME .
-tracker.pterclub.com CNAME .
-*.tracker.pterclub.com CNAME .
 publicdomaintorrents.com CNAME .
 *.publicdomaintorrents.com CNAME .
 punkoiska.com CNAME .
@@ -6410,8 +6404,6 @@ rarelust.com CNAME .
 *.rarelust.com CNAME .
 rarlinks.com CNAME .
 *.rarlinks.com CNAME .
-rawlayer.com CNAME .
-*.rawlayer.com CNAME .
 rcahub.com CNAME .
 *.rcahub.com CNAME .
 readallcomics.com CNAME .
@@ -8572,8 +8564,6 @@ megathread.pages.dev CNAME .
 *.megathread.pages.dev CNAME .
 miguapp.pages.dev CNAME .
 *.miguapp.pages.dev CNAME .
-nunflix-ey9.pages.dev CNAME .
-*.nunflix-ey9.pages.dev CNAME .
 piratebayproxy.pages.dev CNAME .
 *.piratebayproxy.pages.dev CNAME .
 qstream.pages.dev CNAME .
@@ -9772,8 +9762,6 @@ moviesite.hu CNAME .
 *.moviesite.hu CNAME .
 ncore.hu CNAME .
 *.ncore.hu CNAME .
-pirateclub.hu CNAME .
-*.pirateclub.hu CNAME .
 pof.hu CNAME .
 *.pof.hu CNAME .
 sky-tech.hu CNAME .
@@ -10986,8 +10974,6 @@ ddos.kr CNAME .
 *.ddos.kr CNAME .
 boerse.kz CNAME .
 *.boerse.kz CNAME .
-putlocker.kz CNAME .
-*.putlocker.kz CNAME .
 slider.kz CNAME .
 *.slider.kz CNAME .
 123movies.la CNAME .
@@ -13772,8 +13758,6 @@ rapideo.net CNAME .
 *.rapideo.net CNAME .
 rapidgator.net CNAME .
 *.rapidgator.net CNAME .
-rarbgtorrent.net CNAME .
-*.rarbgtorrent.net CNAME .
 rardownload.net CNAME .
 *.rardownload.net CNAME .
 raspberryheaven.net CNAME .
@@ -14550,8 +14534,6 @@ tracker.open-internet.nl CNAME .
 *.tracker.open-internet.nl CNAME .
 piratenproxy.nl CNAME .
 *.piratenproxy.nl CNAME .
-proxytpb.nl CNAME .
-*.proxytpb.nl CNAME .
 rutracker.nl CNAME .
 *.rutracker.nl CNAME .
 s2dfree.nl CNAME .
@@ -19230,8 +19212,6 @@ retracker.nts.su CNAME .
 *.retracker.nts.su CNAME .
 nzb.su CNAME .
 *.nzb.su CNAME .
-planetsoft.su CNAME .
-*.planetsoft.su CNAME .
 seez.su CNAME .
 *.seez.su CNAME .
 streamed.su CNAME .
@@ -21666,8 +21646,6 @@ filmpertutti.win CNAME .
 *.filmpertutti.win CNAME .
 flixtor.win CNAME .
 *.flixtor.win CNAME .
-piratebays.win CNAME .
-*.piratebays.win CNAME .
 rakettv.win CNAME .
 *.rakettv.win CNAME .
 seriesvault.win CNAME .
@@ -22456,8 +22434,6 @@ dood.yt CNAME .
 *.dood.yt CNAME .
 eztv.yt CNAME .
 *.eztv.yt CNAME .
-onionplay.yt CNAME .
-*.onionplay.yt CNAME .
 pirateproxy.yt CNAME .
 *.pirateproxy.yt CNAME .
 vegamovies.yt CNAME .
@@ -22476,8 +22452,6 @@ hdmovie2.zip CNAME .
 *.hdmovie2.zip CNAME .
 redecanais.zip CNAME .
 *.redecanais.zip CNAME .
-redecanaistv.zip CNAME .
-*.redecanaistv.zip CNAME .
 rlsbb.unblockit.zip CNAME .
 *.rlsbb.unblockit.zip CNAME .
 vegamovies.zip CNAME .

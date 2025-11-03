@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Nov 2025 10:15 UTC
-# Version: 2025.1103.1015.35
+# Last modified: 03 Nov 2025 17:28 UTC
+# Version: 2025.1103.1728.28
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9026
+# Number of entries: 9022
 #
 local=/0.gp/
 local=/00m.in/
@@ -897,6 +897,7 @@ local=/it.baltgroup.com/
 local=/bamaccoin.com/
 local=/bamerus.top/
 local=/banaccroblox.com/
+local=/bankua.xyz/
 local=/bannercho.com/
 local=/baoyung.com/
 local=/baratun.de/
@@ -1984,7 +1985,6 @@ local=/dcps.co/
 local=/dcri.io/
 local=/dcshru.ru/
 local=/dd.ma/
-local=/ddls.to/
 local=/ddot.to/
 local=/ddw.nu/
 local=/dealc.me/
@@ -5168,7 +5168,6 @@ local=/oneurl.co/
 local=/onforb.es/
 local=/onion.com/
 local=/only.li/
-local=/only-fans.click/
 local=/onlyads.space/
 local=/onlyfansclub.live/
 local=/onmeto.net/
@@ -5440,7 +5439,6 @@ local=/pjps.to/
 local=/pke.to/
 local=/pkg.pw/
 local=/pkv.li/
-local=/pkvg.link/
 local=/plabtainment.com/
 local=/placesunknown.art/
 local=/pladollmo.com/
@@ -6147,7 +6145,6 @@ local=/scanulator.com/
 local=/scbet88vvip.org/
 local=/scbetgacorr.org/
 local=/scd.tips/
-local=/kutt.schantli.cloud/
 local=/sched.co/
 local=/schellenberg.ca/
 local=/scholarlyus.com/
@@ -6185,7 +6182,6 @@ local=/sdut.us/
 local=/sdwone.us/
 local=/se1.me/
 local=/seagate.media/
-local=/sealed.in/
 local=/seamlessqrcode.com/
 local=/searchtheearth.com/
 local=/searl.co/

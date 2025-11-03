@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Nov 2025 10:36 UTC
-# Version: 2025.1103.1036.54
+# Last modified: 03 Nov 2025 18:35 UTC
+# Version: 2025.1103.1835.03
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3383
+# Number of entries: 3372
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -2509,7 +2509,6 @@ local=/uranus.plonknet.com/
 local=/doh.plop.cc/
 local=/dns.ploshadi.ru/
 local=/privacy.plumedns.com/
-local=/plushub.pro/
 local=/pm1239-bd.xyz/
 local=/pm7051-br.xyz/
 local=/pm9352-bd.xyz/
@@ -2530,7 +2529,6 @@ local=/polisitogel.luxe/
 local=/polisitogel.show/
 local=/polisitogel.webcam/
 local=/vps.poly-tank.jp/
-local=/doh.port53.dk/
 local=/dns.porteii.com/
 local=/dns2.porteii.com/
 local=/adguard.poster.place/
@@ -2562,14 +2560,6 @@ local=/webmeel.pragmasec.nl/
 local=/dns2.prima-solusindo.com/
 local=/princez.uk/
 local=/agh.printk.info/
-local=/hungary.privacy-dns.pw/
-local=/india.privacy-dns.pw/
-local=/las-vegas.privacy-dns.pw/
-local=/luxembourg.privacy-dns.pw/
-local=/romania.privacy-dns.pw/
-local=/sweden.privacy-dns.pw/
-local=/switzerland.privacy-dns.pw/
-local=/united-arab-emirates.privacy-dns.pw/
 local=/dns.privado.ovh/
 local=/orpi.privado.ovh/
 local=/oury.privado.ovh/
@@ -2770,7 +2760,6 @@ local=/dns.sbstructure.ir/
 local=/defsnldns01.sc-hosting.info/
 local=/ns1.sc-lezhi.com/
 local=/us.sc92.cn/
-local=/dns.scapetical.com/
 local=/dns.scarx.net/
 local=/dns.scayn.com/
 local=/filter.das.sch.id/

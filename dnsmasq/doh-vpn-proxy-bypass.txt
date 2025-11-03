@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Nov 2025 10:37 UTC
-# Version: 2025.1103.1037.28
+# Last modified: 03 Nov 2025 18:35 UTC
+# Version: 2025.1103.1835.36
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6119
+# Number of entries: 6102
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -3887,7 +3887,6 @@ local=/oraclevpn.com/
 local=/orangeproxy.net/
 local=/proxy.ordentlichbreit.de/
 local=/historyofutopia.orekhov.space/
-local=/learning.orestpena.com/
 local=/noads.api.org.pl/
 local=/resolver.dnsprivacy.org.uk/
 local=/teslacoils.org.uk/
@@ -4035,7 +4034,6 @@ local=/hydra.plan9-ns1.com/
 local=/draco.plan9-ns2.com/
 local=/door.plasmadancer.ru/
 local=/play5r.com/
-local=/playproxy.com/
 local=/secure-dns.pleumkungz.com/
 local=/thanos.pleumkungz.com/
 local=/gaia.plonknet.com/
@@ -4044,7 +4042,6 @@ local=/doh.plop.cc/
 local=/dns.ploshadi.ru/
 local=/privacy.plumedns.com/
 local=/pluralsight.gq/
-local=/plushub.pro/
 local=/pm1239-bd.xyz/
 local=/pm7051-br.xyz/
 local=/pm9352-bd.xyz/
@@ -4068,7 +4065,6 @@ local=/polisitogel.luxe/
 local=/polisitogel.show/
 local=/polisitogel.webcam/
 local=/vps.poly-tank.jp/
-local=/doh.port53.dk/
 local=/portalssh.com/
 local=/dns.porteii.com/
 local=/dns2.porteii.com/
@@ -4126,14 +4122,6 @@ local=/agh.printk.info/
 local=/printruns.us/
 local=/printtools.us/
 local=/privacy.io/
-local=/hungary.privacy-dns.pw/
-local=/india.privacy-dns.pw/
-local=/las-vegas.privacy-dns.pw/
-local=/luxembourg.privacy-dns.pw/
-local=/romania.privacy-dns.pw/
-local=/sweden.privacy-dns.pw/
-local=/switzerland.privacy-dns.pw/
-local=/united-arab-emirates.privacy-dns.pw/
 local=/privacyprotector.eu/
 local=/privado.io/
 local=/dns.privado.ovh/
@@ -4284,7 +4272,6 @@ local=/proxyium.com/
 local=/proxyium.org/
 local=/proxyiumi.com/
 local=/proxyjet.io/
-local=/proxylib.com/
 local=/proxylister.com/
 local=/proxylistpro.com/
 local=/proxylists.org/
@@ -4359,7 +4346,6 @@ local=/purevpn.de/
 local=/purevpn.fr/
 local=/purevpn-tools.com/
 local=/adguard.pushedv.de/
-local=/pushokey.com/
 local=/pushvpn.com/
 local=/owa.pvmedia.ru/
 local=/pxaa.com/
@@ -4416,7 +4402,6 @@ local=/dog.dns.qwer.pw/
 local=/frog.dns.qwer.pw/
 local=/lion.dns.qwer.pw/
 local=/tiger.dns.qwer.pw/
-local=/mahiro-9.1project.r-o-o-t.net/
 local=/home.r01.fr/
 local=/resolver.r0cket.net/
 local=/r1bnc.com/
@@ -4616,7 +4601,6 @@ local=/dns.sbstructure.ir/
 local=/defsnldns01.sc-hosting.info/
 local=/ns1.sc-lezhi.com/
 local=/us.sc92.cn/
-local=/dns.scapetical.com/
 local=/dns.scarx.net/
 local=/dns.scayn.com/
 local=/filter.das.sch.id/
@@ -4643,7 +4627,6 @@ local=/dns.scuola.org/
 local=/sdvizhkov.ru/
 local=/se3v5tjfff3aet.me/
 local=/adguard.sealyserver.com/
-local=/seanfat.club/
 local=/dns.seaotter.cc/
 local=/proxy.searchfiles.de/
 local=/searchproxy.info/

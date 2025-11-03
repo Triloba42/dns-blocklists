@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762166220 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762194900 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Nov 2025 10:37 UTC
-; Version: 2025.1103.1037.28
+; Last modified: 03 Nov 2025 18:35 UTC
+; Version: 2025.1103.1835.36
 ; Syntax: RPZ
-; Number of entries: 12238
+; Number of entries: 12204
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -819,8 +819,6 @@ proxysite.club CNAME .
 *.proxysite.club CNAME .
 dns.qrtz.club CNAME .
 *.dns.qrtz.club CNAME .
-seanfat.club CNAME .
-*.seanfat.club CNAME .
 sescloud.club CNAME .
 *.sescloud.club CNAME .
 siteunblocked.club CNAME .
@@ -3185,8 +3183,6 @@ dns.us-phoenix-1.oraclecloud.com CNAME .
 *.dns.us-phoenix-1.oraclecloud.com CNAME .
 oraclevpn.com CNAME .
 *.oraclevpn.com CNAME .
-learning.orestpena.com CNAME .
-*.learning.orestpena.com CNAME .
 ortudns.com CNAME .
 *.ortudns.com CNAME .
 dns.oryxlabs.com CNAME .
@@ -3281,8 +3277,6 @@ draco.plan9-ns2.com CNAME .
 *.draco.plan9-ns2.com CNAME .
 play5r.com CNAME .
 *.play5r.com CNAME .
-playproxy.com CNAME .
-*.playproxy.com CNAME .
 secure-dns.pleumkungz.com CNAME .
 *.secure-dns.pleumkungz.com CNAME .
 thanos.pleumkungz.com CNAME .
@@ -3439,8 +3433,6 @@ proxyium.com CNAME .
 *.proxyium.com CNAME .
 proxyiumi.com CNAME .
 *.proxyiumi.com CNAME .
-proxylib.com CNAME .
-*.proxylib.com CNAME .
 proxylister.com CNAME .
 *.proxylister.com CNAME .
 proxylistpro.com CNAME .
@@ -3507,8 +3499,6 @@ purevpn.com CNAME .
 *.purevpn.com CNAME .
 purevpn-tools.com CNAME .
 *.purevpn-tools.com CNAME .
-pushokey.com CNAME .
-*.pushokey.com CNAME .
 pushvpn.com CNAME .
 *.pushvpn.com CNAME .
 pxaa.com CNAME .
@@ -3635,8 +3625,6 @@ saturnvpn.com CNAME .
 *.saturnvpn.com CNAME .
 ns1.sc-lezhi.com CNAME .
 *.ns1.sc-lezhi.com CNAME .
-dns.scapetical.com CNAME .
-*.dns.scapetical.com CNAME .
 dns.scayn.com CNAME .
 *.dns.scayn.com CNAME .
 schimtar.com CNAME .
@@ -5221,8 +5209,6 @@ unicast.censurfridns.dk CNAME .
 *.unicast.censurfridns.dk CNAME .
 adguard.nielsenhost.dk CNAME .
 *.adguard.nielsenhost.dk CNAME .
-doh.port53.dk CNAME .
-*.doh.port53.dk CNAME .
 doh.rasmusminde.dk CNAME .
 *.doh.rasmusminde.dk CNAME .
 adguard.strafer.dk CNAME .
@@ -8391,8 +8377,6 @@ dns9.quad9.net CNAME .
 *.2.dnscrypt-cert.quad9.net CNAME .
 dns.quanhd.net CNAME .
 *.dns.quanhd.net CNAME .
-mahiro-9.1project.r-o-o-t.net CNAME .
-*.mahiro-9.1project.r-o-o-t.net CNAME .
 resolver.r0cket.net CNAME .
 *.resolver.r0cket.net CNAME .
 ginnungagap.rabenhain.net CNAME .
@@ -9993,8 +9977,6 @@ ntwrkh.pro CNAME .
 *.ntwrkh.pro CNAME .
 pandavpn.pro CNAME .
 *.pandavpn.pro CNAME .
-plushub.pro CNAME .
-*.plushub.pro CNAME .
 primevpn.pro CNAME .
 *.primevpn.pro CNAME .
 dns.privateservices.pro CNAME .
@@ -10361,22 +10343,6 @@ aitkcrev.minhduc.pw CNAME .
 *.aitkcrev.minhduc.pw CNAME .
 ttag.dns.nomu.pw CNAME .
 *.ttag.dns.nomu.pw CNAME .
-hungary.privacy-dns.pw CNAME .
-*.hungary.privacy-dns.pw CNAME .
-india.privacy-dns.pw CNAME .
-*.india.privacy-dns.pw CNAME .
-las-vegas.privacy-dns.pw CNAME .
-*.las-vegas.privacy-dns.pw CNAME .
-luxembourg.privacy-dns.pw CNAME .
-*.luxembourg.privacy-dns.pw CNAME .
-romania.privacy-dns.pw CNAME .
-*.romania.privacy-dns.pw CNAME .
-sweden.privacy-dns.pw CNAME .
-*.sweden.privacy-dns.pw CNAME .
-switzerland.privacy-dns.pw CNAME .
-*.switzerland.privacy-dns.pw CNAME .
-united-arab-emirates.privacy-dns.pw CNAME .
-*.united-arab-emirates.privacy-dns.pw CNAME .
 prox.pw CNAME .
 *.prox.pw CNAME .
 ant.dns.qwer.pw CNAME .

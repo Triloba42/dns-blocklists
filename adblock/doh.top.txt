@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 03 Nov 2025 10:37 UTC
-! Version: 2025.1103.1037.22
+! Last modified: 03 Nov 2025 18:35 UTC
+! Version: 2025.1103.1835.30
 ! Syntax: AdBlock
-! Number of entries: 508
+! Number of entries: 507
 !
 ||ns.00dani.me^
 ||dns.0ooo.icu^
@@ -364,7 +364,6 @@
 ||pm9352-bd.xyz^
 ||doh.powerdns.org^
 ||sundalandia.pp.ua^
-||sweden.privacy-dns.pw^
 ||de.dns.privex.io^
 ||nl.dns.privex.io^
 ||project-evoex.de^
