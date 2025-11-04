@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Nov 2025 09:26 UTC
-# Version: 2025.1104.0926.01
+# Last modified: 04 Nov 2025 17:26 UTC
+# Version: 2025.1104.1726.18
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13897
+# Number of entries: 13905
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -2713,6 +2713,7 @@ local=/crestviewlamps.com/
 local=/cretelbois.com/
 local=/creworks.store/
 local=/crfp8-carrefour.com/
+local=/crgshopava.shop/
 local=/criffincloset.com/
 local=/crimmitschauer-gartenland.de/
 local=/crispischuhe.at/
@@ -4313,6 +4314,7 @@ local=/fiat-transporter.at/
 local=/fibovest.com/
 local=/fichtenaumodehaus.de/
 local=/fideligencia.com/
+local=/fidemanlage.de/
 local=/fidgen-trust.com/
 local=/fidinanzen.com/
 local=/fiercehealthfinance.com/
@@ -4339,6 +4341,7 @@ local=/financiere-haussmann.com/
 local=/financieredsbg.com/
 local=/financieres.com/
 local=/finanz-privat.com/
+local=/finanzarena.pro/
 local=/finanzasforex.com/
 local=/finanzexpress-online.com/
 local=/finanzportalonline.com/
@@ -4896,6 +4899,7 @@ local=/gefellerts.de/
 local=/geflowing.de/
 local=/geigenbau-bartsch.shop/
 local=/geld-ausleihen.com/
+local=/geldpro.ai/
 local=/geldvision.com/
 local=/geldway.com/
 local=/gelmalls.com/
@@ -6889,6 +6893,7 @@ local=/kindundkrebs.eu/
 local=/kingequipshop.com/
 local=/kingofbuy.com/
 local=/kingrack.com/
+local=/kings-alliance.com/
 local=/kingseven-shop.com/
 local=/kingsevenshop.de/
 local=/kingsire.co/
@@ -12392,6 +12397,7 @@ local=/topheizlosungen.com/
 local=/tophousesgoods.com/
 local=/topideaberlin.com/
 local=/topillstore.com/
+local=/topjobs.wiki/
 local=/topledlightstore.com/
 local=/toplivingfurniture.com/
 local=/toplomarketxsh.com/
@@ -12479,6 +12485,7 @@ local=/tradeswim.com/
 local=/tradeviewforex.com/
 local=/tradewave.live/
 local=/tradezila.com/
+local=/tradiascrypto.de/
 local=/trading-kapital.com/
 local=/tradingbotpro.com/
 local=/tradiomarket.com/
@@ -13862,6 +13869,7 @@ local=/zimtahorn.de/
 local=/zinniafolkartsdeeu.shop/
 local=/zinpp.com/
 local=/zinsacm.com/
+local=/zinsanlageexperten.com/
 local=/zinskapital.com/
 local=/zinzendorf-mode.at/
 local=/zipgoat.com/

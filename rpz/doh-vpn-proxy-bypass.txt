@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762252260 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762281120 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 Nov 2025 10:31 UTC
-; Version: 2025.1104.1031.57
+; Last modified: 04 Nov 2025 18:32 UTC
+; Version: 2025.1104.1832.36
 ; Syntax: RPZ
-; Number of entries: 13500
+; Number of entries: 13504
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -1101,6 +1101,8 @@ adb.aadityakushwaha.com CNAME .
 *.adb.aadityakushwaha.com CNAME .
 doh.dns.apple.com.v.aaplimg.com CNAME .
 *.doh.dns.apple.com.v.aaplimg.com CNAME .
+doh-dns-apple-com.v.aaplimg.com CNAME .
+*.doh-dns-apple-com.v.aaplimg.com CNAME .
 dns.aaronplayzgaming.com CNAME .
 *.dns.aaronplayzgaming.com CNAME .
 dns.aaytorr.com CNAME .
@@ -12189,6 +12191,8 @@ dns.p3k.sk CNAME .
 *.dns.p3k.sk CNAME .
 surfshark.sk CNAME .
 *.surfshark.sk CNAME .
+nvpn.so CNAME .
+*.nvpn.so CNAME .
 dns.elemental.software CNAME .
 *.dns.elemental.software CNAME .
 arashi.solutions CNAME .
