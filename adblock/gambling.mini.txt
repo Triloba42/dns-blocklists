@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 05 Nov 2025 10:25 UTC
-! Version: 2025.1105.1025.48
+! Last modified: 05 Nov 2025 18:24 UTC
+! Version: 2025.1105.1824.57
 ! Syntax: AdBlock
-! Number of entries: 38338
+! Number of entries: 38330
 !
 ||0-casino.info^
 ||000-online-casino.com^
@@ -10986,7 +10986,6 @@
 ||casinotar.com^
 ||casinoteapoint.com^
 ||casinotears.com^
-||casinotek.com^
 ||casinoterrace.com^
 ||casinotesla.link^
 ||casinotest.com^
@@ -13127,7 +13126,6 @@
 ||crown-green-casino.net^
 ||crown-green-casino.org^
 ||crown-hot-slots.shop^
-||crown155.casino^
 ||crown777slot.org^
 ||crownbet.et^
 ||crowncasino.monster^
@@ -15879,7 +15877,6 @@
 ||friendscasino.ru^
 ||froggy-bet-casino.org^
 ||froggybet.io^
-||fromtheheart.shop^
 ||frtopcasinosites.com^
 ||fruit-slots-pinco.ca^
 ||fruitpartycasino.store^
@@ -18818,7 +18815,6 @@
 ||itslots.shop^
 ||itspokertime.com^
 ||itudewapoker.com^
-||iubets.com^
 ||iuslaboris.in^
 ||ivibbet.net^
 ||ivibet.com^
@@ -19698,7 +19694,6 @@
 ||joshuavsusyklive.com^
 ||joueraucasino.com^
 ||joueraucasinogratuit.net^
-||jouerpokerligne.org^
 ||jouezsense.ca^
 ||joy-casino.click^
 ||joy-casino.live^
@@ -19734,14 +19729,12 @@
 ||joycasino-ae.com^
 ||joycasino-af.com^
 ||joycasino-ag.com^
-||joycasino-agq.top^
 ||joycasino-aw.com^
 ||joycasino-ayx.top^
 ||joycasino-bgg.casino^
 ||joycasino-bui.top^
 ||joycasino-bwk.top^
 ||joycasino-dhs.top^
-||joycasino-dn.top^
 ||joycasino-dwm.top^
 ||joycasino-edx.top^
 ||joycasino-esf.top^
@@ -32473,7 +32466,6 @@
 ||slotsvaderslovenia.com^
 ||slotsvegascampaign.com^
 ||slotsventuracasino.bet^
-||slotsview.com^
 ||slotsvipcasinoslotmachinesy.com^
 ||slotswinner.info^
 ||slotswinner777.com^

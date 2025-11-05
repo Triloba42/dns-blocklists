@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Nov 2025 10:25 UTC
-# Version: 2025.1105.1025.16
+# Last modified: 05 Nov 2025 18:24 UTC
+# Version: 2025.1105.1824.24
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 79391
+# Number of entries: 79383
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -24344,7 +24344,6 @@ local=/casinoteapoint.com/
 local=/casinotears.com/
 local=/casinotechnieken.nl/
 local=/casinotejon.com/
-local=/casinotek.com/
 local=/casinotempen.se/
 local=/casinotempobetgiris.com/
 local=/casinotengri.com/
@@ -29669,7 +29668,6 @@ local=/crown-green-casino.org/
 local=/crown-green-slots.com/
 local=/crown-hot-slots.shop/
 local=/crown-poker.com/
-local=/crown155.casino/
 local=/crown777.casino/
 local=/crown777slot.org/
 local=/crownbet.et/
@@ -35200,7 +35198,6 @@ local=/frigidbets.xyz/
 local=/froggy-bet-casino.org/
 local=/froggybet.io/
 local=/frogs.bet/
-local=/fromtheheart.shop/
 local=/frontierco.xyz/
 local=/frostbets.xyz/
 local=/frostrootcasino.com/
@@ -40511,7 +40508,6 @@ local=/itsuperslotsxxx.top/
 local=/itudewapoker.com/
 local=/itumario.com/
 local=/ituolx.bio/
-local=/iubets.com/
 local=/iuslaboris.in/
 local=/ivanhoepictures.com/
 local=/ivbetslot.com/
@@ -41982,7 +41978,6 @@ local=/joueraucasino.com/
 local=/joueraucasino.eu/
 local=/joueraucasinogratuit.net/
 local=/joueraucasinoh.com/
-local=/jouerpokerligne.org/
 local=/joueurvip.poker/
 local=/jouezsense.ca/
 local=/jowoslotone.xyz/
@@ -42036,7 +42031,6 @@ local=/joycasino-abv.top/
 local=/joycasino-ae.com/
 local=/joycasino-af.com/
 local=/joycasino-ag.com/
-local=/joycasino-agq.top/
 local=/joycasino-ak.xyz/
 local=/joycasino-aq.com/
 local=/joycasino-aw.com/
@@ -42072,7 +42066,6 @@ local=/joycasino-dey.top/
 local=/joycasino-dhs.top/
 local=/joycasino-dice83.top/
 local=/joycasino-dkx.top/
-local=/joycasino-dn.top/
 local=/joycasino-dqk.top/
 local=/joycasino-dwm.top/
 local=/joycasino-edx.top/
@@ -67696,7 +67689,6 @@ local=/slotsventuracasino.bet/
 local=/slotsventuracasino.mx/
 local=/slotsversepro.com/
 local=/slotsvibes.com/
-local=/slotsview.com/
 local=/slotsvil-dk.com/
 local=/slotsvila.com/
 local=/slotsvillaf.com/

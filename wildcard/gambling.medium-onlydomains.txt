@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Nov 2025 10:25 UTC
-# Version: 2025.1105.1025.16
+# Last modified: 05 Nov 2025 18:24 UTC
+# Version: 2025.1105.1824.24
 # Syntax: Domains (without subdomains)
-# Number of entries: 79391
+# Number of entries: 79383
 #
 0-casino.info
 000-online-casino.com
@@ -24344,7 +24344,6 @@ casinoteapoint.com
 casinotears.com
 casinotechnieken.nl
 casinotejon.com
-casinotek.com
 casinotempen.se
 casinotempobetgiris.com
 casinotengri.com
@@ -29669,7 +29668,6 @@ crown-green-casino.org
 crown-green-slots.com
 crown-hot-slots.shop
 crown-poker.com
-crown155.casino
 crown777.casino
 crown777slot.org
 crownbet.et
@@ -35200,7 +35198,6 @@ frigidbets.xyz
 froggy-bet-casino.org
 froggybet.io
 frogs.bet
-fromtheheart.shop
 frontierco.xyz
 frostbets.xyz
 frostrootcasino.com
@@ -40511,7 +40508,6 @@ itsuperslotsxxx.top
 itudewapoker.com
 itumario.com
 ituolx.bio
-iubets.com
 iuslaboris.in
 ivanhoepictures.com
 ivbetslot.com
@@ -41982,7 +41978,6 @@ joueraucasino.com
 joueraucasino.eu
 joueraucasinogratuit.net
 joueraucasinoh.com
-jouerpokerligne.org
 joueurvip.poker
 jouezsense.ca
 jowoslotone.xyz
@@ -42036,7 +42031,6 @@ joycasino-abv.top
 joycasino-ae.com
 joycasino-af.com
 joycasino-ag.com
-joycasino-agq.top
 joycasino-ak.xyz
 joycasino-aq.com
 joycasino-aw.com
@@ -42072,7 +42066,6 @@ joycasino-dey.top
 joycasino-dhs.top
 joycasino-dice83.top
 joycasino-dkx.top
-joycasino-dn.top
 joycasino-dqk.top
 joycasino-dwm.top
 joycasino-edx.top
@@ -67696,7 +67689,6 @@ slotsventuracasino.bet
 slotsventuracasino.mx
 slotsversepro.com
 slotsvibes.com
-slotsview.com
 slotsvil-dk.com
 slotsvila.com
 slotsvillaf.com

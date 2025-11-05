@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762338300 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762367040 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 Nov 2025 10:25 UTC
-; Version: 2025.1105.1025.48
+; Last modified: 05 Nov 2025 18:24 UTC
+; Version: 2025.1105.1824.57
 ; Syntax: RPZ
-; Number of entries: 76676
+; Number of entries: 76660
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -4890,8 +4890,6 @@ corgi.casino CNAME .
 *.corgi.casino CNAME .
 crashino-online.casino CNAME .
 *.crashino-online.casino CNAME .
-crown155.casino CNAME .
-*.crown155.casino CNAME .
 cryptoboss70.casino CNAME .
 *.cryptoboss70.casino CNAME .
 crystalroll-nl.casino CNAME .
@@ -21208,8 +21206,6 @@ casinoteapoint.com CNAME .
 *.casinoteapoint.com CNAME .
 casinotears.com CNAME .
 *.casinotears.com CNAME .
-casinotek.com CNAME .
-*.casinotek.com CNAME .
 casinoterrace.com CNAME .
 *.casinoterrace.com CNAME .
 casinotest.com CNAME .
@@ -28618,8 +28614,6 @@ itspokertime.com CNAME .
 *.itspokertime.com CNAME .
 itudewapoker.com CNAME .
 *.itudewapoker.com CNAME .
-iubets.com CNAME .
-*.iubets.com CNAME .
 ivibet.com CNAME .
 *.ivibet.com CNAME .
 ivibet2.com CNAME .
@@ -40984,8 +40978,6 @@ slotsvaderslovenia.com CNAME .
 *.slotsvaderslovenia.com CNAME .
 slotsvegascampaign.com CNAME .
 *.slotsvegascampaign.com CNAME .
-slotsview.com CNAME .
-*.slotsview.com CNAME .
 slotsvipcasinoslotmachinesy.com CNAME .
 *.slotsvipcasinoslotmachinesy.com CNAME .
 slotswinner777.com CNAME .
@@ -59644,8 +59636,6 @@ joki-casino.org CNAME .
 *.joki-casino.org CNAME .
 jordanecb.org CNAME .
 *.jordanecb.org CNAME .
-jouerpokerligne.org CNAME .
-*.jouerpokerligne.org CNAME .
 joya-casinos.org CNAME .
 *.joya-casinos.org CNAME .
 joyacasinos.org CNAME .
@@ -64948,8 +64938,6 @@ dewa808.shop CNAME .
 *.dewa808.shop CNAME .
 duelcasinos.shop CNAME .
 *.duelcasinos.shop CNAME .
-fromtheheart.shop CNAME .
-*.fromtheheart.shop CNAME .
 gauldabre.shop CNAME .
 *.gauldabre.shop CNAME .
 gaulsadbor.shop CNAME .
@@ -68628,8 +68616,6 @@ jogersip.top CNAME .
 *.jogersip.top CNAME .
 joycasino-aa43.top CNAME .
 *.joycasino-aa43.top CNAME .
-joycasino-agq.top CNAME .
-*.joycasino-agq.top CNAME .
 joycasino-ayx.top CNAME .
 *.joycasino-ayx.top CNAME .
 joycasino-bui.top CNAME .
@@ -68638,8 +68624,6 @@ joycasino-bwk.top CNAME .
 *.joycasino-bwk.top CNAME .
 joycasino-dhs.top CNAME .
 *.joycasino-dhs.top CNAME .
-joycasino-dn.top CNAME .
-*.joycasino-dn.top CNAME .
 joycasino-dwm.top CNAME .
 *.joycasino-dwm.top CNAME .
 joycasino-edx.top CNAME .
