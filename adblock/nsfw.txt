@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 05 Nov 2025 18:27 UTC
-! Version: 2025.1105.1827.08
+! Last modified: 06 Nov 2025 02:26 UTC
+! Version: 2025.1106.0226.15
 ! Syntax: AdBlock
-! Number of entries: 76170
+! Number of entries: 76173
 !
 ||001-adult-toys-n-sex-dolls.com^
 ||001680.xyz^
@@ -349,6 +349,7 @@
 ||1a.nl^
 ||1a-pussy.de^
 ||1a-sexsuchmaschine.de^
+||1anime2024.com^
 ||1aporn.com^
 ||1asstr.org^
 ||1baiser.com^
@@ -2887,7 +2888,6 @@
 ||aerialsex.xyz^
 ||aerialxxx.xyz^
 ||aero-transport.ru^
-||aerocitycallgirlnumber.com^
 ||aerocitycallgirls.com^
 ||aerocitycallgirls.in^
 ||aerocityescorts.in^
@@ -3655,6 +3655,7 @@
 ||aliensex.xyz^
 ||alienxxx.xyz^
 ||aligagay.com^
+||aligay.digital^
 ||alightporn.xyz^
 ||alightsex.xyz^
 ||alightxxx.xyz^
@@ -7112,6 +7113,7 @@
 ||balletporn.xyz^
 ||balletsex.xyz^
 ||balletxxx.xyz^
+||ballonsnab.ru^
 ||balloonboutiqueessex.com^
 ||balloons-club.ru^
 ||ballroom.gay^
@@ -22086,7 +22088,6 @@
 ||escortsvips.com^
 ||escortsxp.com^
 ||escortsyputas.com^
-||escortsz.com^
 ||escortszonasur.com^
 ||escorttaksim.com^
 ||escortvip.info^
@@ -30067,7 +30068,6 @@
 ||havesexwith.com^
 ||havesexwithyourhusband.com^
 ||havingsexwithmegatron.xyz^
-||hawaiicountycdp.info^
 ||hawttt.ca^
 ||haxxx.top^
 ||hay.sex^
@@ -32455,7 +32455,6 @@
 ||hottestorientalsite.com^
 ||hottestphd.com^
 ||hottestphq.com^
-||hottestpornactress.com^
 ||hottestpornlist.com^
 ||hottestpornx.com^
 ||hottestptv.com^
@@ -34468,6 +34467,7 @@
 ||hatchet-games.itch.io^
 ||heartcoredev.itch.io^
 ||heedless.itch.io^
+||hellocrime.itch.io^
 ||hentaigamesdev.itch.io^
 ||hentairoom.itch.io^
 ||hhrichards.itch.io^
@@ -34480,6 +34480,7 @@
 ||jackshammer.itch.io^
 ||jasmin-vn.itch.io^
 ||jennyvipham.itch.io^
+||jigida70.itch.io^
 ||jinnxx.itch.io^
 ||jitd.itch.io^
 ||jonesy75.itch.io^
@@ -34547,6 +34548,7 @@
 ||orlando-inlove.itch.io^
 ||outerrealm3d.itch.io^
 ||outismedia.itch.io^
+||pantyshotgames.itch.io^
 ||pastrygames.itch.io^
 ||peons-corner.itch.io^
 ||perilous-words.itch.io^
@@ -44378,6 +44380,7 @@
 ||nksalesexport.shop^
 ||nksexpresstrucking.com^
 ||nkxxx.top^
+||nl-bdsm.org^
 ||nladult.ca^
 ||nladult.com^
 ||nlcafe.hu^
@@ -64653,7 +64656,6 @@
 ||taniyapatel.net^
 ||tankouhentai.com^
 ||tannuroy.in^
-||tannusinghal.in^
 ||tanputas.com^
 ||tantaly.com^
 ||tantaly.de^
@@ -65468,6 +65470,7 @@
 ||thatsnot.gay^
 ||thatspersonal.com^
 ||thayksada.com^
+||the-666.com^
 ||the-aznude.cfd^
 ||the-beeg.online^
 ||the-bitcoin-erapro.com^

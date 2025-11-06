@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762367220 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762395960 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 Nov 2025 18:27 UTC
-; Version: 2025.1105.1827.08
+; Last modified: 06 Nov 2025 02:26 UTC
+; Version: 2025.1106.0226.15
 ; Syntax: RPZ
-; Number of entries: 152340
+; Number of entries: 152346
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -11502,6 +11502,8 @@ punbb.123flashchat.com CNAME .
 *.19match.com CNAME .
 19yoporn.com CNAME .
 *.19yoporn.com CNAME .
+1anime2024.com CNAME .
+*.1anime2024.com CNAME .
 1aporn.com CNAME .
 *.1aporn.com CNAME .
 1baiser.com CNAME .
@@ -13688,8 +13690,6 @@ aelives.com CNAME .
 *.aelives.com CNAME .
 aeonsecho.com CNAME .
 *.aeonsecho.com CNAME .
-aerocitycallgirlnumber.com CNAME .
-*.aerocitycallgirlnumber.com CNAME .
 aerocitycallgirls.com CNAME .
 *.aerocitycallgirls.com CNAME .
 aerocityescortservice.com CNAME .
@@ -29860,8 +29860,6 @@ escortsxp.com CNAME .
 *.escortsxp.com CNAME .
 escortsyputas.com CNAME .
 *.escortsyputas.com CNAME .
-escortsz.com CNAME .
-*.escortsz.com CNAME .
 escortszonasur.com CNAME .
 *.escortszonasur.com CNAME .
 escorttaksim.com CNAME .
@@ -39786,8 +39784,6 @@ hottestphd.com CNAME .
 *.hottestphd.com CNAME .
 hottestphq.com CNAME .
 *.hottestphq.com CNAME .
-hottestpornactress.com CNAME .
-*.hottestpornactress.com CNAME .
 hottestpornlist.com CNAME .
 *.hottestpornlist.com CNAME .
 hottestpornx.com CNAME .
@@ -71300,6 +71296,8 @@ thatspersonal.com CNAME .
 *.thatspersonal.com CNAME .
 thayksada.com CNAME .
 *.thayksada.com CNAME .
+the-666.com CNAME .
+*.the-666.com CNAME .
 the-bitcoin-erapro.com CNAME .
 *.the-bitcoin-erapro.com CNAME .
 the-cuties.com CNAME .
@@ -84118,6 +84116,8 @@ xxx.diet CNAME .
 *.xxx.diet CNAME .
 3movs.digital CNAME .
 *.3movs.digital CNAME .
+aligay.digital CNAME .
+*.aligay.digital CNAME .
 alxxnxxxxsex.digital CNAME .
 *.alxxnxxxxsex.digital CNAME .
 alxxnxxxxxsex.digital CNAME .
@@ -93178,8 +93178,6 @@ taniyaarora.in CNAME .
 *.taniyaarora.in CNAME .
 tannuroy.in CNAME .
 *.tannuroy.in CNAME .
-tannusinghal.in CNAME .
-*.tannusinghal.in CNAME .
 tanvirai.in CNAME .
 *.tanvirai.in CNAME .
 tanyadesai.in CNAME .
@@ -93936,8 +93934,6 @@ hardindianvideos.info CNAME .
 *.hardindianvideos.info CNAME .
 havazona.info CNAME .
 *.havazona.info CNAME .
-hawaiicountycdp.info CNAME .
-*.hawaiicountycdp.info CNAME .
 haysexdam.info CNAME .
 *.haysexdam.info CNAME .
 hd-pornos.info CNAME .
@@ -95342,6 +95338,8 @@ heartcoredev.itch.io CNAME .
 *.heartcoredev.itch.io CNAME .
 heedless.itch.io CNAME .
 *.heedless.itch.io CNAME .
+hellocrime.itch.io CNAME .
+*.hellocrime.itch.io CNAME .
 hentaigamesdev.itch.io CNAME .
 *.hentaigamesdev.itch.io CNAME .
 hentairoom.itch.io CNAME .
@@ -95366,6 +95364,8 @@ jasmin-vn.itch.io CNAME .
 *.jasmin-vn.itch.io CNAME .
 jennyvipham.itch.io CNAME .
 *.jennyvipham.itch.io CNAME .
+jigida70.itch.io CNAME .
+*.jigida70.itch.io CNAME .
 jinnxx.itch.io CNAME .
 *.jinnxx.itch.io CNAME .
 jitd.itch.io CNAME .
@@ -95500,6 +95500,8 @@ outerrealm3d.itch.io CNAME .
 *.outerrealm3d.itch.io CNAME .
 outismedia.itch.io CNAME .
 *.outismedia.itch.io CNAME .
+pantyshotgames.itch.io CNAME .
+*.pantyshotgames.itch.io CNAME .
 pastrygames.itch.io CNAME .
 *.pastrygames.itch.io CNAME .
 peons-corner.itch.io CNAME .
@@ -114156,6 +114158,8 @@ nimfomane.org CNAME .
 *.nimfomane.org CNAME .
 niverafansub.org CNAME .
 *.niverafansub.org CNAME .
+nl-bdsm.org CNAME .
+*.nl-bdsm.org CNAME .
 nmss.org CNAME .
 *.nmss.org CNAME .
 noidacallgirls.org CNAME .
@@ -119906,6 +119910,8 @@ babestar.ru CNAME .
 *.babestar.ru CNAME .
 bad-panda.ru CNAME .
 *.bad-panda.ru CNAME .
+ballonsnab.ru CNAME .
+*.ballonsnab.ru CNAME .
 balloons-club.ru CNAME .
 *.balloons-club.ru CNAME .
 banivl.ru CNAME .

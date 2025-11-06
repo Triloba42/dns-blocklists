@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 04 Nov 2025 17:27 UTC
-! Version: 2025.1104.1727.55
+! Last modified: 06 Nov 2025 01:27 UTC
+! Version: 2025.1106.0127.25
 ! Syntax: AdBlock
-! Number of entries: 9223
+! Number of entries: 9255
 !
 ||0.gp^
 ||00m.in^
@@ -133,6 +133,7 @@
 ||1url.vn^
 ||1vk.net^
 ||1west.io^
+||1wn.bz^
 ||1wrd.org^
 ||1xfn.tech^
 ||1xregister.vip^
@@ -212,6 +213,7 @@
 ||30t.me^
 ||30tools.com^
 ||31productions.de^
+||321url.com^
 ||350.my^
 ||360link.id^
 ||369.xn--6frz82g^
@@ -565,6 +567,7 @@
 ||aintok.com^
 ||ainurl.pro^
 ||docs.airship.com^
+||aishorterlink.com^
 ||aisurl.com^
 ||aitwwl.co^
 ||aiurl.app^
@@ -635,6 +638,7 @@
 ||alongno1.live^
 ||alpha.camp^
 ||alphab.gr^
+||alpinehr.ca^
 ||alsa.me^
 ||alstr.in^
 ||alter-kpi.app^
@@ -796,6 +800,7 @@
 ||asin.cc^
 ||asmoah.com^
 ||aspen.li^
+||aspireinstallations.live^
 ||asq.kr^
 ||assinar.io^
 ||short.assleo.icu^
@@ -803,6 +808,7 @@
 ||astag.top^
 ||asus.click^
 ||asusrog.de^
+||at-home-show.me^
 ||at0m.de^
 ||ata.ink^
 ||atag.pk^
@@ -1758,6 +1764,7 @@
 ||nabio.com.br^
 ||natura.com.vc^
 ||salesadvisor.nazriproton.com.my^
+||onelink.com.do^
 ||red1.com.br^
 ||redlight.com.br^
 ||short.com.vn^
@@ -2319,6 +2326,7 @@
 ||ebbco.ir^
 ||ebbkr.com^
 ||ebe.cool^
+||ebvv.com^
 ||eby.onl^
 ||s.ecchorights.com^
 ||eclink.me^
@@ -2924,6 +2932,7 @@
 ||goink.me^
 ||goitb.id^
 ||goldn.cc^
+||golink.bio^
 ||golink.one^
 ||golink.us^
 ||golinker.in^
@@ -2964,6 +2973,7 @@
 ||goqr.me^
 ||goqrgen.com^
 ||gorio.page^
+||goshopurl.com^
 ||goshort.pro^
 ||goshrink.com^
 ||gosible6.click^
@@ -3305,6 +3315,7 @@
 ||icux.xyz^
 ||one.icykit.com^
 ||amirhossein.id.ir^
+||sl.duyluandethuong.id.vn^
 ||go.id.me^
 ||idch.link^
 ||idek.net^
@@ -4040,6 +4051,7 @@
 ||linkaku.homes^
 ||linkaku.pro^
 ||linkallstar.com^
+||linkaloo.it^
 ||linkalp.com^
 ||linkapp.click^
 ||linkasli.pro^
@@ -4117,6 +4129,7 @@
 ||linking.is^
 ||linkins.live^
 ||linkinto.net^
+||linkio.it^
 ||linkiq.co^
 ||linkis.co^
 ||linkit.net^
@@ -4239,6 +4252,7 @@
 ||linkstracer.com^
 ||linksubmit.net^
 ||linksumo.com^
+||linksvid.com^
 ||linksvip.one^
 ||linksy.io^
 ||linkt.ink^
@@ -4255,6 +4269,7 @@
 ||linktrimmer.com^
 ||linktw.in^
 ||linkunshorten.com^
+||linkur.co^
 ||linkurltiny.com^
 ||linkutama.app^
 ||linkverified.net^
@@ -4454,6 +4469,7 @@
 ||news.ltdo.org^
 ||vote.ltdo.org^
 ||ltl.bio^
+||ltnurl.com^
 ||lttr.ai^
 ||go.lu-h.de^
 ||lua.sh^
@@ -4488,6 +4504,7 @@
 ||lyn.bz^
 ||lync.cc^
 ||lynk.ec^
+||lynkat.net^
 ||lynkflow.me^
 ||lynki.link^
 ||lynko.in^
@@ -4758,6 +4775,7 @@
 ||misitiocr.com^
 ||mitchi.id^
 ||mitsha.re^
+||link.miu2.fr^
 ||miurl.do^
 ||mivfg.com^
 ||mixi.bz^
@@ -4858,6 +4876,7 @@
 ||mrx.bz^
 ||mrx.cl^
 ||ms0.org^
+||msai.news^
 ||msatt.uk^
 ||mscut.eu^
 ||msft.it^
@@ -5255,6 +5274,7 @@
 ||oh.pn^
 ||ohmy.link^
 ||ohstitans.org^
+||ohuowd.com^
 ||ohw.tf^
 ||oii.io^
 ||oikit.link^
@@ -5672,6 +5692,7 @@
 ||go.poweren.ir^
 ||poy.one^
 ||pp.cr^
+||ppa.as^
 ||ppdail.com^
 ||pplx.ai^
 ||ppmc.me^
@@ -5860,6 +5881,7 @@
 ||qrcd.org^
 ||qrco.de^
 ||qrcode.ai^
+||qrcode.im^
 ||qrcode.pl^
 ||qrcodedynamic.com^
 ||qrcood.com^
@@ -5888,6 +5910,7 @@
 ||qrouton.jp^
 ||qrpathway.com^
 ||qrpol.com^
+||qrpro.net^
 ||qrs.ly^
 ||qrsu.io^
 ||qrtag.fr^
@@ -6144,6 +6167,7 @@
 ||s.rlp.de^
 ||rlu.ru^
 ||rly.pt^
+||rmmlink.com^
 ||rmsc.io^
 ||rmuti.me^
 ||rndrlink.com^
@@ -6587,6 +6611,7 @@
 ||shortenurl.org^
 ||shortenurls.eu^
 ||shortenworld.com^
+||shortenx.com^
 ||shortenx.eu^
 ||shorter.gg^
 ||shorter.me^
@@ -7093,6 +7118,7 @@
 ||spdurl.com^
 ||spectre.work^
 ||spedr.com^
+||speedyshort.com^
 ||spgrp.sg^
 ||spicc.io^
 ||spid.io^
@@ -7161,6 +7187,7 @@
 ||ssff.cl^
 ||ssl.gs^
 ||ssl-check-links.info^
+||ssly.us^
 ||ssur.cc^
 ||st.news^
 ||st3.pro^
@@ -7423,6 +7450,7 @@
 ||terijoss.com^
 ||terp.icu^
 ||tetherlink.us^
+||texas-lands.org^
 ||texas88register.com^
 ||texas88vvip.org^
 ||texasbisa.org^
@@ -7654,6 +7682,7 @@
 ||tmidao.com^
 ||tmidaos.com^
 ||tmlabs.in^
+||tmm.mx^
 ||tmsnrt.rs^
 ||tmt.pw^
 ||tmz.me^
@@ -7877,6 +7906,7 @@
 ||turboagram.com^
 ||turlt.com^
 ||turlw.com^
+||turnonthesubtitles.org^
 ||turo.us^
 ||turtl.ink^
 ||turtlink.com^
@@ -8214,6 +8244,7 @@
 ||urls.to^
 ||urls-short.de^
 ||urls-shortener.eu^
+||urls1xx.com^
 ||urlsear.ch^
 ||urlsh.us^
 ||urlshor.com^
@@ -8861,6 +8892,7 @@
 ||x.nu^
 ||x-i.me^
 ||x-shrtn.com^
+||x0xdesign.com^
 ||x10.mx^
 ||x11.pw^
 ||x1a.eu^

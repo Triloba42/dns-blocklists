@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Nov 2025 18:27 UTC
-# Version: 2025.1105.1827.08
+# Last modified: 06 Nov 2025 02:26 UTC
+# Version: 2025.1106.0226.15
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 76170
+# Number of entries: 76173
 #
 local=/001-adult-toys-n-sex-dolls.com/
 local=/001680.xyz/
@@ -348,6 +348,7 @@ local=/19yoporn.com/
 local=/1a.nl/
 local=/1a-pussy.de/
 local=/1a-sexsuchmaschine.de/
+local=/1anime2024.com/
 local=/1aporn.com/
 local=/1asstr.org/
 local=/1baiser.com/
@@ -2886,7 +2887,6 @@ local=/aerialporn.xyz/
 local=/aerialsex.xyz/
 local=/aerialxxx.xyz/
 local=/aero-transport.ru/
-local=/aerocitycallgirlnumber.com/
 local=/aerocitycallgirls.com/
 local=/aerocitycallgirls.in/
 local=/aerocityescorts.in/
@@ -3654,6 +3654,7 @@ local=/alienporno.space/
 local=/aliensex.xyz/
 local=/alienxxx.xyz/
 local=/aligagay.com/
+local=/aligay.digital/
 local=/alightporn.xyz/
 local=/alightsex.xyz/
 local=/alightxxx.xyz/
@@ -7111,6 +7112,7 @@ local=/balletparaadultos.com/
 local=/balletporn.xyz/
 local=/balletsex.xyz/
 local=/balletxxx.xyz/
+local=/ballonsnab.ru/
 local=/balloonboutiqueessex.com/
 local=/balloons-club.ru/
 local=/ballroom.gay/
@@ -22085,7 +22087,6 @@ local=/escortsvilla.com/
 local=/escortsvips.com/
 local=/escortsxp.com/
 local=/escortsyputas.com/
-local=/escortsz.com/
 local=/escortszonasur.com/
 local=/escorttaksim.com/
 local=/escortvip.info/
@@ -30066,7 +30067,6 @@ local=/havesexpro18.store/
 local=/havesexwith.com/
 local=/havesexwithyourhusband.com/
 local=/havingsexwithmegatron.xyz/
-local=/hawaiicountycdp.info/
 local=/hawttt.ca/
 local=/haxxx.top/
 local=/hay.sex/
@@ -32454,7 +32454,6 @@ local=/hottestnudemodels.com/
 local=/hottestorientalsite.com/
 local=/hottestphd.com/
 local=/hottestphq.com/
-local=/hottestpornactress.com/
 local=/hottestpornlist.com/
 local=/hottestpornx.com/
 local=/hottestptv.com/
@@ -34467,6 +34466,7 @@ local=/hangovercatpurrroduction.itch.io/
 local=/hatchet-games.itch.io/
 local=/heartcoredev.itch.io/
 local=/heedless.itch.io/
+local=/hellocrime.itch.io/
 local=/hentaigamesdev.itch.io/
 local=/hentairoom.itch.io/
 local=/hhrichards.itch.io/
@@ -34479,6 +34479,7 @@ local=/infidelisoft.itch.io/
 local=/jackshammer.itch.io/
 local=/jasmin-vn.itch.io/
 local=/jennyvipham.itch.io/
+local=/jigida70.itch.io/
 local=/jinnxx.itch.io/
 local=/jitd.itch.io/
 local=/jonesy75.itch.io/
@@ -34546,6 +34547,7 @@ local=/oolay-tiger.itch.io/
 local=/orlando-inlove.itch.io/
 local=/outerrealm3d.itch.io/
 local=/outismedia.itch.io/
+local=/pantyshotgames.itch.io/
 local=/pastrygames.itch.io/
 local=/peons-corner.itch.io/
 local=/perilous-words.itch.io/
@@ -44377,6 +44379,7 @@ local=/nkbusinessexperts.com/
 local=/nksalesexport.shop/
 local=/nksexpresstrucking.com/
 local=/nkxxx.top/
+local=/nl-bdsm.org/
 local=/nladult.ca/
 local=/nladult.com/
 local=/nlcafe.hu/
@@ -64652,7 +64655,6 @@ local=/taniyaarora.in/
 local=/taniyapatel.net/
 local=/tankouhentai.com/
 local=/tannuroy.in/
-local=/tannusinghal.in/
 local=/tanputas.com/
 local=/tantaly.com/
 local=/tantaly.de/
@@ -65467,6 +65469,7 @@ local=/thatsitcomshow.com/
 local=/thatsnot.gay/
 local=/thatspersonal.com/
 local=/thayksada.com/
+local=/the-666.com/
 local=/the-aznude.cfd/
 local=/the-beeg.online/
 local=/the-bitcoin-erapro.com/
