@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Nov 2025 22:34 UTC
-# Version: 2025.1107.2234.55
+# Last modified: 08 Nov 2025 02:33 UTC
+# Version: 2025.1108.0233.46
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11293
+# Number of entries: 11301
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -244,6 +244,7 @@ local=/2-lib.org/
 local=/20090910.xyz/
 local=/20links.com/
 local=/t.213891.xyz/
+local=/t-backup.213891.xyz/
 local=/22-hd.com/
 local=/226272.xyz/
 local=/tracker.23794.top/
@@ -2452,12 +2453,14 @@ local=/ddl.me/
 local=/ddl.to/
 local=/ddl-warez.cc/
 local=/ddl-warez.org/
+local=/ddl-warez.to/
 local=/ddl-world.ws/
 local=/ddl2.com/
 local=/ddl2.ws/
 local=/ddlbase.com/
 local=/ddlbase.net/
 local=/ddlcenter.com/
+local=/ddlicious.com/
 local=/ddlsite.com/
 local=/ddlspot.com/
 local=/ddlvalley.me/
@@ -2545,7 +2548,9 @@ local=/dfichiers.com/
 local=/dflix.live/
 local=/cm.dfnbd.net/
 local=/em.dfnbd.net/
+local=/srl.dfnbd.net/
 local=/tube.dfnbd.net/
+local=/tv.dfnbd.net/
 local=/dfox.it/
 local=/mixes.dfx.at/
 local=/tr-rh-zhuqiy.dgj055.icu/
@@ -2571,6 +2576,7 @@ local=/digbt.org/
 local=/diggnation.org/
 local=/srv5.digiboy.ir/
 local=/diginetbd.net/
+local=/bflix.digiomg.com/
 local=/digital-eliteboard.com/
 local=/digitalboots.net/
 local=/tracker.digitalcore.club/
@@ -2597,6 +2603,7 @@ local=/dirkstream.com/
 local=/dirtytorrents.com/
 local=/dirtywarez.com/
 local=/dirtywarez.org/
+local=/discount-inks.com/
 local=/discoveryftp.net/
 local=/discoverynetbd.com/
 local=/ditbd.net/
@@ -2854,6 +2861,7 @@ local=/downtr.cc/
 local=/downturk.net/
 local=/doxma.com/
 local=/dp27.ru/
+local=/tracker.guguan.dpdns.org/
 local=/dpstream.cc/
 local=/dpstream.lol/
 local=/dpstream.net/

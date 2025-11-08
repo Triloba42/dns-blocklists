@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762555260 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762569600 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Nov 2025 22:41 UTC
-; Version: 2025.1107.2241.08
+; Last modified: 08 Nov 2025 02:40 UTC
+; Version: 2025.1108.0240.08
 ; Syntax: RPZ
-; Number of entries: 13578
+; Number of entries: 13600
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -7497,6 +7497,8 @@ bilidon.dnsuser.info CNAME .
 *.bilidon.dnsuser.info CNAME .
 vpngermany.dzzz.info CNAME .
 *.vpngermany.dzzz.info CNAME .
+easynetwork.info CNAME .
+*.easynetwork.info CNAME .
 echous.info CNAME .
 *.echous.info CNAME .
 everyproxies.info CNAME .
@@ -10567,6 +10569,8 @@ adguardpi.duckdns.org CNAME .
 *.adguardpi.duckdns.org CNAME .
 aduma15.duckdns.org CNAME .
 *.aduma15.duckdns.org CNAME .
+andryk111.duckdns.org CNAME .
+*.andryk111.duckdns.org CNAME .
 armm.duckdns.org CNAME .
 *.armm.duckdns.org CNAME .
 bitly-galatikx.duckdns.org CNAME .
@@ -10585,6 +10589,10 @@ gcpddns.duckdns.org CNAME .
 *.gcpddns.duckdns.org CNAME .
 genielee.duckdns.org CNAME .
 *.genielee.duckdns.org CNAME .
+home27.duckdns.org CNAME .
+*.home27.duckdns.org CNAME .
+homejerem.duckdns.org CNAME .
+*.homejerem.duckdns.org CNAME .
 huawaakiskokoa.duckdns.org CNAME .
 *.huawaakiskokoa.duckdns.org CNAME .
 jfeoks.duckdns.org CNAME .
@@ -10603,16 +10611,26 @@ ldaman.duckdns.org CNAME .
 *.ldaman.duckdns.org CNAME .
 leoadguard.duckdns.org CNAME .
 *.leoadguard.duckdns.org CNAME .
+morgenegg.duckdns.org CNAME .
+*.morgenegg.duckdns.org CNAME .
 nas1403.duckdns.org CNAME .
 *.nas1403.duckdns.org CNAME .
+nikamurs.duckdns.org CNAME .
+*.nikamurs.duckdns.org CNAME .
+nqh-dns.duckdns.org CNAME .
+*.nqh-dns.duckdns.org CNAME .
 o--o.duckdns.org CNAME .
 *.o--o.duckdns.org CNAME .
 osefcorp.duckdns.org CNAME .
 *.osefcorp.duckdns.org CNAME .
+pitchforkwaydns.duckdns.org CNAME .
+*.pitchforkwaydns.duckdns.org CNAME .
 punono.duckdns.org CNAME .
 *.punono.duckdns.org CNAME .
 quanmeme.duckdns.org CNAME .
 *.quanmeme.duckdns.org CNAME .
+rcpc2.duckdns.org CNAME .
+*.rcpc2.duckdns.org CNAME .
 salvadoserver.duckdns.org CNAME .
 *.salvadoserver.duckdns.org CNAME .
 site-2.duckdns.org CNAME .
@@ -10623,6 +10641,10 @@ tuandns.duckdns.org CNAME .
 *.tuandns.duckdns.org CNAME .
 tungdnsne.duckdns.org CNAME .
 *.tungdnsne.duckdns.org CNAME .
+unixfox.duckdns.org CNAME .
+*.unixfox.duckdns.org CNAME .
+vpich.duckdns.org CNAME .
+*.vpich.duckdns.org CNAME .
 wired-guardian.duckdns.org CNAME .
 *.wired-guardian.duckdns.org CNAME .
 wisehomeguard.duckdns.org CNAME .

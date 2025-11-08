@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 07 Nov 2025 21:28 UTC
-! Version: 2025.1107.2128.46
+! Last modified: 08 Nov 2025 01:27 UTC
+! Version: 2025.1108.0127.37
 ! Syntax: AdBlock
-! Number of entries: 14047
+! Number of entries: 14069
 !
 ||01broker.com^
 ||01crypto.com^
@@ -2855,6 +2855,7 @@
 ||cuffup-shop.com^
 ||cullgame.com^
 ||culture-chameleon.com^
+||culture-theatre.com^
 ||cultures-theater.com^
 ||cummari-tech.de^
 ||cupliebe.com^
@@ -2961,6 +2962,7 @@
 ||dasbatteries.com^
 ||dasbuchdeslebens.at^
 ||daschachten.de^
+||dashausausholz.com^
 ||dashausimgarten.de^
 ||dashdeals.de^
 ||dasleselabor.com^
@@ -2984,6 +2986,7 @@
 ||dbestbrands.com^
 ||dbflink.com^
 ||dbh-shopping.de^
+||dbooking.de^
 ||dbpass.de^
 ||dbrello.de^
 ||dbw-handel.de^
@@ -3015,6 +3018,7 @@
 ||de-musicshop.com^
 ||de-outdoor.com^
 ||de-rimowa.shop^
+||de-talent-trail.works^
 ||de-toy.com^
 ||de-upwork.online^
 ||de-vivobarefoots.com^
@@ -3028,6 +3032,8 @@
 ||dealparty.nl^
 ||dealpinaverkauf.com^
 ||dealster.store^
+||dealviral.de^
+||dealwinkelyes.shop^
 ||deaspierhireworks.xyz^
 ||deautorabatt.com^
 ||debabyprodukt.com^
@@ -3045,6 +3051,7 @@
 ||decn24.de^
 ||decookware.com^
 ||decor-muse.com^
+||decoratetheroom.com^
 ||decoration-house.com^
 ||decorationdeal.com^
 ||decorationmaterialsonline.com^
@@ -3135,6 +3142,7 @@
 ||demeaningfulbrands.com^
 ||demediz.com^
 ||demeindlshop.com^
+||demetramaheras.com^
 ||demonia-finland.com^
 ||demoniabootscanada.com^
 ||demoniabootsireland.com^
@@ -3266,6 +3274,7 @@
 ||didro.de^
 ||die-garten-meister.de^
 ||die-sattelgalerie.shop^
+||diebestenparfums.xyz^
 ||diection.com^
 ||diekaffeeverkauf.com^
 ||dielabubu.store^
@@ -3283,6 +3292,7 @@
 ||diffusoriacusticisorgenti.com^
 ||digi-markets.de^
 ||digiopdesign.shop^
+||digipoint.org^
 ||digipulse.online^
 ||digisingl.ru^
 ||digital-starten.com^
@@ -3326,6 +3336,7 @@
 ||discounted.bike^
 ||discountfahrradde.com^
 ||discountmall.club^
+||discountsalestores.com^
 ||discountsrc.com^
 ||discountsshoe.com^
 ||discoverculture.com^
@@ -3404,12 +3415,14 @@
 ||doorwaveca.com^
 ||doosd.pro^
 ||dopamineoutfit.com^
+||dope-snow-osterreich.at^
 ||dopeeesti.com^
 ||dopesale.vip^
 ||dopeskijacke.at^
 ||dopesnownederland.com^
 ||dopesnowromania.com^
 ||dopesnowsuomi.com^
+||dopesnowswitzerland.com^
 ||dopplergunstig.com^
 ||doption24.de^
 ||dorat.de^
@@ -3462,6 +3475,7 @@
 ||dresdenmodehaus.de^
 ||dresdnererlebniswelteu.shop^
 ||dressedandblessed.nl^
+||dressfat.com^
 ||dressshirtsblouses.com^
 ||drezia.com^
 ||drgillmaier.de^
@@ -3470,6 +3484,7 @@
 ||drinkevolution.shop^
 ||drivegoodwheels.com^
 ||drmartens-eu.com^
+||drmartens-outlet.com^
 ||drmartens-outlets.com^
 ||drmartensbatai.com^
 ||drmartensbot.com^
@@ -3525,6 +3540,7 @@
 ||duneshoessouthafrica.com^
 ||dunklerkleidung.com^
 ||dunndavid.com^
+||duplexshop.com^
 ||duplicaty.com^
 ||durona.de^
 ||duros.de^
@@ -3572,6 +3588,7 @@
 ||east-trading.shop^
 ||eastcapitalmarkets.com^
 ||eastpakwien.at^
+||easy-oel.de^
 ||easy-software.org^
 ||easyca.ca^
 ||easycrypto4u.com^
@@ -3597,6 +3614,7 @@
 ||ebisushijo.com^
 ||ebooklyn.net^
 ||eburpat.com^
+||18023.ebizv4l.ebusiness-challenge.at^
 ||renemoney444.m.ec21.com^
 ||ecco-discount.us^
 ||eccodeutschland.de^
@@ -3656,10 +3674,12 @@
 ||edirectclub.hk^
 ||edisonlamps.co^
 ||edlerader.de^
+||edmarketplace4all.com^
 ||edpillen.at^
 ||edpills.de^
 ||edpilulanetwork.com^
 ||edrxmeds.com^
+||ee-fahrrad-handel.de^
 ||eesasinternationalbv.com^
 ||eew-karriere.de^
 ||effiziente-taubenabwehr.at^
@@ -3668,12 +3688,14 @@
 ||eggelingen.de^
 ||egooutdoortools.com^
 ||egoryspecies.com^
+||egotoolshop.com^
 ||ehandler.de^
 ||ehkschutzengel.de^
 ||ehletsandreabergwelpen.de^
 ||ehreer.com^
 ||eigenheimmagazin.de^
 ||eigensinnig-wien.shop^
+||eimer-geraeten.com^
 ||ein-kaffee.de^
 ||einayah.com^
 ||einfachelinklogistik.com^

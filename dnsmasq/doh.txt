@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Nov 2025 10:33 UTC
-# Version: 2025.1106.1033.26
+# Last modified: 08 Nov 2025 02:39 UTC
+# Version: 2025.1108.0239.35
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3366
+# Number of entries: 3376
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1111,6 +1111,7 @@ local=/ad1guard.duckdns.org/
 local=/adgrm.duckdns.org/
 local=/adguardpi.duckdns.org/
 local=/aduma15.duckdns.org/
+local=/andryk111.duckdns.org/
 local=/armm.duckdns.org/
 local=/blamb.duckdns.org/
 local=/cdzopi.duckdns.org/
@@ -1119,6 +1120,8 @@ local=/dorkanddoodle.duckdns.org/
 local=/eweyo.duckdns.org/
 local=/gcpddns.duckdns.org/
 local=/genielee.duckdns.org/
+local=/home27.duckdns.org/
+local=/homejerem.duckdns.org/
 local=/jfeoks.duckdns.org/
 local=/jurre-home.duckdns.org/
 local=/kalwat.duckdns.org/
@@ -1127,16 +1130,23 @@ local=/kolobok2.duckdns.org/
 local=/krtekvpn.duckdns.org/
 local=/ldaman.duckdns.org/
 local=/leoadguard.duckdns.org/
+local=/morgenegg.duckdns.org/
 local=/nas1403.duckdns.org/
+local=/nikamurs.duckdns.org/
+local=/nqh-dns.duckdns.org/
 local=/o--o.duckdns.org/
 local=/osefcorp.duckdns.org/
+local=/pitchforkwaydns.duckdns.org/
 local=/punono.duckdns.org/
 local=/quanmeme.duckdns.org/
+local=/rcpc2.duckdns.org/
 local=/salvadoserver.duckdns.org/
 local=/site-2.duckdns.org/
 local=/site-3.duckdns.org/
 local=/tuandns.duckdns.org/
 local=/tungdnsne.duckdns.org/
+local=/unixfox.duckdns.org/
+local=/vpich.duckdns.org/
 local=/wired-guardian.duckdns.org/
 local=/wisehomeguard.duckdns.org/
 local=/workcavestl.duckdns.org/

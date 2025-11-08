@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Nov 2025 21:30 UTC
-# Version: 2025.1107.2130.29
+# Last modified: 08 Nov 2025 01:29 UTC
+# Version: 2025.1108.0129.19
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9297
+# Number of entries: 9304
 #
 local=/0.gp/
 local=/00m.in/
@@ -1910,6 +1910,7 @@ local=/curlmin.com/
 local=/curriculumsystem.org/
 local=/curty.in/
 local=/cus.bio/
+local=/customers.my/
 local=/customurlshortener.com/
 local=/cut.by/
 local=/cut.gl/
@@ -1977,6 +1978,7 @@ local=/cutto.io/
 local=/cutts.in/
 local=/cutturl.xyz/
 local=/cutu.me/
+local=/cutur.link/
 local=/cuturl.cloud/
 local=/cuturl.com/
 local=/cuturl.net/
@@ -2057,6 +2059,7 @@ local=/dbatsch.com/
 local=/dbfuk.org/
 local=/dblp.org/
 local=/dbolink.com/
+local=/dbox.lol/
 local=/dbricks.co/
 local=/go.dbs.com/
 local=/dcbspage.org/
@@ -2065,6 +2068,7 @@ local=/dcps.co/
 local=/dcri.io/
 local=/dcshru.ru/
 local=/dd.ma/
+local=/ddls.to/
 local=/ddot.to/
 local=/ddw.nu/
 local=/dealc.me/
@@ -2193,6 +2197,7 @@ local=/doburl.com/
 local=/dockr.ly/
 local=/docremedio.xyz/
 local=/docthem.link/
+local=/dogelexus.win/
 local=/dogelexusin.store/
 local=/doiop.com/
 local=/dojobe.link/
@@ -2217,6 +2222,7 @@ local=/downloadtonic.com/
 local=/doxane.fr/
 local=/ppt.dpanda.in/
 local=/dpb.fm/
+local=/dpb.link/
 local=/dpba2404.com/
 local=/dpessm.com/
 local=/dpmd.ai/
@@ -2330,6 +2336,7 @@ local=/earthtoday.info/
 local=/link.easwipe.com/
 local=/easy2links.com/
 local=/easybio.info/
+local=/easycut.io/
 local=/easylinkref.com/
 local=/easyuri.com/
 local=/easyurl.me/

@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 07 Nov 2025 21:30 UTC
-! Version: 2025.1107.2130.29
+! Last modified: 08 Nov 2025 01:29 UTC
+! Version: 2025.1108.0129.19
 ! Syntax: AdBlock
-! Number of entries: 9297
+! Number of entries: 9304
 !
 ||0.gp^
 ||00m.in^
@@ -1911,6 +1911,7 @@
 ||curriculumsystem.org^
 ||curty.in^
 ||cus.bio^
+||customers.my^
 ||customurlshortener.com^
 ||cut.by^
 ||cut.gl^
@@ -1978,6 +1979,7 @@
 ||cutts.in^
 ||cutturl.xyz^
 ||cutu.me^
+||cutur.link^
 ||cuturl.cloud^
 ||cuturl.com^
 ||cuturl.net^
@@ -2058,6 +2060,7 @@
 ||dbfuk.org^
 ||dblp.org^
 ||dbolink.com^
+||dbox.lol^
 ||dbricks.co^
 ||go.dbs.com^
 ||dcbspage.org^
@@ -2066,6 +2069,7 @@
 ||dcri.io^
 ||dcshru.ru^
 ||dd.ma^
+||ddls.to^
 ||ddot.to^
 ||ddw.nu^
 ||dealc.me^
@@ -2194,6 +2198,7 @@
 ||dockr.ly^
 ||docremedio.xyz^
 ||docthem.link^
+||dogelexus.win^
 ||dogelexusin.store^
 ||doiop.com^
 ||dojobe.link^
@@ -2218,6 +2223,7 @@
 ||doxane.fr^
 ||ppt.dpanda.in^
 ||dpb.fm^
+||dpb.link^
 ||dpba2404.com^
 ||dpessm.com^
 ||dpmd.ai^
@@ -2331,6 +2337,7 @@
 ||link.easwipe.com^
 ||easy2links.com^
 ||easybio.info^
+||easycut.io^
 ||easylinkref.com^
 ||easyuri.com^
 ||easyurl.me^

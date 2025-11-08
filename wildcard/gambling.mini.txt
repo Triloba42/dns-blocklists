@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Nov 2025 22:34 UTC
-# Version: 2025.1107.2234.31
+# Last modified: 08 Nov 2025 02:33 UTC
+# Version: 2025.1108.0233.11
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 44779
+# Number of entries: 44855
 #
 *.0-casino.info
 *.000-online-casino.com
@@ -15957,9 +15957,13 @@
 *.ctlottery.org
 *.ctownraces.com
 *.cuan128link.org
+*.cuan138b.site
+*.cuan8.com
+*.cuanlele4d.info
 *.cuanlele4d.org
 *.cuanpm.xyz
 *.cuanqq.org
+*.cuansekarang.site
 *.cuansisi.org
 *.cuantoacuanto.com
 *.cuanwin126.com
@@ -15980,7 +15984,9 @@
 *.curacao-egaming.com
 *.curacao-online-casinos.com
 *.curebets.com
+*.curlyincollege.com
 *.currybread.com
+*.curus88asli.com
 *.cusco-casino1.com
 *.cusco-casino2.com
 *.cusco-casino3.com
@@ -16006,6 +16012,7 @@
 *.cybercitypoker.io
 *.cyberclubcasino.com
 *.cyberspinscasinol.com
+*.cyclesoflife.biz
 *.cynbetss.com
 *.cyprussportingclubs.com
 *.czech-casino.online
@@ -16055,6 +16062,7 @@
 *.daddy-casino-wkj.top
 *.daddy-casino-zer.com
 *.daddy-casinok.network
+*.daddy-casinos.com
 *.daddy-casinoz.blog
 *.daddy-casinoz.cam
 *.daddy203.casino
@@ -16123,6 +16131,7 @@
 *.daftarbumi.live
 *.daftardisini.xyz
 *.daftardulu.xyz
+*.daftarhyper.site
 *.daftarjostoto.com
 *.daftarqqpalace.com
 *.daftarsalam.online
@@ -16147,6 +16156,8 @@
 *.dailyforex.com
 *.dailyjili-casino.com
 *.dailyspins.com
+*.dailytimes.live
+*.daisototo.top
 *.daisyslots.com
 *.dakotadunescasinov.com
 *.dama-nv-casinos.com
@@ -16156,7 +16167,11 @@
 *.damedasu.net
 *.dana169.com
 *.danacasino.net
+*.danacepat.site
+*.danatoto130.com
 *.danatoto28.com
+*.danatoto33831.com
+*.danatoto45.net
 *.dance-battle.com
 *.dancebet90.casino
 *.dancingdrumsslotscasinoc.com
@@ -16178,6 +16193,7 @@
 *.dap.com
 *.daphnescapades.com
 *.dapoker.app
+*.dapurbet.net
 *.daracasino.com
 *.darazplay.casino
 *.darkbets.fun
@@ -16185,17 +16201,20 @@
 *.darklathe.com
 *.darknetdrugmarketplace.shop
 *.darknetmarketsabc.shop
+*.darknetwaffen.com
 *.darkwebmarketlinkxx.shop
 *.darmowybonus.com
 *.darwin-casino-australia.com
 *.darwnn.shop
 *.dasarforex.com
 *.dashboard.fund
+*.dasi4d.net
 *.dasirindu.xyz
 *.dasistcasino.com
 *.dasiwin.xyz
 *.databet.ec
 *.datadrivenpoker.com
+*.datafirstone.com
 *.betwayreg.datafree.io
 *.dataplusteknologi.id
 *.datatiti.xyz
@@ -16210,6 +16229,7 @@
 *.datukbos.com
 *.daun-toto.xyz
 *.daun77.blog
+*.daun77.live
 *.daundewa.com
 *.davaowincasino.com
 *.davbet.com
@@ -16248,6 +16268,7 @@
 *.dcmdirect.com
 *.dctcasinocom.com
 *.dctcasinodct.com
+*.dd0622.com
 *.ddbolakaki.xyz
 *.dddjogo.com
 *.ddselistens.shop
@@ -16292,6 +16313,7 @@
 *.dedicated-poker.com
 *.deduxcasino-950.de
 *.deeatogel.com
+*.deebrownmusic.com
 *.def23.vip
 *.deficasinosz.com
 *.degencasino.live
@@ -16302,6 +16324,7 @@
 *.delentredeux.fr
 *.deleonslots.com
 *.deliciousslots.com
+*.delima777slot.com
 *.deloro-casino-it.com
 *.delorocasino.co
 *.delorocasino.com
@@ -16330,6 +16353,7 @@
 *.dendera-casino-de.com
 *.denderacasino.com
 *.denderacasino-de.com
+*.dendycasino.ru
 *.denemebonusucasinositeleri.blog
 *.denemebonususlotsiteleri.blog
 *.denemebonusuverencasinositeleri.blog
@@ -16338,6 +16362,7 @@
 *.denmarkcasinozone.com
 *.denverindiaexpress.com
 *.depni.casino
+*.depo77.club
 *.depobos139.com
 *.depobos89088.com
 *.depoin88.net
@@ -16348,6 +16373,7 @@
 *.depositcasino.live
 *.depositslots-wins.ru
 *.depositwin.com
+*.depot69vip.com
 *.depoxitoslots.com
 *.depremiumcasinos.com
 *.depsitoscasino.click
@@ -16357,6 +16383,8 @@
 *.dermarollerbuy.com
 *.derunternehmenslotse.de
 *.desaangsana.id
+*.desacibuntu.com
+*.desajatikesuma-namorambe.id
 *.desawatudambo2.id
 *.descascript.shop
 *.desertnightscasino.ca
@@ -16388,6 +16416,8 @@
 *.dev-kingz.com
 *.devilbets.com
 *.devilsfoodbakery.com
+*.devontexas.com
+*.dewa69.org
 *.dewa808.shop
 *.dewa88a.com
 *.dewa99slot.org
@@ -16459,11 +16489,14 @@
 *.die-spielbank.de
 *.dielottozahlende.net
 *.diem25munich1.org
+*.digi-mods.com
 *.digibet.com
+*.digipedagogy.com
 *.digitalartserved.com
 *.digitalbets.online
 *.digitalentrepreneur.id
 *.digitalmarkettech.com
+*.digitalorg.site
 *.digitalphono.com
 *.digitastudio.com
 *.dikutip.com
@@ -16488,11 +16521,14 @@
 *.directorboard.info
 *.directtablewareproducts.com
 *.direktur303.net
+*.dirtbag.biz
 *.dirtyriverpoker.com
 *.discasino.com
 *.discountcasino.com
 *.discountwt.com
 *.disdik-bangka.org
+*.diskartepanalo.com
+*.disko69.net
 *.distributionwala.com
 *.ditobet.com
 *.ditobet-casino.com
@@ -16545,14 +16581,18 @@
 *.dlfbook.com
 *.dlmanuals.com
 *.dlrcor.com
+*.dluxeinternacional.com
 *.dlxcasino.com
 *.dmgames01.casino
+*.dmjkc.net
 *.dmt7pokerdom.com
 *.dmtc.com
 *.dmtoto.net
 *.dmtoto.org
 *.dmwin01.casino
+*.dnaslots.com
 *.dngames-casino.org
+*.dnipro.casino
 *.dobet-casino.com
 *.dobet-casino-it.com
 *.dobetcasino.org
@@ -16562,6 +16602,7 @@
 *.doctorbetcasino.com
 *.doctormaskshouseofcomics.com
 *.doctorparley5.com
+*.doctorspins.com
 *.dodep.casino
 *.dodoslott.com
 *.dodotogel.net
@@ -16572,6 +16613,7 @@
 *.dogportacademy.ca
 *.dogsfortune.com
 *.dojo77.fun
+*.doku303vip.com
 *.dokupoker.com
 *.dola789.pro
 *.dolan33.com
@@ -16623,6 +16665,7 @@
 *.donbetcasino.pl
 *.donkeypoker.store
 *.donkhunter.com
+*.dooprimeio.com
 *.dopaminascasino.com
 *.dopaminascasinobet.com
 *.dopaminascasinoplay.com
@@ -16659,6 +16702,7 @@
 *.douglasallan.com
 *.download-barname-casino-online.bet
 *.download-bazienfejar-linkmostagim.casino
+*.download-casino-online-enfejar.com
 *.download1xbet.com
 *.downstreamcasino.com
 *.downstreamcasinoc.com
@@ -16669,6 +16713,8 @@
 *.doylesroom.com
 *.dozenspins.com
 *.championcasino.dp.ua
+*.dp96menang.art
+*.dpescheduler.com
 *.dpslotwin.com
 *.dpsports.bet
 *.dr.bet
@@ -16842,7 +16888,9 @@
 *.dripcasinoya4.top
 *.dripivplus.com
 *.droidsavvy.com
+*.dromedarydreams.com
 *.drop.skin
+*.drtomrogers.com
 *.drueckglueck.com
 *.drueckglueck.de
 *.drueckglueckcasino.dk
@@ -16850,10 +16898,13 @@
 *.dsc.party
 *.dscricket.com
 *.dstress.online
+*.dszvg.com
 *.dtbets.com
+*.dtbluefilm.com
 *.dtgapi.com
 *.dtopc.com
 *.du88.com
+*.duadaz.com
 *.duarmeledak.xyz
 *.dubai777casinok.com
 *.dubaicasino.eu
@@ -16906,6 +16957,7 @@
 *.dunianagahoki.xyz
 *.duniapsg.xyz
 *.duospin1.com
+*.durangokirol.club
 *.duranlandscapingnm.com
 *.durtlaw.com
 *.dusktilldawnpoker.com
@@ -16925,6 +16977,8 @@
 *.dvdvslots.xyz
 *.dvegasslots.store
 *.dvslotscsvg.com
+*.dvtoto.net
+*.dvtoto.org
 *.dwboneheart.xyz
 *.dwtjitu.com
 *.dwv99.org
@@ -16962,6 +17016,10 @@
 *.e888hot.com
 *.e8dfjuir0tjvnrifmjweuwuicpt93hjf.com
 *.eabetsite.com
+*.eac009.com
+*.eac0571.com
+*.eac0573.com
+*.eac0791.com
 *.eac2024.org
 *.eacdn.com
 *.eagames155.com
@@ -16973,6 +17031,7 @@
 *.earnalliance.com
 *.earnbet.io
 *.eartheis.com
+*.earthtoweb.com
 *.eastarjet.com
 *.eastasiaworld.com
 *.easy.vegas
@@ -17040,6 +17099,7 @@
 *.editpapa.com
 *.edlongphotography.com
 *.edmconcretecontractors.com
+*.edpills.pro
 *.edsbet.com
 *.pid.edu.pl
 *.educareomaha.com
@@ -17062,6 +17122,7 @@
 *.efbet-online.casino
 *.efbet-slots.com
 *.efbet90.casino
+*.efekrtpx500.com
 *.efirbet.com
 *.efortuna.pl
 *.efortuna.ro
@@ -17174,6 +17235,7 @@
 *.eldoradocasino.company
 *.eldoradocasino.pro
 *.eldoradocasino-025.top
+*.eldoradocasino-967.buzz
 *.eldoradocasino-apf.top
 *.eldoradocasino-asj.top
 *.eldoradocasino-awh.top
@@ -17181,12 +17243,16 @@
 *.eldoradocasino-bhr.top
 *.eldoradocasino-bip.top
 *.eldoradocasino-bovs.fun
+*.eldoradocasino-cdy.top
 *.eldoradocasino-dzq.top
+*.eldoradocasino-egi.top
 *.eldoradocasino-eus.top
+*.eldoradocasino-eyf.top
 *.eldoradocasino-feb.top
 *.eldoradocasino-fobm.fun
 *.eldoradocasino-fqq.top
 *.eldoradocasino-ftt.top
+*.eldoradocasino-gfr.top
 *.eldoradocasino-gqc.top
 *.eldoradocasino-ick.top
 *.eldoradocasino-icn.top
@@ -17202,7 +17268,9 @@
 *.eldoradocasino-nort.fun
 *.eldoradocasino-nus.top
 *.eldoradocasino-oks.top
+*.eldoradocasino-oox.top
 *.eldoradocasino-pfv.top
+*.eldoradocasino-plc.top
 *.eldoradocasino-ptk.top
 *.eldoradocasino-qeg.top
 *.eldoradocasino-qos.top
@@ -17210,13 +17278,21 @@
 *.eldoradocasino-qyr.top
 *.eldoradocasino-rfm.top
 *.eldoradocasino-rjo.top
+*.eldoradocasino-rpp.top
+*.eldoradocasino-stq.top
 *.eldoradocasino-tbq.top
+*.eldoradocasino-tcu.top
+*.eldoradocasino-tts.top
 *.eldoradocasino-ulz.top
 *.eldoradocasino-url.top
 *.eldoradocasino-ven.top
 *.eldoradocasino-vhe.top
+*.eldoradocasino-vpl.top
+*.eldoradocasino-vwn.top
+*.eldoradocasino-wcm.top
 *.eldoradocasino-wmh.top
 *.eldoradocasino-wrl.top
+*.eldoradocasino-xdr.top
 *.eldoradocasino-ybs.top
 *.eldoradocasino-yei.top
 *.eldoradocasino-yym.top

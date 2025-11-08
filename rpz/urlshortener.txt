@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762551000 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762565340 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Nov 2025 21:30 UTC
-; Version: 2025.1107.2130.29
+; Last modified: 08 Nov 2025 01:29 UTC
+; Version: 2025.1108.0129.19
 ; Syntax: RPZ
-; Number of entries: 18594
+; Number of entries: 18608
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -9861,6 +9861,8 @@ dti.io CNAME .
 *.dti.io CNAME .
 dtsx.io CNAME .
 *.dtsx.io CNAME .
+easycut.io CNAME .
+*.easycut.io CNAME .
 edl.io CNAME .
 *.edl.io CNAME .
 egrid.io CNAME .
@@ -11607,6 +11609,8 @@ cutmy.link CNAME .
 *.cutmy.link CNAME .
 cutthis.link CNAME .
 *.cutthis.link CNAME .
+cutur.link CNAME .
+*.cutur.link CNAME .
 cwr.link CNAME .
 *.cwr.link CNAME .
 d138.link CNAME .
@@ -11633,6 +11637,8 @@ dojobe.link CNAME .
 *.dojobe.link CNAME .
 domi.link CNAME .
 *.domi.link CNAME .
+dpb.link CNAME .
+*.dpb.link CNAME .
 drafthound.link CNAME .
 *.drafthound.link CNAME .
 dropl.link CNAME .
@@ -12461,6 +12467,8 @@ csj.lol CNAME .
 *.csj.lol CNAME .
 cutt.lol CNAME .
 *.cutt.lol CNAME .
+dbox.lol CNAME .
+*.dbox.lol CNAME .
 diato.lol CNAME .
 *.diato.lol CNAME .
 fvglvsex.lol CNAME .
@@ -13881,6 +13889,8 @@ salesadvisor.nazriproton.com.my CNAME .
 *.salesadvisor.nazriproton.com.my CNAME .
 cort.my CNAME .
 *.cort.my CNAME .
+customers.my CNAME .
+*.customers.my CNAME .
 do.my CNAME .
 *.do.my CNAME .
 esa.my CNAME .
@@ -17003,6 +17013,8 @@ d.to CNAME .
 *.d.to CNAME .
 daftar.to CNAME .
 *.daftar.to CNAME .
+ddls.to CNAME .
+*.ddls.to CNAME .
 ddot.to CNAME .
 *.ddot.to CNAME .
 dell.to CNAME .
@@ -18257,6 +18269,8 @@ bet200.win CNAME .
 *.bet200.win CNAME .
 cashurl.win CNAME .
 *.cashurl.win CNAME .
+dogelexus.win CNAME .
+*.dogelexus.win CNAME .
 gacoer.win CNAME .
 *.gacoer.win CNAME .
 liga.win CNAME .

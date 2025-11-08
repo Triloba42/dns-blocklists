@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762554840 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762569180 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Nov 2025 22:34 UTC
-; Version: 2025.1107.2234.55
+; Last modified: 08 Nov 2025 02:33 UTC
+; Version: 2025.1108.0233.46
 ; Syntax: RPZ
-; Number of entries: 22586
+; Number of entries: 22602
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -3862,6 +3862,8 @@ ddlbase.com CNAME .
 *.ddlbase.com CNAME .
 ddlcenter.com CNAME .
 *.ddlcenter.com CNAME .
+ddlicious.com CNAME .
+*.ddlicious.com CNAME .
 ddlsite.com CNAME .
 *.ddlsite.com CNAME .
 ddlspot.com CNAME .
@@ -3962,6 +3964,8 @@ dididave.com CNAME .
 *.dididave.com CNAME .
 dietdinnerrecipes.com CNAME .
 *.dietdinnerrecipes.com CNAME .
+bflix.digiomg.com CNAME .
+*.bflix.digiomg.com CNAME .
 digital-eliteboard.com CNAME .
 *.digital-eliteboard.com CNAME .
 dilandau.com CNAME .
@@ -3984,6 +3988,8 @@ dirtytorrents.com CNAME .
 *.dirtytorrents.com CNAME .
 dirtywarez.com CNAME .
 *.dirtywarez.com CNAME .
+discount-inks.com CNAME .
+*.discount-inks.com CNAME .
 discoverynetbd.com CNAME .
 *.discoverynetbd.com CNAME .
 divicast.com CNAME .
@@ -12950,8 +12956,12 @@ cm.dfnbd.net CNAME .
 *.cm.dfnbd.net CNAME .
 em.dfnbd.net CNAME .
 *.em.dfnbd.net CNAME .
+srl.dfnbd.net CNAME .
+*.srl.dfnbd.net CNAME .
 tube.dfnbd.net CNAME .
 *.tube.dfnbd.net CNAME .
+tv.dfnbd.net CNAME .
+*.tv.dfnbd.net CNAME .
 diakov.net CNAME .
 *.diakov.net CNAME .
 digbazi.net CNAME .
@@ -15438,6 +15448,8 @@ downloadwarez.org CNAME .
 *.downloadwarez.org CNAME .
 downthem.org CNAME .
 *.downthem.org CNAME .
+tracker.guguan.dpdns.org CNAME .
+*.tracker.guguan.dpdns.org CNAME .
 dpstreaming.org CNAME .
 *.dpstreaming.org CNAME .
 dqqd.org CNAME .
@@ -19666,6 +19678,8 @@ darksite.to CNAME .
 *.darksite.to CNAME .
 ddl.to CNAME .
 *.ddl.to CNAME .
+ddl-warez.to CNAME .
+*.ddl-warez.to CNAME .
 donkey.to CNAME .
 *.donkey.to CNAME .
 dood.to CNAME .
@@ -22170,6 +22184,8 @@ chihaya-heroku.120181311.xyz CNAME .
 *.20090910.xyz CNAME .
 t.213891.xyz CNAME .
 *.t.213891.xyz CNAME .
+t-backup.213891.xyz CNAME .
+*.t-backup.213891.xyz CNAME .
 226272.xyz CNAME .
 *.226272.xyz CNAME .
 2381280.xyz CNAME .
