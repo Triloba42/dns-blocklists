@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762684560 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762713300 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 Nov 2025 10:36 UTC
-; Version: 2025.1109.1036.19
+; Last modified: 09 Nov 2025 18:35 UTC
+; Version: 2025.1109.1835.58
 ; Syntax: RPZ
-; Number of entries: 13722
+; Number of entries: 13728
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -5729,6 +5729,8 @@ vpnclientapp.com CNAME .
 *.vpnclientapp.com CNAME .
 vpndaily.com CNAME .
 *.vpndaily.com CNAME .
+vpndeluxe.com CNAME .
+*.vpndeluxe.com CNAME .
 vpndock.com CNAME .
 *.vpndock.com CNAME .
 vpndog.com CNAME .
@@ -6009,6 +6011,8 @@ zerotier.com CNAME .
 *.zerotier.com CNAME .
 oraclejp01.zerotorez.com CNAME .
 *.oraclejp01.zerotorez.com CNAME .
+zerotunnel.com CNAME .
+*.zerotunnel.com CNAME .
 zerovpn-app.com CNAME .
 *.zerovpn-app.com CNAME .
 httpdns.zhihu.com CNAME .
@@ -13681,6 +13685,8 @@ securedns.vendorvista.xyz CNAME .
 *.securedns.vendorvista.xyz CNAME .
 dns.vinnyp.xyz CNAME .
 *.dns.vinnyp.xyz CNAME .
+dns.vip-kingstore.xyz CNAME .
+*.dns.vip-kingstore.xyz CNAME .
 dns.vod11.xyz CNAME .
 *.dns.vod11.xyz CNAME .
 killads.vpms.xyz CNAME .

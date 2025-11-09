@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 09 Nov 2025 09:28 UTC
-! Version: 2025.1109.0928.53
+! Last modified: 09 Nov 2025 17:28 UTC
+! Version: 2025.1109.1728.48
 ! Syntax: AdBlock
-! Number of entries: 9446
+! Number of entries: 9452
 !
 ||0.gp^
 ||00m.in^
@@ -8751,6 +8751,7 @@
 ||viplink.us^
 ||vipp.link^
 ||viprupiah138.net^
+||vipshortener.com^
 ||vipslot4d.site^
 ||viraatlabs.com^
 ||viralme.me^
@@ -8818,10 +8819,12 @@
 ||vslinks.com^
 ||vt802.us^
 ||shorturl.vtcode.vn^
+||vtity.com^
 ||vtns.io^
 ||vtred.co^
 ||vtred.net^
 ||vtru.xyz^
+||vttje.top^
 ||vtu.cc^
 ||vturl.net^
 ||vu.fr^
@@ -9010,6 +9013,7 @@
 ||wmg.click^
 ||wmojo.com^
 ||wn.nr^
+||wndhj.top^
 ||wndt.nl^
 ||s.wnmu.edu^
 ||wns-academy.live^
@@ -9054,6 +9058,7 @@
 ||on.wsj.com^
 ||wslat.net^
 ||wso.li^
+||wssurl.com^
 ||wsurl.link^
 ||wtc.la^
 ||wtfurl.com^
@@ -9065,6 +9070,7 @@
 ||wurlz.com^
 ||ww7.fr^
 ||wwat.ch^
+||wwdurl.com^
 ||wwf.to^
 ||wwp.news^
 ||wwtt.to^

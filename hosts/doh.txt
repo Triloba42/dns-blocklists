@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Nov 2025 10:35 UTC
-# Version: 2025.1109.1035.48
+# Last modified: 09 Nov 2025 18:35 UTC
+# Version: 2025.1109.1835.27
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3862
+# Number of entries: 3863
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -3625,6 +3625,7 @@
 0.0.0.0 dns2.vinc.me
 0.0.0.0 dns.vinnyp.xyz
 0.0.0.0 dns.vinokurov.tk
+0.0.0.0 dns.vip-kingstore.xyz
 0.0.0.0 z.vipit.one
 0.0.0.0 dns.virtual-qr.ir
 0.0.0.0 ad.visbran.fr

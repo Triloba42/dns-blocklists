@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Nov 2025 10:36 UTC
-# Version: 2025.1109.1036.19
+# Last modified: 09 Nov 2025 18:35 UTC
+# Version: 2025.1109.1835.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6861
+# Number of entries: 6864
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -6402,6 +6402,7 @@ local=/villalazza.stream/
 local=/dns2.vinc.me/
 local=/dns.vinnyp.xyz/
 local=/dns.vinokurov.tk/
+local=/dns.vip-kingstore.xyz/
 local=/z.vipit.one/
 local=/virtual-browser.com/
 local=/dns.virtual-qr.ir/
@@ -6462,6 +6463,7 @@ local=/vpncentral.com/
 local=/vpncity.info/
 local=/vpnclientapp.com/
 local=/vpndaily.com/
+local=/vpndeluxe.com/
 local=/vpndock.com/
 local=/vpndog.com/
 local=/proxy.vpner.com/
@@ -6827,6 +6829,7 @@ local=/zenvpn.net/
 local=/adguard-kartoffel.zernico.de/
 local=/zerotier.com/
 local=/oraclejp01.zerotorez.com/
+local=/zerotunnel.com/
 local=/zerovpn-app.com/
 local=/zexusdigital.online/
 local=/dns.zfsystem.tech/

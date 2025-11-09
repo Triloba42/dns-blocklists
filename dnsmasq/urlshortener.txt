@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Nov 2025 09:28 UTC
-# Version: 2025.1109.0928.53
+# Last modified: 09 Nov 2025 17:28 UTC
+# Version: 2025.1109.1728.48
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9446
+# Number of entries: 9452
 #
 local=/0.gp/
 local=/00m.in/
@@ -8750,6 +8750,7 @@ local=/vipjus.click/
 local=/viplink.us/
 local=/vipp.link/
 local=/viprupiah138.net/
+local=/vipshortener.com/
 local=/vipslot4d.site/
 local=/viraatlabs.com/
 local=/viralme.me/
@@ -8817,10 +8818,12 @@ local=/vsl.im/
 local=/vslinks.com/
 local=/vt802.us/
 local=/shorturl.vtcode.vn/
+local=/vtity.com/
 local=/vtns.io/
 local=/vtred.co/
 local=/vtred.net/
 local=/vtru.xyz/
+local=/vttje.top/
 local=/vtu.cc/
 local=/vturl.net/
 local=/vu.fr/
@@ -9009,6 +9012,7 @@ local=/wm0.co/
 local=/wmg.click/
 local=/wmojo.com/
 local=/wn.nr/
+local=/wndhj.top/
 local=/wndt.nl/
 local=/s.wnmu.edu/
 local=/wns-academy.live/
@@ -9053,6 +9057,7 @@ local=/ws91.cn/
 local=/on.wsj.com/
 local=/wslat.net/
 local=/wso.li/
+local=/wssurl.com/
 local=/wsurl.link/
 local=/wtc.la/
 local=/wtfurl.com/
@@ -9064,6 +9069,7 @@ local=/wurlie.net/
 local=/wurlz.com/
 local=/ww7.fr/
 local=/wwat.ch/
+local=/wwdurl.com/
 local=/wwf.to/
 local=/wwp.news/
 local=/wwtt.to/

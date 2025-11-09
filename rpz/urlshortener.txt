@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762680480 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762709280 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 Nov 2025 09:28 UTC
-; Version: 2025.1109.0928.53
+; Last modified: 09 Nov 2025 17:28 UTC
+; Version: 2025.1109.1728.48
 ; Syntax: RPZ
-; Number of entries: 18892
+; Number of entries: 18904
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -6951,6 +6951,8 @@ vinggle.com CNAME .
 *.vinggle.com CNAME .
 vinurl.com CNAME .
 *.vinurl.com CNAME .
+vipshortener.com CNAME .
+*.vipshortener.com CNAME .
 viraatlabs.com CNAME .
 *.viraatlabs.com CNAME .
 viralpep.com CNAME .
@@ -6989,6 +6991,8 @@ vshorturl.com CNAME .
 *.vshorturl.com CNAME .
 vslinks.com CNAME .
 *.vslinks.com CNAME .
+vtity.com CNAME .
+*.vtity.com CNAME .
 vuiet.com CNAME .
 *.vuiet.com CNAME .
 vurl.com CNAME .
@@ -7077,12 +7081,16 @@ wqiseo.com CNAME .
 *.wqiseo.com CNAME .
 on.wsj.com CNAME .
 *.on.wsj.com CNAME .
+wssurl.com CNAME .
+*.wssurl.com CNAME .
 wtfurl.com CNAME .
 *.wtfurl.com CNAME .
 wuniw.com CNAME .
 *.wuniw.com CNAME .
 wurlz.com CNAME .
 *.wurlz.com CNAME .
+wwdurl.com CNAME .
+*.wwdurl.com CNAME .
 x-shrtn.com CNAME .
 *.x-shrtn.com CNAME .
 x0xdesign.com CNAME .
@@ -17677,6 +17685,10 @@ urlttb.top CNAME .
 *.urlttb.top CNAME .
 vnlink.top CNAME .
 *.vnlink.top CNAME .
+vttje.top CNAME .
+*.vttje.top CNAME .
+wndhj.top CNAME .
+*.wndhj.top CNAME .
 woah.top CNAME .
 *.woah.top CNAME .
 wqclfb.top CNAME .
