@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 09 Nov 2025 01:28 UTC
-! Version: 2025.1109.0128.45
+! Last modified: 09 Nov 2025 05:29 UTC
+! Version: 2025.1109.0529.19
 ! Syntax: AdBlock
-! Number of entries: 9422
+! Number of entries: 9435
 !
 ||0.gp^
 ||00m.in^
@@ -6689,6 +6689,7 @@
 ||short360s.com^
 ||short4me.io^
 ||shortaro.com^
+||shortbe.com^
 ||shortbee.co^
 ||shortbee.io^
 ||shortbio.link^
@@ -6717,6 +6718,7 @@
 ||shorten.world^
 ||shorten-url.com^
 ||shortened.website^
+||shortenedlinks.com^
 ||shortenedurl.me^
 ||app.shorteneo.com^
 ||shortener.live^
@@ -6783,6 +6785,7 @@
 ||shortlinc.com^
 ||shortlink.cz^
 ||shortlink.gr^
+||shortlink.is^
 ||shortlink.one^
 ||shortlink.sbs^
 ||shortlink.uk^
@@ -6790,6 +6793,7 @@
 ||shortlink88.xyz^
 ||shortlinkgenerator.com^
 ||shortlinkpanel.com^
+||shortlinksakti.xyz^
 ||shortlinkurl.id^
 ||shortlinkz.net^
 ||shortlk.co^
@@ -6868,6 +6872,7 @@
 ||shorturl.lk^
 ||shorturl.re^
 ||shorturl.ru^
+||shorturl.win^
 ||shorturl.ws^
 ||shorturl88.com^
 ||shorturlapp.com^
@@ -6988,6 +6993,7 @@
 ||sht.moe^
 ||sht.wf^
 ||shtlink.eu^
+||shtn.me^
 ||shtnar.com^
 ||shtu.be^
 ||shukurbi.com^
@@ -7039,6 +7045,7 @@
 ||sini.la^
 ||sinkto.link^
 ||sinni.my^
+||sinourl.tw^
 ||sinyi.biz^
 ||sinyi.in^
 ||sipetir.pro^
@@ -7054,6 +7061,7 @@
 ||siteu.net^
 ||siteurl.ink^
 ||situs.bio^
+||situsslotzeus.store^
 ||siz.la^
 ||go.sjf.edu^
 ||sk.news^
@@ -7395,6 +7403,8 @@
 ||suc.im^
 ||suge.blog^
 ||sujo.io^
+||sukatobrut.xyz^
+||sulejalan.online^
 ||sumal.ly^
 ||sunrabike.com^
 ||suo.fyi^
@@ -7422,7 +7432,9 @@
 ||surl.li^
 ||surl.lt^
 ||surl.me^
+||surl.pk^
 ||surl.pro^
+||surl.ro^
 ||surlgo.com^
 ||surlz.com^
 ||surveyscst.com^
@@ -7455,6 +7467,7 @@
 ||swtt.cc^
 ||short.swurl.xyz^
 ||sxyprn.life^
+||sy.pe^
 ||sy.to^
 ||syb.la^
 ||sycelu.net^

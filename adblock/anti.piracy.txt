@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 09 Nov 2025 02:30 UTC
-! Version: 2025.1109.0230.58
+! Last modified: 09 Nov 2025 06:32 UTC
+! Version: 2025.1109.0632.35
 ! Syntax: AdBlock
-! Number of entries: 11447
+! Number of entries: 11476
 !
 ||003396815.xyz^
 ||0123456789nonexistent.com^
@@ -8301,6 +8301,7 @@
 ||seedpeer.eu^
 ||seedpeer.me^
 ||seedr.cc^
+||seehd.co^
 ||seehd.nl^
 ||seehd.pl^
 ||seehd.pro^
@@ -8321,6 +8322,7 @@
 ||serialcoded.com^
 ||serialfan.com^
 ||serialheaven.com^
+||serialkeys.info^
 ||serialkeysfree.org^
 ||serialkeysoftware.com^
 ||serialnews.com^
@@ -8371,6 +8373,8 @@
 ||series9.ac^
 ||series9.co^
 ||series9.io^
+||series9.la^
+||series9.me^
 ||series9.to^
 ||series9mx.pro^
 ||seriesfilmestorrent.net^
@@ -8416,6 +8420,7 @@
 ||sflix.to^
 ||sflix.tube^
 ||sflix2.to^
+||diva.sfsu.edu^
 ||sganime.org^
 ||sgnilo.wiki^
 ||shaahid4u.net^
@@ -8434,6 +8439,7 @@
 ||sharego.net^
 ||sharegroundz.com^
 ||sharehitz.net^
+||sharemania.net^
 ||sharemania.us^
 ||sharemovies.net^
 ||sharereactor.ru^
@@ -8537,6 +8543,7 @@
 ||skytorrents.lol^
 ||skytorrents.to^
 ||tracker.skyts.cn^
+||tracker.skyts.net^
 ||sladinki007.net^
 ||slam.ws^
 ||sleek.to^
@@ -8739,6 +8746,7 @@
 ||sportlemon.live^
 ||sportlemon.net^
 ||sportlemon.pro^
+||sportlemon24.com^
 ||sportlemone.top^
 ||sportlemons.net^
 ||sportlemons.to^
@@ -8766,6 +8774,7 @@
 ||sporttuna.sx^
 ||sportyhunter.com^
 ||sportzonline.pw^
+||spotfy.one^
 ||spotnzb.xyz^
 ||squid.wtf^
 ||squid-board.org^
@@ -8898,6 +8907,7 @@
 ||streamingcommunity.boston^
 ||streamingcommunity.boutique^
 ||streamingcommunity.broker^
+||streamingcommunity.buzz^
 ||streamingcommunity.cam^
 ||streamingcommunity.care^
 ||streamingcommunity.cash^
@@ -8914,6 +8924,7 @@
 ||streamingcommunity.coffee^
 ||streamingcommunity.com^
 ||streamingcommunity.credit^
+||streamingcommunity.cz^
 ||streamingcommunity.dance^
 ||streamingcommunity.de^
 ||streamingcommunity.dev^
@@ -8922,6 +8933,7 @@
 ||streamingcommunity.education^
 ||streamingcommunity.estate^
 ||streamingcommunity.eu^
+||streamingcommunity.expert^
 ||streamingcommunity.exposed^
 ||streamingcommunity.express^
 ||streamingcommunity.fit^
@@ -8936,11 +8948,13 @@
 ||streamingcommunity.gold^
 ||streamingcommunity.golf^
 ||streamingcommunity.haus^
+||streamingcommunity.help^
 ||streamingcommunity.hiphop^
 ||streamingcommunity.icu^
 ||streamingcommunity.info^
 ||streamingcommunity.io^
 ||streamingcommunity.ist^
+||streamingcommunity.it^
 ||streamingcommunity.kaufen^
 ||streamingcommunity.li^
 ||streamingcommunity.life^
@@ -8951,6 +8965,7 @@
 ||streamingcommunity.media^
 ||streamingcommunity.mobi^
 ||streamingcommunity.net^
+||streamingcommunity.nl^
 ||streamingcommunity.one^
 ||streamingcommunity.ooo^
 ||streamingcommunity.org^
@@ -8958,9 +8973,11 @@
 ||streamingcommunity.paris^
 ||streamingcommunity.pet^
 ||streamingcommunity.ph^
+||streamingcommunity.photos^
 ||streamingcommunity.pics^
 ||streamingcommunity.pink^
 ||streamingcommunity.pizza^
+||streamingcommunity.pl^
 ||streamingcommunity.plus^
 ||streamingcommunity.promo^
 ||streamingcommunity.qpon^
@@ -9026,6 +9043,7 @@
 ||streamkiste.site^
 ||streamkiste.space^
 ||streamkiste.taxi^
+||streamkiste.tv^
 ||streamlairtv.com^
 ||streamlive.to^
 ||streamlord.com^
@@ -9033,6 +9051,7 @@
 ||streamm4u.net^
 ||streamm4u.to^
 ||streamm4u.tv^
+||streamm4u.ws^
 ||streammaster.xyz^
 ||streammovies.to^
 ||streamonhd.me^
@@ -9064,6 +9083,7 @@
 ||strem.fun^
 ||strem.io^
 ||stremiomovies.com^
+||stressboss.net^
 ||stresser.cc^
 ||stresser.in^
 ||stresser.net^
@@ -9090,6 +9110,7 @@
 ||sugar-cube.org^
 ||sumotorrent.com^
 ||sumotorrent.sx^
+||sumotracker.org^
 ||nagios.tks.sumy.ua^
 ||sun123.tv^
 ||sun4mile.asia^
@@ -9114,11 +9135,15 @@
 ||superpsx.com^
 ||superserials.com^
 ||superseries.live^
+||superstresser.com^
 ||supertela.live^
+||supertorrents.org^
 ||supertvaovivo.live^
+||supertvaovivo.tv^
 ||suprbay.org^
 ||supremesecurityteam.com^
 ||surrealmoviez.info^
+||susflix.tv^
 ||susmovies.lol^
 ||suspic.com^
 ||suteki-yume.net^
@@ -9146,6 +9171,7 @@
 ||thebazaar.sytes.net^
 ||szeneworld.eu^
 ||savaria.szerverem.hu^
+||tracker.t-1.org^
 ||t-pb.org^
 ||t-rb.org^
 ||t-ru.org^
@@ -9160,6 +9186,7 @@
 ||t50.com^
 ||rt.tace.ru^
 ||taiwebs.com^
+||tajpata.com^
 ||takeback.org^
 ||takemetal.org^
 ||takerhatwifi.com^
@@ -9222,6 +9249,7 @@
 ||tantifilm.ph^
 ||tantifilm.qpon^
 ||tantifilm.reisen^
+||tantifilm.run^
 ||tantifilm.sbs^
 ||tantifilm.skin^
 ||tantifilm.tech^
@@ -9229,6 +9257,7 @@
 ||tantifilm.vg^
 ||tantifilm.vip^
 ||tantifilm.ws^
+||tantifilm.xyz^
 ||tantinuovo.com^
 ||taodung.com^
 ||tapecity.org^

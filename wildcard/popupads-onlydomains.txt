@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Nov 2025 01:24 UTC
-# Version: 2025.1109.0124.42
+# Last modified: 09 Nov 2025 05:25 UTC
+# Version: 2025.1109.0525.11
 # Syntax: Domains (without subdomains)
-# Number of entries: 65825
+# Number of entries: 65863
 #
 0.beer
 0.club
@@ -5972,10 +5972,7 @@ a0de95822c.856d79ad49.com
 858akaman.xyz
 85a90880b9.com
 86043854.xyz
-1337ul.8609.cc
-908.8609.cc
-985.8609.cc
-988.8609.cc
+8609.cc
 86124673.xyz
 86165466.xyz
 75003826de.8619047757.com
@@ -6170,11 +6167,7 @@ d34d3e1bba.91d02a6a8c.com
 93a72bfca9.com
 93febf18c6.com
 93tc.com
-495.9415.cc
-904.9415.cc
-914.9415.cc
-926.9415.cc
-928.9415.cc
+9415.cc
 9421d59b1d.com
 942442.top
 94444717.xyz
@@ -11797,8 +11790,7 @@ bcombdmnoidze.online
 bcpbtqpumbarw.online
 bcppd.gdn
 bcprm.com
-dciclc.bctnodv.top
-dcivlv.bctnodv.top
+bctnodv.top
 bctuafpdwarbm.site
 track.bcvc.mobi
 bcwpdvigokzca.space
@@ -16788,9 +16780,7 @@ cmpgns.net
 cmprotraf.club
 cmpuwps.com
 cmrdr.com
-276eefe2165e.cmsdurbv.top
-a38f0f2b74c4.cmsdurbv.top
-b84c7e3bdff5.cmsdurbv.top
+cmsdurbv.top
 cmtrk.com
 cmtrkg.com
 cmuadjagpm.com
@@ -16803,10 +16793,7 @@ dynamic.163data.com.cn.tv
 everpharmanet.cn.tv
 cn2f.cn
 cn846.com
-526c5dc94e12.cndsdsva.top
-530076989109.cndsdsva.top
-5d58890195ae.cndsdsva.top
-e49e0b120ad5.cndsdsva.top
+cndsdsva.top
 cndw.top
 cnesnnavxumlh.online
 cngcpy.com
@@ -16820,8 +16807,7 @@ cnt.my
 cntrealize.com
 cnwafglwlbcro.life
 dciclc.cnwuamf.top
-dciclc.cnwucnf.top
-dcivlv.cnwucnf.top
+cnwucnf.top
 cnyojprieezzh.store
 cnzixiang.com
 cnzz.biz
@@ -18953,8 +18939,7 @@ cuwnkedfa.com
 cuybnvyuqlizr.space
 cuzqaskcyjyut.site
 cvastico.com
-dciclc.cvcnmtf.top
-dcivlv.cvcnmtf.top
+cvcnmtf.top
 cvdbvcrpzjrgv.website
 cvdinc.com
 cvfr74t.com
@@ -22638,8 +22623,7 @@ ay.ectasiaeyemark.com
 ectedithconsuk.com
 ectenepenury.com
 ecteneunroven.shop
-dciclc.ectnodw.top
-dcivlv.ectnodw.top
+ectnodw.top
 ectozoaquagga.top
 ectsofcukorpor.com
 ectuklyeconen.com
@@ -28217,6 +28201,7 @@ ym.girreyres.com
 gisantsondeli.shop
 gishejuy.com
 giswygovfhdym.online
+git44share.quest
 gitajwl.com
 gitanovedaism.cyou
 gitfrominstall.com
@@ -31761,8 +31746,7 @@ huzi.com
 huzytgmqsnecd.website
 huzzahwhatintently.com
 huzzvariac.life
-dciclc.hvcnmtu.top
-dcivlv.hvcnmtu.top
+hvcnmtu.top
 hvdzdrovccwom.site
 hvefnbufkpxou.website
 hvert.site
@@ -33672,8 +33656,7 @@ ivaiptoagha.net
 ivajnwwpadtow.love
 ivanchinastandard.com
 ivangrammarfalling.com
-dciclc.ivcnmto.top
-dcivlv.ivcnmto.top
+ivcnmto.top
 ivcsmrt.com
 ivemjdir-g.top
 iviralpartners.com
@@ -34049,11 +34032,8 @@ jemsoksoomt.net
 jemtaucmowhu.top
 jenkinkuttab.com
 jennduncanphoto.com
-max.jenny4.fun
-wew.jenny4.fun
-wmx.jenny4.fun
+jenny4.fun
 wnw.jenny4.com
-wow.jenny4.fun
 news.jennydanny.com
 jennyvisits.com
 jenoga.xyz
@@ -34869,8 +34849,7 @@ juxpdnekqdmka.space
 juxtaposetextbookcaptivate.com
 juywkhbpmswmq.website
 juzaugleed.com
-dciclc.jvcnmta.top
-dcivlv.jvcnmta.top
+jvcnmta.top
 jvebyd.com
 jviot.com
 jvlrcbfxijxgk.store
@@ -35162,7 +35141,8 @@ kchhccjmzipel.site
 kcjkoxgldo.cyou
 kcjmivforjixu.online
 kcmstredk.com
-kcolb.site
+js.kcolb.site
+mngr.kcolb.site
 kcqbrwygxixdh.site
 dciclc.kctnodd.top
 kcxljicqwzjfd.space
@@ -35982,8 +35962,7 @@ kuzeyisigikres.com
 kvaaa.com
 kvarcureeny.com
 kvbojuxkwvcfk.global
-dciclc.kvcnmtd.top
-dcivlv.kvcnmtd.top
+kvcnmtd.top
 kvcon.de
 kvdnetmzqvwxw.store
 kvdqzsytlcxuf.space
@@ -36452,8 +36431,7 @@ lckyzl.com
 lclocation.com
 lcnmoccchdoij.vip
 lcskincarecenter.com
-dciclc.lctnodl.top
-dcivlv.lctnodl.top
+lctnodl.top
 lcuaerlknisgy.space
 lcugatnuhfpo.com
 lcwfab1.com
@@ -43314,8 +43292,7 @@ ocpsimamdza.com
 octaplagaius.shop
 octaviantraprelease.com
 octinvemb.com
-dciclc.octnodk.top
-dcivlv.octnodk.top
+octnodk.top
 octo25.me
 octoads.shop
 octoberads.space
@@ -48569,8 +48546,7 @@ qcnragymlulzk.website
 qcqfkzglgynfr.site
 qcqobpxpeeiwh.store
 qcsrmdrmddyos.com
-dciclc.qctnody.top
-dcivlv.qctnody.top
+qctnody.top
 qcuoyo.icu
 qcuwpicccoscr.online
 qcwnfoqtqgvau.icu
@@ -52170,8 +52146,7 @@ scrufsirloin.com
 scrupulousyet.com
 scrutinizeordealscrutinize.com
 sctaylor.com
-dciclc.sctnodb.top
-dcivlv.sctnodb.top
+sctnodb.top
 scubaenterdane.com
 scuffleputrefy.com
 ld.scuftockster.com
@@ -52280,6 +52255,7 @@ secondaryload.com
 secondaryobedience.com
 secondcallousnodding.com
 vy.secondecourche.com
+secondhand-farm.com
 secondhandcamp.pro
 secondjav128.fun
 secondlycradlegang.com
@@ -52357,6 +52333,7 @@ seekoflol.com
 seekticketunfit.com
 om.seeledingrave.shop
 seelingsweated.cfd
+seemapeeby.net
 seemerpoking.cfd
 seemethepointa.org
 seemingunevenlag.com
@@ -52368,6 +52345,7 @@ seeptoag.net
 mk.seepymannire.com
 seertartine.com
 sda.seesaa.jp
+seeshaitoay.net
 seespice.com
 seethafo.xyz
 seethisinaction.com
@@ -52441,6 +52419,7 @@ sementfannell.com
 semi87.com
 semicirclesuitableexpect.com
 mv.semihotspece.com
+cv.semihtravale.shop
 semimatecb.website
 mt.seminaloakweb.com
 seminaraileenreschedule.com
@@ -52566,6 +52545,7 @@ sermonsbleeder.top
 sermonsupermarket.com
 serosaharlem.com
 serpentine-presence.com
+serpentinelay.pro
 serpentinelow.com
 serpentwreathnet.com
 sersabion.com
@@ -52627,6 +52607,7 @@ seteamsobtantion.com
 setguardissues.com
 sethmichaeldonsky.com
 setitoefanyor.com
+setnessalgy.com
 setnessunbar.rest
 yr.setousprivets.com
 setravieso.com
@@ -52726,6 +52707,7 @@ sfoxservices.com
 sfsrch.com
 mk.sftanghan.top
 sftapi.com
+sftikxblcmr.com
 sfulylydeveloped.org
 sfwwzmtlhrajx.website
 23g39.avzuk3.sfxd.net
@@ -52757,7 +52739,9 @@ shaareiavodah.org
 shabby-commission.com
 shabbymaximmattress.com
 shabbyofficer.pro
+shabsignul.net
 shabtiqueur.rest
+shachepan.com
 shackapple.com
 shackedunposed.shop
 shadearmies.com
@@ -52767,6 +52751,7 @@ shadowy-occasion.pro
 shadowy-subject.com
 shadowymonitor.pro
 shadowytourist.pro
+shadsoadaw.net
 shady-section.com
 shadycloudmeadow.com
 shadytourdisgusted.com
@@ -52778,6 +52763,7 @@ shahsoonly.click
 shaiftaine.net
 shaiksuk.net
 shailreeb.com
+shaimsaijels.com
 shainsie.com
 shaiwourtijogno.net
 shakaarcos.com
@@ -52865,6 +52851,7 @@ shaustourtozids.com
 shaveeps.net
 ff.shawmsgodsend.shop
 zo.shawwalgerated.com
+shazizhang.cn
 shbet91.com
 shbihdhotyxzj.space
 shbnnjesjisqi.site
@@ -52894,13 +52881,13 @@ sheetvibe.com
 ri.sheeunmoral.com
 sheji600.com
 shelhaptene.shop
+shelsupserseexa.net
 ko.sheltaransack.com
 shemalesofhentai.com
 eo.shemdipolar.shop
 shempaurdou.net
-bnrs.shemrec.cc
-proll.shemrec.cc
-pundr.shemrec.cc
+shemrec.cc
+shemsoalto.net
 shenbingask.com
 shengfleming.com
 shengheimin.com
@@ -52922,6 +52909,7 @@ shespokheha.org
 shestrozo.com
 nrjbow.shetallks.com
 shewaityou.net
+shewarikrithou.net
 shewhaumtati.net
 shewolf.agency
 shfsdvc.com
@@ -52967,6 +52955,7 @@ shinybuilding.pro
 shinygift.com
 shinylanentablelanentable.com
 shinysave.com
+shiotogel4dk.art
 shipconvert.com
 shipfablehrs.com
 shiplaped.com
@@ -53003,6 +52992,8 @@ shlyapapodplesk.site
 shoadessuglouz.net
 shoagloumtoamir.net
 shoagrauphee.net
+shoamachoostoap.net
+shoarduftipt.net
 shoathofte.net
 shoatoasti.com
 shock-news.net
@@ -53015,6 +53006,7 @@ shockingappointment.pro
 shockinghighlight.pro
 shockingstrategynovelty.com
 shockingstudy.com
+shockynews.com
 shodaisy.com
 shoddy-opening.pro
 shoddy-rate.com
@@ -53028,8 +53020,10 @@ shojispurisms.cyou
 sholke.com
 sholraidsoalro.net
 shomacana.cyou
+shomsaustunginy.net
 shoobulughu.com
 shoochoto.top
+shoociftorgails.net
 shoofabhalu.com
 shoofatartish.life
 shoofle.tv
@@ -53051,6 +53045,7 @@ shopamzselling.com
 shopboyreminds.com
 shopeasy.by
 shopeesallers.com
+shopforiphones.today
 shopfulclench.life
 www.blog.shopifie.pl
 shopleftfurniture.com
@@ -53081,6 +53076,7 @@ shorttermwarmup.com
 shoshyhewy.com
 shotbysam.biz
 shotgunchancecruel.com
+shougrishah.net
 shoukigaigoors.net
 shoulderadmonishstore.com
 shoulderinedible.com
@@ -53149,6 +53145,7 @@ shunnoodle.com
 shurgeetripoli.com
 shuri-ryu-karate.com
 shusho.top
+shutheeckauftog.net
 shuttlelikingcabinet.com
 shvsrrpkgjcuk.life
 shwfxrbsrifhx.online
@@ -53188,6 +53185,7 @@ sidesteamroll.com
 sidewaysinjure.com
 dg.sidhedoby.com
 sidingandroofingcontractorsinlasve303056.icu
+sidsaignoo.net
 sieandkia.shop
 vi.sienitenovices.com
 sierrakermit.com
@@ -53274,6 +53272,7 @@ silwtuobsb.com
 sim-max.ru
 simahtkk.com
 similardeeperdecent.com
+similargrocery.pro
 similarlyabdomenwrestle.com
 similarlyjustin.com
 similarlyperjury.com
@@ -53448,6 +53447,7 @@ sjtactic.com
 sjucxifhymhdr.space
 sjx98.com
 sjycyey.com
+sk-by.com
 sk30.com
 ska4at.ru
 skaffreyoke.digital
@@ -53460,10 +53460,12 @@ skaterdelimer.rest
 skaterscatty.shop
 skatesmorella.website
 skatestooped.com
+skcyk.com
 skdjppgwnfune.club
 skdkjhpqkqave.space
 skdtveilhzynd.store
 skeanbyth.click
+no.skeatrighter.com
 im.skeegsalpoid.com
 se.skeemillers.world
 skeesisoxime.com
@@ -53558,8 +53560,10 @@ skytik.com
 skytraf.xyz
 skytraffix.net
 skywardjourneys.co
+9525.skywaverg.site
 nu.slabberfleeced.top
 slabshookwasted.com
+slacdn.com
 slackenmisspell.com
 slackensuddeneat.com
 slaepestled.help
@@ -53684,6 +53688,7 @@ ta.slognunbird.shop
 slojzlqjvitwt.website
 sloourtica.life
 slopeac.com
+af.sloppyanaqua.top
 slot69t.org
 slot88.vip
 slot919ternama.xyz
@@ -53803,6 +53808,7 @@ smbzsbsahhxaj.online
 smcdxffhlkifc.site
 smconene.pro
 smcpvvmflcmlc.store
+smdfcaxpvhb.com
 smdhy.studio
 smdotcom.com
 smearconventional.com
@@ -53922,6 +53928,7 @@ snasteglochis.com
 xc.snastystarw.shop
 snatchclothing.com
 snbets.com
+sncyt.com
 sneakintriguecasting.com
 sneakunwanted.com
 sneakyadministration.com
@@ -54209,6 +54216,7 @@ somewhatsunduke.com
 somewhatwideslimy.com
 somewherevolcano.com
 somosmovies.com
+sompoagnuwuz.net
 somsoargous.net
 somtnt.com
 son-in-lawmorbid.com
@@ -54246,6 +54254,7 @@ soonernoisesairplane.com
 soonpubplatform.online
 soorkylarixin.com
 soosooka.com
+soostewiphy.net
 sootgrid.com
 soothingglade.com
 sootoaphar.com
@@ -54545,6 +54554,7 @@ ta.spherepsoai.com
 spherical-brilliant.com
 sphericalwife.pro
 ww.sphinxtube.com
+spiaoudb.com
 ant.spica-telescope.com
 in.spicaematlow.com
 spice-sugar.net
@@ -54631,6 +54641,8 @@ splendid-concert.com
 splendid-negotiation.com
 splendid-situation.pro
 splendid-tie.com
+lavkrn.splendidates.com
+zonoww.splendidates.com
 splendiddates.net
 splendidlead.com
 splendidsugar.com
@@ -54763,6 +54775,7 @@ spukesuzette.shop
 vr.spumycast.com
 spunorientation.com
 spuppers.com
+spuppers.net
 spurieskangany.click
 spurioussquirrel.com
 spuriousstranger.com
@@ -54802,6 +54815,7 @@ zw.squalmkazi.com
 squalornitrian.qpon
 mmitalianbeef.square.site
 square-direction.com
+square-respond.pro
 squaremagician.com
 squarepaste.net
 squaryscurfs.cyou
@@ -54833,6 +54847,7 @@ ax.srencharm.com
 srgev.com
 sri7.com
 srignanaguruvidyalaya.com
+sriivgrcbgu.com
 srncorretoradeseguros.com
 srowvggksbuvv.vip
 srsihavelearn.xyz
@@ -54903,6 +54918,7 @@ stabstudentvocational.com
 stachedstimaa.com
 stackadapt.com
 stackattacka.com
+stackims.com
 stackmultiple.com
 stacktips.ir
 stadyumbahis.com
@@ -54919,7 +54935,9 @@ staggeredravehospitality.com
 staggerfashionedbite.com
 staggersuggestedupbrining.com
 stagingjobshq.com
+staglecme.com
 va.stagnumemail.top
+staichozoomizy.net
 staid-gain.com
 staid-property.pro
 staiderkidhood.help
@@ -54928,6 +54946,7 @@ gallery.stailaus.fi
 materiaali.stailaus.fi
 staindessadness.com
 staindumpexists.com
+stained-collar.pro
 stained-employment.pro
 stained-management.pro
 stained-normal.pro
@@ -55101,6 +55120,7 @@ stayclockwise.com
 stayedfrozenproduced.com
 stayfaxachievement.com
 staygg.com
+stayingalife.xyz
 stayingapplicant.com
 staysafeonlinetoday.com
 stc.tools
@@ -55117,6 +55137,7 @@ oq.stealthtooting.com
 steamabundanceslope.com
 steamymeet0725.click
 stedallthrought.com
+steeckeetch.net
 steedgodful.com
 steeelm.xyz
 steegheltee.net
@@ -55125,6 +55146,7 @@ kt.steeksconce.com
 steel-savings.com
 steeljob.pro
 steelreproach.com
+steemebsiphi.net
 steep-second.pro
 steeplederivedinattentive.com
 steeplereconciliation.com
@@ -55134,6 +55156,7 @@ steepto.com
 steerensout.net
 steeringsunshine.com
 steernewslettersleeve.com
+steestauftoast.net
 rv.steeverapteryx.com
 stekpyarmba.com
 stelabarm.com
@@ -55149,6 +55172,7 @@ stemdowsers.shop
 stemmagrane.help
 centent.stemplay.cc
 stemsbargain.com
+stemtaughib.com
 stemweaponsinput.com
 stenexeb.xyz
 step-step-go.com
@@ -55159,6 +55183,7 @@ stepkeydo.com
 stepmothersidelineoverwhelming.com
 stepnoblemancombustible.com
 yg.stereosfeet.com
+stereospoutfireextinguisher.com
 stereotypedsugar.com
 stereotypeswig.com
 stericsgyokuro.top
@@ -55202,6 +55227,7 @@ stiffenshave.com
 stifforange.pro
 stiffpatient.com
 stiffpeak.com
+stiffwish.pro
 stiflecableglossy.com
 qz.stifledlassies.shop
 stighunge.net
@@ -55254,6 +55280,7 @@ stockingsleet.com
 stockpresentsauspice.com
 stocksy.net
 stoday543.com
+stodsucmoo.net
 stojoalaiboudry.net
 stolecutting.com
 stolenextendingrub.com
@@ -55317,9 +55344,11 @@ storystaffrings.com
 storyunicornupper.com
 jr.stotinginlands.rest
 stotkosignaturehomes.com
+stotseepta.com
 stoumsitou.net
 stoupsick.net
 stourauwhou.com
+stousseemseeri.net
 stoutabsolutelywalrus.com
 stouteroutspan.help
 br.stoutlydelhi.com
@@ -55335,6 +55364,7 @@ stquality.org
 straight-can.com
 straight-master.com
 straightenedsleepyanalysis.com
+straightforwardaudition.com
 straightiuck.net
 straightmenu.com
 straitsbikemodern.com
@@ -55378,6 +55408,7 @@ streamssitesearch.com
 streamstatic.com
 streamswedish.life
 streamtoclick.com
+streamvideobox.com
 streamyourvid.com
 streckmatinal.shop
 street-datetop.com
@@ -55431,6 +55462,7 @@ wammdk.strikingdates.com
 xbwelj.strikingdates.com
 dvkog.striklngdates.net
 nnkbd.striklngdates.net
+nroald.striklngdates.com
 stringbuild.com
 stringroadway.com
 stringshypnotize.com
@@ -55457,7 +55489,9 @@ strossle.com
 stroyscrest.click
 strtgic.com
 structacatiacka.com
+structurastaffingjobs.com
 strudelpontee.cfd
+strwh.com
 stscczovfaipx.website
 stsejehaurbpx.site
 kgo.stske.net
@@ -55523,6 +55557,7 @@ stwwdyowpkzof.website
 stxmumxjxbeud.store
 styldiaasarone.com
 tracking.style24.it
+stylesummitafrica.com
 styletrack.ru
 stylexlab.ru
 stylish-airport.com
@@ -55659,6 +55694,7 @@ fr.sugaredmathes.com
 anmooq.sugarrfairy.com
 sugarruse.com
 sugary-bank.pro
+suged.com
 suggestai.cloud
 suggestbingo.com
 suggestedeeriegoody.com
@@ -55854,6 +55890,7 @@ supportinggenericexchanged.com
 supportiveheight.com
 supportiverarity.com
 supportresentbritish.com
+supportsentparticle.com
 supportwaves.com
 supposedsite.com
 suppressedbottlesenjoyable.com
@@ -55864,6 +55901,7 @@ supqajfecgjv.com
 supremeadblocker.com
 supremesavvyswan.com
 gip.suprisegify.life
+supsiphussucoa.net
 suptessnects.com
 suptraf.com
 surahsbimas.com
@@ -55921,6 +55959,7 @@ sushihousehyvinkaa.fi
 susianulidia.com
 suslatitantrest.com
 suspectlensemphasis.com
+suspectplainrevulsion.com
 suspendedsocksaccordance.com
 suspendsymptom.com
 suspensionpersonwand.com
@@ -56076,6 +56115,7 @@ sweettoothbags.com
 swelleryerk.qpon
 swellingboyishceased.com
 swellstocking.com
+sweltering-development.com
 swelteringhotel.com
 swervemunchfibber.com
 swesomepop.com
@@ -56195,6 +56235,7 @@ syd-dns.click
 syd8e8.vip
 sydtpj.cn
 bqgsh.sydyqg.cn
+pvab.sydyqg.cn
 uiqufz.sydyqg.cn
 syeniteexodoi.com
 syfrvkuuzsjkc.one
@@ -56286,6 +56327,7 @@ szhaczzptwovk.club
 pyz.szhuafang.com
 szhuizhi.cn
 szisland.com
+szjianbu.org
 510403.szjingmingtai.com
 ddpv31.szjingmingtai.com
 szjqb.com
@@ -56486,6 +56528,7 @@ wr.tammarsayyid.com
 tammessive.com
 rp.tammycooly.com
 tampedirenica.com
+tamping.net
 tampoonhopsage.shop
 tampurunrig.com
 tan-hurry.pro
@@ -56580,6 +56623,7 @@ tastemynews.com
 tastercloskey.com
 fq.tasterhicket.com
 tastiesfoods.com
+tastoartaikrou.net
 tastyannual.com
 tastymajor.pro
 tasurampike.life
@@ -56605,6 +56649,7 @@ tattoomex.com
 tattvaballute.com
 tatusiaunpaste.com
 tatxbrshtjgfs.site
+taucounaglie.net
 taughtdefect.com
 taughtloudlydemise.com
 taughttroopscoy.com
@@ -56664,8 +56709,7 @@ tcreativeideasa.com
 tcrtidleivyai.space
 tcskitchensandcatering.xyz
 tcsmgstagingserver.com
-dciclc.tctnodi.top
-dcivlv.tctnodi.top
+tctnodi.top
 tctrbtdxbscuw.site
 tcudrocivr.com
 tcvlrtqsfqkbo.store
@@ -59262,8 +59306,7 @@ uciockqdyzlim.site
 uciot.com
 uckiaaoul.rest
 ucpfezjbcrmwh.space
-dciclc.uctnodt.top
-dcivlv.uctnodt.top
+uctnodt.top
 ucuhyu.com
 ucuoknexq.global
 ucwkvipzetzxc.space
@@ -61380,9 +61423,7 @@ viphirsaick.net
 vipmilan69.com
 viporalsurgery.com
 vipriver28.net
-cw32brt.vipspotflirts.life
-gwqpmrg.vipspotflirts.life
-k8cpmrdll.vipspotflirts.life
+vipspotflirts.life
 vipvs.com
 vipwealthmanagement.net
 vipwomans-zone.org
@@ -62239,8 +62280,7 @@ wcoaswaxkrt.com
 wcpgtxpzhpdgy.website
 wcpmoh.com
 wct.link
-dciclc.wctnode.top
-dcivlv.wctnode.top
+wctnode.top
 wcuggkuxfgutu.today
 wcuxkyjwndqxj.top
 wcvevntrztrdi.site
@@ -63901,9 +63941,7 @@ xghklnjmyljlc.site
 xgiiioziwwayu.store
 xgks.com
 xgolyqyfjuuwn.online
-1048877cc998.xgoxwcldkz.top
-680ad07504ce.xgoxwcldkz.top
-f971bc9f9ae8.xgoxwcldkz.top
+xgoxwcldkz.top
 xgozhrjmwwgxf.site
 xgraph.net
 xgsxkzscxapvj.online
@@ -64986,7 +65024,8 @@ yueyangbang.com
 yueyinglighting.com
 yugjwgg.top
 yuhuads.com
-yuhuan.cc
+59557com.yuhuan.cc
+wwwtk1976com.yuhuan.cc
 yuiiy.com
 yuintbradshed.com
 mv.yuitvr.com
@@ -65775,8 +65814,7 @@ zxenwgfnhknxs.click
 zxfqtqmtlldld.world
 zxgjrlpmaqyek.website
 zxinihfgkdpfb.space
-2774c5d7b48b.zxmenhmo.top
-bb6b7391a692.zxmenhmo.top
+zxmenhmo.top
 zxnmbtdwlyafw.website
 zxnymrendoxms.space
 zxttvkshqbded.space

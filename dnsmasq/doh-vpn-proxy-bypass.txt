@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Nov 2025 02:36 UTC
-# Version: 2025.1109.0236.54
+# Last modified: 09 Nov 2025 06:38 UTC
+# Version: 2025.1109.0638.44
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6852
+# Number of entries: 6855
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -4832,6 +4832,7 @@ local=/dns.sildom.me/
 local=/dns.silen.org/
 local=/dns.silentlybren.com/
 local=/dns2.sillav.dev/
+local=/simplevpn.info/
 local=/simplevpn.net/
 local=/dns.simplylinux.ch/
 local=/dns.sindominio.net/
@@ -4896,6 +4897,7 @@ local=/dns2.slowb.ro/
 local=/001.smallnode.net/
 local=/smartcamp.su/
 local=/smartdnsproxy.com/
+local=/onlyforschool123.smarter-homes.com/
 local=/lunarsync.smartfoloo.space/
 local=/dns.smartguard.io/
 local=/smartproxy.com/
@@ -5749,6 +5751,7 @@ local=/superunblocked.net/
 local=/superunlimited.com/
 local=/supervpn.best/
 local=/supervpn.im/
+local=/supervpn.net/
 local=/suredns.nl/
 local=/surf-for-free.com/
 local=/surf100.com/

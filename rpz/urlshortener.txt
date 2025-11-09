@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762651680 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762666140 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 Nov 2025 01:28 UTC
-; Version: 2025.1109.0128.45
+; Last modified: 09 Nov 2025 05:29 UTC
+; Version: 2025.1109.0529.19
 ; Syntax: RPZ
-; Number of entries: 18844
+; Number of entries: 18870
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -5877,6 +5877,8 @@ short360s.com CNAME .
 *.short360s.com CNAME .
 shortaro.com CNAME .
 *.shortaro.com CNAME .
+shortbe.com CNAME .
+*.shortbe.com CNAME .
 shortclick.com CNAME .
 *.shortclick.com CNAME .
 shortcuturl.com CNAME .
@@ -5887,6 +5889,8 @@ shortedurl.com CNAME .
 *.shortedurl.com CNAME .
 shorten-url.com CNAME .
 *.shorten-url.com CNAME .
+shortenedlinks.com CNAME .
+*.shortenedlinks.com CNAME .
 app.shorteneo.com CNAME .
 *.app.shorteneo.com CNAME .
 shortener-url.com CNAME .
@@ -10735,6 +10739,8 @@ s4.is CNAME .
 *.s4.is CNAME .
 shorten.is CNAME .
 *.shorten.is CNAME .
+shortlink.is CNAME .
+*.shortlink.is CNAME .
 shorturl.is CNAME .
 *.shorturl.is CNAME .
 silfraphotos.is CNAME .
@@ -13631,6 +13637,8 @@ shortsfly.me CNAME .
 *.shortsfly.me CNAME .
 shortx.me CNAME .
 *.shortx.me CNAME .
+shtn.me CNAME .
+*.shtn.me CNAME .
 shurl.me CNAME .
 *.shurl.me CNAME .
 shw.me CNAME .
@@ -15069,6 +15077,8 @@ shortpals.online CNAME .
 *.shortpals.online CNAME .
 skippy.online CNAME .
 *.skippy.online CNAME .
+sulejalan.online CNAME .
+*.sulejalan.online CNAME .
 tokogenie.online CNAME .
 *.tokogenie.online CNAME .
 tulinks.online CNAME .
@@ -15623,6 +15633,8 @@ short.pe CNAME .
 *.short.pe CNAME .
 shrink.pe CNAME .
 *.shrink.pe CNAME .
+sy.pe CNAME .
+*.sy.pe CNAME .
 tg.pe CNAME .
 *.tg.pe CNAME .
 toto.pe CNAME .
@@ -15663,6 +15675,8 @@ lnky.pk CNAME .
 *.lnky.pk CNAME .
 short.pk CNAME .
 *.short.pk CNAME .
+surl.pk CNAME .
+*.surl.pk CNAME .
 xurl.pk CNAME .
 *.xurl.pk CNAME .
 128.pl CNAME .
@@ -16233,6 +16247,8 @@ shortly.ro CNAME .
 *.shortly.ro CNAME .
 sp2.ro CNAME .
 *.sp2.ro CNAME .
+surl.ro CNAME .
+*.surl.ro CNAME .
 trustmeb.ro CNAME .
 *.trustmeb.ro CNAME .
 clvr.rocks CNAME .
@@ -16925,6 +16941,8 @@ dogelexusin.store CNAME .
 *.dogelexusin.store CNAME .
 pedalhub.store CNAME .
 *.pedalhub.store CNAME .
+situsslotzeus.store CNAME .
+*.situsslotzeus.store CNAME .
 tj-bet88.store CNAME .
 *.tj-bet88.store CNAME .
 link.plutonflix.stream CNAME .
@@ -17791,6 +17809,8 @@ s3vip.tw CNAME .
 *.s3vip.tw CNAME .
 sf3c.tw CNAME .
 *.sf3c.tw CNAME .
+sinourl.tw CNAME .
+*.sinourl.tw CNAME .
 go.sony.tw CNAME .
 *.go.sony.tw CNAME .
 tbb.tw CNAME .
@@ -18515,6 +18535,8 @@ putar.win CNAME .
 *.putar.win CNAME .
 serius.win CNAME .
 *.serius.win CNAME .
+shorturl.win CNAME .
+*.shorturl.win CNAME .
 ss777.win CNAME .
 *.ss777.win CNAME .
 tinyurl.win CNAME .
@@ -18771,6 +18793,8 @@ shortinx.xyz CNAME .
 *.shortinx.xyz CNAME .
 shortlink88.xyz CNAME .
 *.shortlink88.xyz CNAME .
+shortlinksakti.xyz CNAME .
+*.shortlinksakti.xyz CNAME .
 shortmds.xyz CNAME .
 *.shortmds.xyz CNAME .
 shortme.xyz CNAME .
@@ -18787,6 +18811,8 @@ srturl.xyz CNAME .
 *.srturl.xyz CNAME .
 stke.xyz CNAME .
 *.stke.xyz CNAME .
+sukatobrut.xyz CNAME .
+*.sukatobrut.xyz CNAME .
 short.swurl.xyz CNAME .
 *.short.swurl.xyz CNAME .
 tinyy.xyz CNAME .

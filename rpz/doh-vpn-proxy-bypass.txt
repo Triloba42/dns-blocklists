@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762655760 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762670280 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 Nov 2025 02:36 UTC
-; Version: 2025.1109.0236.54
+; Last modified: 09 Nov 2025 06:38 UTC
+; Version: 2025.1109.0638.44
 ; Syntax: RPZ
-; Number of entries: 13704
+; Number of entries: 13710
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -3813,6 +3813,8 @@ slickvpn.com CNAME .
 *.slickvpn.com CNAME .
 smartdnsproxy.com CNAME .
 *.smartdnsproxy.com CNAME .
+onlyforschool123.smarter-homes.com CNAME .
+*.onlyforschool123.smarter-homes.com CNAME .
 smartproxy.com CNAME .
 *.smartproxy.com CNAME .
 smartydns.com CNAME .
@@ -7685,6 +7687,8 @@ searchproxy.info CNAME .
 *.searchproxy.info CNAME .
 selsby.info CNAME .
 *.selsby.info CNAME .
+simplevpn.info CNAME .
+*.simplevpn.info CNAME .
 sitesunblocked.info CNAME .
 *.sitesunblocked.info CNAME .
 sitework.info CNAME .
@@ -9943,6 +9947,8 @@ sunvpn.net CNAME .
 *.sunvpn.net CNAME .
 superunblocked.net CNAME .
 *.superunblocked.net CNAME .
+supervpn.net CNAME .
+*.supervpn.net CNAME .
 surfall.net CNAME .
 *.surfall.net CNAME .
 surfshark.net CNAME .

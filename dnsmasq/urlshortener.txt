@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Nov 2025 01:28 UTC
-# Version: 2025.1109.0128.45
+# Last modified: 09 Nov 2025 05:29 UTC
+# Version: 2025.1109.0529.19
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9422
+# Number of entries: 9435
 #
 local=/0.gp/
 local=/00m.in/
@@ -6688,6 +6688,7 @@ local=/short2cut.com/
 local=/short360s.com/
 local=/short4me.io/
 local=/shortaro.com/
+local=/shortbe.com/
 local=/shortbee.co/
 local=/shortbee.io/
 local=/shortbio.link/
@@ -6716,6 +6717,7 @@ local=/shorten.tv/
 local=/shorten.world/
 local=/shorten-url.com/
 local=/shortened.website/
+local=/shortenedlinks.com/
 local=/shortenedurl.me/
 local=/app.shorteneo.com/
 local=/shortener.live/
@@ -6782,6 +6784,7 @@ local=/shortlab.bio/
 local=/shortlinc.com/
 local=/shortlink.cz/
 local=/shortlink.gr/
+local=/shortlink.is/
 local=/shortlink.one/
 local=/shortlink.sbs/
 local=/shortlink.uk/
@@ -6789,6 +6792,7 @@ local=/shortlink1.com/
 local=/shortlink88.xyz/
 local=/shortlinkgenerator.com/
 local=/shortlinkpanel.com/
+local=/shortlinksakti.xyz/
 local=/shortlinkurl.id/
 local=/shortlinkz.net/
 local=/shortlk.co/
@@ -6867,6 +6871,7 @@ local=/shorturl.kg/
 local=/shorturl.lk/
 local=/shorturl.re/
 local=/shorturl.ru/
+local=/shorturl.win/
 local=/shorturl.ws/
 local=/shorturl88.com/
 local=/shorturlapp.com/
@@ -6987,6 +6992,7 @@ local=/shrunken.com/
 local=/sht.moe/
 local=/sht.wf/
 local=/shtlink.eu/
+local=/shtn.me/
 local=/shtnar.com/
 local=/shtu.be/
 local=/shukurbi.com/
@@ -7038,6 +7044,7 @@ local=/singkatin.link/
 local=/sini.la/
 local=/sinkto.link/
 local=/sinni.my/
+local=/sinourl.tw/
 local=/sinyi.biz/
 local=/sinyi.in/
 local=/sipetir.pro/
@@ -7053,6 +7060,7 @@ local=/sites.kr/
 local=/siteu.net/
 local=/siteurl.ink/
 local=/situs.bio/
+local=/situsslotzeus.store/
 local=/siz.la/
 local=/go.sjf.edu/
 local=/sk.news/
@@ -7394,6 +7402,8 @@ local=/subxresults.com/
 local=/suc.im/
 local=/suge.blog/
 local=/sujo.io/
+local=/sukatobrut.xyz/
+local=/sulejalan.online/
 local=/sumal.ly/
 local=/sunrabike.com/
 local=/suo.fyi/
@@ -7421,7 +7431,9 @@ local=/surl.fo/
 local=/surl.li/
 local=/surl.lt/
 local=/surl.me/
+local=/surl.pk/
 local=/surl.pro/
+local=/surl.ro/
 local=/surlgo.com/
 local=/surlz.com/
 local=/surveyscst.com/
@@ -7454,6 +7466,7 @@ local=/swsupt.com/
 local=/swtt.cc/
 local=/short.swurl.xyz/
 local=/sxyprn.life/
+local=/sy.pe/
 local=/sy.to/
 local=/syb.la/
 local=/sycelu.net/
