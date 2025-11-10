@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Nov 2025 09:26 UTC
-# Version: 2025.1110.0926.48
+# Last modified: 10 Nov 2025 17:27 UTC
+# Version: 2025.1110.1727.14
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14318
+# Number of entries: 14328
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -1867,6 +1867,8 @@ local=/brennholzs.com/
 local=/brennholzschnell24.de/
 local=/brennholzscholl.com/
 local=/brennholzstein.de/
+local=/brennholzstore.com/
+local=/brennholzstore.de/
 local=/brennholzweber.de/
 local=/brennholzwerner.de/
 local=/brennholzwittmann.com/
@@ -5839,6 +5841,7 @@ local=/heizensofort.de/
 local=/heizfit.de/
 local=/heizfreude.de/
 local=/heizgenial.de/
+local=/heizgut24.com/
 local=/heizhaus-kohle.de/
 local=/heizigo.de/
 local=/heizino.de/
@@ -6125,6 +6128,7 @@ local=/holzbrenn.de/
 local=/holzbriketts-kaufen.com/
 local=/holzcreff.de/
 local=/holzerneblocke.com/
+local=/holzexpress24.eu/
 local=/holzfursfeuer.de/
 local=/holzhandler.com/
 local=/holzharry.shop/
@@ -7476,6 +7480,7 @@ local=/lebens-traum.at/
 local=/lebenskompassdeava.shop/
 local=/lebensmittelgeschaft.com/
 local=/lebensmitteltime.com/
+local=/lebenwertebauen.com/
 local=/leboutique24.de/
 local=/lecker-box.de/
 local=/lecohealth.com/
@@ -8487,6 +8492,7 @@ local=/misterlamp.de/
 local=/misterwatches.com/
 local=/mistyantoon.shop/
 local=/miswimbest.com/
+local=/mitchellandness-de.com/
 local=/mitrueshop.com/
 local=/mitsuiel-ectronics.com/
 local=/mitsuielectronics.com/
@@ -10517,6 +10523,7 @@ local=/rasenprofis.net/
 local=/rasenroboter-shop.com/
 local=/rasenshop24.com/
 local=/rasentrak.com/
+local=/rason.shop/
 local=/rastrillo.de/
 local=/rattmmotor.shop/
 local=/rattzekatz.com/
@@ -10953,6 +10960,7 @@ local=/ryaneve.com/
 local=/ryderwearjapan.com/
 local=/ryderwearjapann.com/
 local=/rytewerkone.com/
+local=/s.kohler/
 local=/s-f-invest.at/
 local=/s2g-multiversand.com/
 local=/baxmusic-sale.sa.com/
@@ -12718,6 +12726,7 @@ local=/tonies-rabatt.com/
 local=/tonies-rabattpreis.com/
 local=/tonies-sonderangebot.com/
 local=/tonies-spezialangebot.com/
+local=/toniesshop-de.com/
 local=/tooeut.com/
 local=/tool-discount.com/
 local=/toolandmaintenance.com/
@@ -13693,6 +13702,7 @@ local=/warenmax.com/
 local=/warenwelt-eu.com/
 local=/warevo.de/
 local=/warmeholzhaus.com/
+local=/warmeprofi.com/
 local=/klarrl.warmexw.buzz/
 local=/warmind.de/
 local=/warmlogic.de/

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Nov 2025 10:34 UTC
-# Version: 2025.1110.1034.34
+# Last modified: 10 Nov 2025 18:34 UTC
+# Version: 2025.1110.1834.27
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6206
+# Number of entries: 6207
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -4567,6 +4567,7 @@ local=/reptis.online/
 local=/wg.req1.fr/
 local=/x.res.wang/
 local=/dns.resoft.org/
+local=/resolver.arpa/
 local=/restaurantgift.us/
 local=/dnspub.restena.lu/
 local=/dns.retakecs.com/

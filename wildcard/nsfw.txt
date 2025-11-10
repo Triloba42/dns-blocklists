@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Nov 2025 10:30 UTC
-# Version: 2025.1110.1030.37
+# Last modified: 10 Nov 2025 18:30 UTC
+# Version: 2025.1110.1830.31
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 77639
+# Number of entries: 77619
 #
 *.001-adult-toys-n-sex-dolls.com
 *.001218.xyz
@@ -412,7 +412,6 @@
 *.1xbet.com
 *.1xbet-xxx8.top
 *.1xbet-xxx9.top
-*.1xcrow.com
 *.1xnxx.net
 *.1xxx.click
 *.1xxx.ru
@@ -2994,16 +2993,7 @@
 *.ah-me.cam
 *.ah-me.com
 *.ahaaporn.com
-*.cdn12275720.ahacdn.me
-*.cdn25122858.ahacdn.me
-*.cdn30851191.ahacdn.me
-*.cdn37804682.ahacdn.me
-*.cdn38974716.ahacdn.me
-*.cdn42705446.ahacdn.me
-*.cdn60563788.ahacdn.me
-*.cdn62004373.ahacdn.me
-*.cdn80945146.ahacdn.me
-*.cdn87755883.ahacdn.me
+*.ahacdn.me
 *.ahaha.com
 *.ahameri.com
 *.ahardporn.com
@@ -6695,7 +6685,6 @@
 *.azuki.co
 *.azukiporn.xyz
 *.azumifans.com
-*.azxxxhub.com
 *.azxxxuzj.cc
 *.azzfordays.co
 *.azzporn.me
@@ -11955,7 +11944,6 @@
 *.casadasliberales.com
 *.casadastop.net
 *.casadoscontoseroticos.online
-*.casamentomesmosexo.org
 *.casapapagayo.ai
 *.casaporn.xyz
 *.casasdeapuestasextranjeras.com
@@ -16889,6 +16877,7 @@
 *.d4swing.com
 *.d6shiiwz.pw
 *.d7zab3.mom
+*.d822.top
 *.da-hostel.ru
 *.dabl.com
 *.dachi-stroim.ru
@@ -20455,7 +20444,6 @@
 *.ekbxxx.com
 *.ekdom.nl
 *.ekilu.com
-*.ekjaygay.com
 *.ekklesiayoungadults.com
 *.ekolojik.org
 *.eksvideos.com
@@ -20572,6 +20560,7 @@
 *.elitgamer.net
 *.elitmasoz.com
 *.elitpendikescort.com
+*.elixher.com
 *.viejuna.eljueves.es
 *.elktube.com
 *.ellakross.com
@@ -26679,13 +26668,6 @@
 *.gay2002.com
 *.gay2002b23499b.com
 *.gay2003.com
-*.gay2005.com
-*.gay2007.com
-*.gay2008.com
-*.gay2012.com
-*.gay2013.com
-*.gay2014.com
-*.gay2015.com
 *.gay2016.com
 *.gay2017.com
 *.gay2019.com
@@ -31890,6 +31872,7 @@
 *.homecraftersexperts.site
 *.homecunts.com
 *.homefindersexpress.com
+*.homefuck.org
 *.homefuckwife.com
 *.homegayp.com
 *.homegeniusexteriorsinc.com
@@ -34321,7 +34304,6 @@
 *.intensitystudios.com
 *.intents.gay
 *.intentxredir.com
-*.interacetransfer.net
 *.interacialsexx.com
 *.interactive-pov.com
 *.interactiveteddybears.com
@@ -34830,8 +34812,10 @@
 *.lordzenpai.itch.io
 *.loveconquersallgames.itch.io
 *.lunardis.itch.io
+*.lushaani.itch.io
 *.lustsakura.itch.io
 *.lustylizard.itch.io
+*.m87124games.itch.io
 *.magic-magpie-games.itch.io
 *.maledollstudio.itch.io
 *.malerouille.itch.io
@@ -34854,6 +34838,7 @@
 *.mrheisenbergo.itch.io
 *.multiverse-ballance.itch.io
 *.mushi.itch.io
+*.mystica-erotica.itch.io
 *.nandibear.itch.io
 *.narurinya.itch.io
 *.newwestgames.itch.io
@@ -34944,6 +34929,7 @@
 *.yoplatz.itch.io
 *.yurrriart.itch.io
 *.yv0751.itch.io
+*.znelartsvr.itch.io
 *.zuleyka.itch.io
 *.zuripaigames.itch.io
 *.itchyforum.com
@@ -39505,7 +39491,6 @@
 *.lovetantralondon.com
 *.lovetasexdoll.com
 *.lovetofu.cyou
-*.lovetomoon.com
 *.lovetorrent.net
 *.lovetowank.com
 *.lovetoy-erfahrung.de
@@ -40451,7 +40436,6 @@
 *.marriageequalityny.org
 *.marriageradio.com
 *.married-dating.org
-*.marriedcafe.com
 *.marriedchristiansex.com
 *.marrieddance.com
 *.marrieddatinguk.com
@@ -48743,7 +48727,6 @@
 *.porn100.tv
 *.porn112.com
 *.porn13.com
-*.porn1314.com
 *.porn15s.com
 *.porn18.cc
 *.porn18.life
@@ -52310,7 +52293,6 @@
 *.pornx11.mom
 *.pornxab.com
 *.pornxab.win
-*.pornxai.net
 *.pornxaiporn.com
 *.pornxbit.com
 *.pornxday.com
@@ -52705,7 +52687,6 @@
 *.preziktv.com
 *.prfuxxx880.vip
 *.adult.pri.ee
-*.pricesexposed.net
 *.pricesexpress.com
 *.pridefind.com
 *.pridemoviepass.com
@@ -52884,7 +52865,6 @@
 *.probusinessexpo.com
 *.processexellencenetwork.com
 *.processpermit.com
-*.procitygayrimenkul.com
 *.procurandosexo.com
 *.productosexpress.net
 *.productosextranjeros.site
@@ -61661,7 +61641,6 @@
 *.sexx19.top
 *.sexx2.top
 *.sexx2001.cn
-*.sexx2004.com
 *.sexx3.top
 *.sexx4.top
 *.sexx5.top
@@ -69752,6 +69731,7 @@
 *.twitcomike.jp
 *.twmilf.com
 *.two-elfs.com
+*.two-hitchhikers.ru
 *.twojav.com
 *.twomance.com
 *.twomastersexperience.com
@@ -72521,7 +72501,6 @@
 *.weidel.gay
 *.weightlossebooks.com
 *.weightlossjourney.one
-*.weirdfucker.com
 *.weirdpicturearchive.com
 *.weirdsexlaws.com
 *.wekiss.com
@@ -74472,6 +74451,7 @@
 *.xrux.ru
 *.xsafadas.net
 *.xsalut.com
+*.xsao.ru
 *.xscandals.com
 *.xsearch.tv
 *.xsemok.com

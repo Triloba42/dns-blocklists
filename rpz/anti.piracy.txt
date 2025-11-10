@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762770480 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762799280 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Nov 2025 10:28 UTC
-; Version: 2025.1110.1028.20
+; Last modified: 10 Nov 2025 18:28 UTC
+; Version: 2025.1110.1828.11
 ; Syntax: RPZ
-; Number of entries: 23250
+; Number of entries: 23240
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -240,8 +240,6 @@ imoim.app CNAME .
 *.imoim.app CNAME .
 isohunt.app CNAME .
 *.isohunt.app CNAME .
-kvcinemas.app CNAME .
-*.kvcinemas.app CNAME .
 losmovies.app CNAME .
 *.losmovies.app CNAME .
 macked.app CNAME .
@@ -748,8 +746,6 @@ megakino.bid CNAME .
 *.megakino.bid CNAME .
 pelisflix20.bid CNAME .
 *.pelisflix20.bid CNAME .
-sportsurge.bid CNAME .
-*.sportsurge.bid CNAME .
 eurostreaming.bike CNAME .
 *.eurostreaming.bike CNAME .
 filmapik.bike CNAME .
@@ -7054,8 +7050,6 @@ sports-prime.com CNAME .
 *.sports-prime.com CNAME .
 sportsurgeblog.com CNAME .
 *.sportsurgeblog.com CNAME .
-sportsurgeonsolutions.com CNAME .
-*.sportsurgeonsolutions.com CNAME .
 sportsurges.com CNAME .
 *.sportsurges.com CNAME .
 sportyhunter.com CNAME .
@@ -18982,8 +18976,6 @@ guardaserietv.sbs CNAME .
 *.guardaserietv.sbs CNAME .
 ilgeniodellostreaming.sbs CNAME .
 *.ilgeniodellostreaming.sbs CNAME .
-mkvcinemas.sbs CNAME .
-*.mkvcinemas.sbs CNAME .
 movies123.sbs CNAME .
 *.movies123.sbs CNAME .
 multimovies.sbs CNAME .
@@ -19752,8 +19744,6 @@ serienstream.stream CNAME .
 *.serienstream.stream CNAME .
 smashy.stream CNAME .
 *.smashy.stream CNAME .
-sportsurge.stream CNAME .
-*.sportsurge.stream CNAME .
 sportsurge-v2.stream CNAME .
 *.sportsurge-v2.stream CNAME .
 streamingcommunity.stream CNAME .

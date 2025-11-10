@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Nov 2025 10:27 UTC
-# Version: 2025.1110.1027.58
+# Last modified: 10 Nov 2025 18:27 UTC
+# Version: 2025.1110.1827.48
 # Syntax: Domains (without subdomains)
-# Number of entries: 41374
+# Number of entries: 41370
 #
 0-casino.info
 000-online-casino.com
@@ -1678,6 +1678,7 @@ images.20241213.com
 2win.mk
 2winbet.gr
 2xbetcasino.com
+2xsport.com
 3-reel-slots.com
 3000.casino
 300003.cc
@@ -5432,7 +5433,6 @@ bacain.com
 bacanaplay.com
 bacanaplay.de
 bacanaplay.pt
-bacansport.blog
 bacansportfire.cyou
 bacansports.net
 bacc1688.com
@@ -8446,6 +8446,7 @@ boomerang-bet0999.com
 boomerang-bet1.com
 boomerang-bet2.com
 boomerang-bet3.com
+boomerang-bet4107.com
 boomerang-bet5126.com
 boomerang-bet616356.com
 boomerang-casino.com
@@ -8487,7 +8488,6 @@ boosterjppc.com
 bootychasercasino.com
 bopoker.org
 bora-casino.com
-borandedektor.xyz
 bordcasinowin.com
 bordertowncasinorv.com
 bordvip.casino
@@ -14616,7 +14616,6 @@ dazzlecasino.ca
 dazzlecasino.com
 db-bet.com
 db-bet81459.top
-dbisnis555.lol
 dbltotobest.com
 dbmitchellgroup.com
 dbxcasinocom.com
@@ -17366,7 +17365,6 @@ galaspins.com
 galatacasino777.com
 galaxy.bet
 galaxy-bets.com
-galaxy77betevos.pro
 galaxy77betpoco.vip
 galaxy77betporce.live
 galaxybetslot.vip
@@ -18178,7 +18176,6 @@ glorycasinobonus.reviews
 glorycasinogambling.com
 glorycasinoin.com
 glorycasinomobile.com
-glorycasinoplay.com
 glorycasinopoker.com
 glorycasinos.com
 glorycasinoz.com
@@ -19015,6 +19012,7 @@ hardrocksocialcasino.com
 hardrocksportsbook.com
 hardtimespoker.com
 harepg.com
+harifsport.com
 harigo.xyz
 harmonimedia.com
 harrahs.com
@@ -19674,6 +19672,7 @@ ice-casino-online.com
 ice-casino-play.com
 ice-casino34.com
 ice-cazino28.com
+ice36.com
 ice36.dk
 ice36casino.dk
 icebet.casino
@@ -19857,6 +19856,7 @@ casinoplay.in.net
 legal-casino.in.ua
 onlinecasino.in.ua
 pokermania.in.net
+in-baterybet.in
 in-baterybets.com
 in-mostbet-casino.com
 inadev.org
@@ -20465,6 +20465,7 @@ jamaicanfoodsouthdaytona.com
 jambicasino.com
 jambilive.com
 jambo-casino.dk
+jambobet.bet
 jamet138e.info
 jamjahanibet.casino
 jamod.shop
@@ -21254,7 +21255,6 @@ joycasino-aw.com
 joycasino-axo.top
 joycasino-ayx.top
 joycasino-biq.top
-joycasino-bmw.top
 joycasino-bnr.top
 joycasino-bwk.top
 joycasino-chg.top
@@ -22032,7 +22032,6 @@ kingjohnnie-casino-australia.com
 kingjohnniecasino.net
 kingjohnnycasino.net
 kingkongenak.xyz
-kingkongid.online
 kingkongnyoss.xyz
 kingkongpaten.xyz
 kingmaker.com
@@ -22300,6 +22299,7 @@ konicasino.com
 koning-casino.net
 koning-casino.org
 koningcasino-nederland.nl
+konjo.bet
 konoha777.store
 konradfun.com
 konstanzacasino.website
@@ -24005,7 +24005,6 @@ luxeplay.ph
 luxery-casino.com
 luxeslotsmania.com
 luxindopritama.id
-luxobets.com
 luxorycasino.com
 luxry-casino.com
 luxslot.net
@@ -26877,7 +26876,6 @@ nursingpaperspool.com
 nusa356.com
 nusa77.online
 nusa77a.lat
-nusa77a.shop
 nusa77a.vip
 nusa77slot.xyz
 nusabet-play.xyz
@@ -33689,7 +33687,6 @@ salimbest.ink
 salju777-rtp.live
 salju88.pro
 salkjfds54dsfsjlkn.com
-salmon78a.online
 saltcoldstudio.com
 salty.poker
 saltypoker.net
@@ -35413,7 +35410,6 @@ southshorecommonsny.com
 sowin777slots.com
 soyclima.com
 sp1-naro.com
-spaaksupertec.com
 spabet303.net
 space77.pics
 spacecasino.com
@@ -37179,6 +37175,7 @@ todaysgambling.com
 todoslots.es
 toescasino.com
 tofcasino.com
+togame.casino
 togel178.com
 togel178suka.xyz
 togel4dslottoto.com
@@ -39959,7 +39956,6 @@ website-ag-livecasino.com
 website-db-livecasino.com
 websitedaduslot88.click
 websiteterbaikhoki368.xyz
-websure.online
 websvn.info
 webvb88.biz
 webw88vn.com
@@ -40482,6 +40478,7 @@ winzogames.com
 winzter.com
 winzter16.com
 winzzcasino.ca
+wionbet.com
 wiredassets.net
 wirwetten.com
 wis77baik.com
@@ -40888,7 +40885,6 @@ xoso88.tv
 xparibet.com
 xpgames.bet
 xpjcasino.cc
-xpokerglobal.com
 xqchess.com
 xroyalecasino.com
 xrp-casinos.com

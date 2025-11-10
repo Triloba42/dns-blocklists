@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Nov 2025 10:27 UTC
-# Version: 2025.1110.1027.23
+# Last modified: 10 Nov 2025 18:27 UTC
+# Version: 2025.1110.1827.15
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 84267
+# Number of entries: 84265
 #
 *.0-casino.info
 *.000-online-casino.com
@@ -913,6 +913,7 @@
 *.1976c4.com
 *.1976c7.com
 *.1976c8.com
+*.197ndw.com
 *.1980-games.com
 *.19815bets10.com
 *.19816bets10.com
@@ -3140,6 +3141,7 @@
 *.2x-casino.com
 *.2xbetcasino.com
 *.2xlcasino.club
+*.2xsport.com
 *.3-reel-slots.com
 *.3000.casino
 *.300003.cc
@@ -4199,6 +4201,7 @@
 *.55mvv.com
 *.55nbetslot.com
 *.55pgbets.com
+*.55qq2.com
 *.55slotsdj-84.com
 *.55vip777.com
 *.55vvbets.com
@@ -10754,7 +10757,6 @@
 *.bacanaplay-casino.org
 *.bacanaplaycasino.bet
 *.bacanaplaycasino.ca
-*.bacansport.blog
 *.bacansportfire.cyou
 *.bacansports.net
 *.bacara.casino
@@ -17148,6 +17150,7 @@
 *.boomerang-bet1.com
 *.boomerang-bet2.com
 *.boomerang-bet3.com
+*.boomerang-bet4107.com
 *.boomerang-bet5126.com
 *.boomerang-bet616356.com
 *.boomerang-casino.com
@@ -17236,7 +17239,6 @@
 *.bootychasercasino.com
 *.bopoker.org
 *.bora-casino.com
-*.borandedektor.xyz
 *.bordcasinowin.com
 *.borderbets.xyz
 *.bordertowncasinorv.com
@@ -31273,7 +31275,6 @@
 *.dbbetcasinouz.com
 *.dbbets.xyz
 *.dbbetslot.com
-*.dbisnis555.lol
 *.dblackjack.xyz
 *.dbltotobest.com
 *.dbmitchellgroup.com
@@ -36708,7 +36709,6 @@
 *.galaxy.bet
 *.galaxy-bets.com
 *.galaxy6623.blue
-*.galaxy77betevos.pro
 *.galaxy77betpoco.vip
 *.galaxy77betporce.live
 *.galaxy77betsun.online
@@ -38195,7 +38195,6 @@
 *.glorycasinoin.com
 *.glorycasinomobile.com
 *.glorycasinoofficial.com
-*.glorycasinoplay.com
 *.glorycasinopoker.com
 *.glorycasinoq.com
 *.glorycasinos.com
@@ -39794,6 +39793,7 @@
 *.hardrocksportsbook.com
 *.hardtimespoker.com
 *.harepg.com
+*.harifsport.com
 *.harigo.xyz
 *.harimau368.bet
 *.hariraden.xyz
@@ -40929,6 +40929,7 @@
 *.ice-casino-play.com
 *.ice-casino34.com
 *.ice-cazino28.com
+*.ice36.com
 *.ice36.dk
 *.ice36casino.dk
 *.icebet.casino
@@ -41251,6 +41252,7 @@
 *.onlinecasino.in.ua
 *.pokermania.in.net
 *.in-365betsport.com
+*.in-baterybet.in
 *.in-baterybets.com
 *.in-casino-pl.com
 *.in-mostbet-casino.com
@@ -42400,6 +42402,7 @@
 *.jambilive.com
 *.jambo-bets.com
 *.jambo-casino.dk
+*.jambobet.bet
 *.jambocasino.net
 *.jambocasino-dk.com
 *.jamet138e.info
@@ -43697,7 +43700,6 @@
 *.joycasino-bgg.casino
 *.joycasino-bha.top
 *.joycasino-biq.top
-*.joycasino-bmw.top
 *.joycasino-bnr.top
 *.joycasino-bonus.info
 *.joycasino-bonus.org
@@ -45484,7 +45486,6 @@
 *.kingjohnniecasinoaustralia1.com
 *.kingjohnnycasino.net
 *.kingkongenak.xyz
-*.kingkongid.online
 *.kingkongnyoss.xyz
 *.kingkongpaten.xyz
 *.kingkota.xyz
@@ -46111,6 +46112,7 @@
 *.koningbets.nl
 *.koningcasino-nederland.nl
 *.koningcasino-nl.com
+*.konjo.bet
 *.konkijyukukobetsu.com
 *.konoha777.store
 *.konradfun.com
@@ -49647,7 +49649,6 @@
 *.luxeslotsmania.com
 *.luxindopritama.id
 *.luxkaya.com
-*.luxobets.com
 *.luxorcasino.ru
 *.luxorslots-online-2.online
 *.luxorycasino.com
@@ -56171,7 +56172,6 @@
 *.nusa356.com
 *.nusa77.online
 *.nusa77a.lat
-*.nusa77a.shop
 *.nusa77a.vip
 *.nusa77indo.info
 *.nusa77slot.xyz
@@ -69066,7 +69066,6 @@
 *.salju88.pro
 *.salkjfds54dsfsjlkn.com
 *.salmom78.site
-*.salmon78a.online
 *.salonexquisite.net
 *.saltcoldstudio.com
 *.salty.poker
@@ -72420,7 +72419,6 @@
 *.soyclima.com
 *.sp1-naro.com
 *.sp77casino.com
-*.spaaksupertec.com
 *.spabet303.net
 *.space-casino.ca
 *.space77.pics
@@ -75806,6 +75804,7 @@
 *.todoslotscasino.com
 *.toescasino.com
 *.tofcasino.com
+*.togame.casino
 *.togedapetduit.com
 *.togel-asia.xyz
 *.togel178.com
@@ -81506,7 +81505,6 @@
 *.websitemika.com
 *.websiteterbaikhoki368.xyz
 *.websortoto.xyz
-*.websure.online
 *.websvn.info
 *.webvb88.biz
 *.webw88vn.com
@@ -82460,6 +82458,7 @@
 *.winzu.casino
 *.winzzcasino.bet
 *.winzzcasino.ca
+*.wionbet.com
 *.wiredassets.net
 *.wirwetten.com
 *.wis77baik.com
@@ -83154,7 +83153,6 @@
 *.xpgames.bet
 *.xpjcasino.cc
 *.xpoker.tw
-*.xpokerglobal.com
 *.xpokiescasinor.com
 *.xprimebets.com
 *.xprimebets.net
