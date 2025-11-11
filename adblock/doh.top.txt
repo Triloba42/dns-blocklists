@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 10 Nov 2025 10:34 UTC
-! Version: 2025.1110.1034.27
+! Last modified: 11 Nov 2025 10:34 UTC
+! Version: 2025.1111.1034.32
 ! Syntax: AdBlock
-! Number of entries: 693
+! Number of entries: 687
 !
 ||ns.00dani.me^
 ||dns.0ooo.icu^
@@ -23,7 +23,6 @@
 ||doh.30x.me^
 ||dns.354688.xyz^
 ||doh.360.cn^
-||dot.360.cn^
 ||3dns.eu^
 ||dns.3wv.de^
 ||dns.4-the.win^
@@ -78,10 +77,7 @@
 ||dns.ashleyjackson.net^
 ||dandelionsprout.asuscomm.com^
 ||dns.asysec.com^
-||dohtrial.att.net^
 ||dns.azsopro.net^
-||doh1.b-cdn.net^
-||doh2.b-cdn.net^
 ||dns.b33.space^
 ||dns.b612.me^
 ||httpsdns.baidu.com^
@@ -108,8 +104,6 @@
 ||doh-fi.blahdns.com^
 ||doh-jp.blahdns.com^
 ||doh-sg.blahdns.com^
-||dot-de.blahdns.com^
-||dot-sg.blahdns.com^
 ||example.doh.blockerdns.com^
 ||dns.blokada.org^
 ||bluemood.me^
@@ -159,7 +153,6 @@
 ||dns.controld.com^
 ||freedns.controld.com^
 ||doh.cox.net^
-||dohdot.coxlab.net^
 ||crypto.sx^
 ||cryptroute.com^
 ||dns.csa-rz.de^
@@ -175,15 +168,12 @@
 ||httpdns-platform-dbankcloud-com-dra.wec.dbankedge.cn^
 ||httpdns-platform-dbankcloud-com-drcn.wec.dbankedge.cn^
 ||httpdns-platform-dbankcloud-com-dre.wec.dbankedge.cn^
-||dns.decloudus.com^
-||doh.defaultroutes.de^
 ||doh-primary-pool.detoxifypornblocker.com^
 ||dns.dev-umbrellagov.com^
+||mainframe.dewed.de^
 ||digitale-gesellschaft.ch^
 ||dns.digitalsize.net^
 ||doh.disconnect.app^
-||fdns1.dismail.de^
-||fdns2.dismail.de^
 ||dns.google^
 ||dns.pub^
 ||dns.sb^
@@ -218,6 +208,10 @@
 ||kiv01.dnscry.pt^
 ||las01.dnscry.pt^
 ||lon01.dnscry.pt^
+||mad01.dnscry.pt^
+||man01.dnscry.pt^
+||mil01.dnscry.pt^
+||mru01.dnscry.pt^
 ||muc01.dnscry.pt^
 ||omr01.dnscry.pt^
 ||pdx01.dnscry.pt^
@@ -247,7 +241,6 @@
 ||chuncheon.dnsovertor.cc^
 ||doh.asia.dnswarden.com^
 ||dns.dnswarden.com^
-||doh.dnswarden.com^
 ||dnswebvsn.com^
 ||doh.beauty^
 ||doh.buzz^
@@ -280,8 +273,6 @@
 ||dns.fullaccesstointernet.jp.eu.org^
 ||dns.extrawdw.net^
 ||dns.f4a.fun^
-||pdns.faelix.net^
-||rdns.faelix.net^
 ||dns.faked.org^
 ||dns.falkenthal.org^
 ||dnsvps.familiamv.net^
@@ -291,7 +282,6 @@
 ||ns1.fdn.fr^
 ||dns.fehlsprache.de^
 ||doh.ffmuc.net^
-||dot.ffmuc.net^
 ||dns.ffnw.de^
 ||fidelius.top^
 ||dns.filipccz.eu^
@@ -330,7 +320,6 @@
 ||dns.api.test.globuscs.info^
 ||dns.glorydns.com^
 ||moph.go.th^
-||privacydns.go6lab.si^
 ||doh-primary-pool.goodbyegambling.com^
 ||dns.google.com^
 ||google-public-dns-a.google.com^
@@ -377,6 +366,7 @@
 ||doh.iqiyi.com^
 ||dns1.irumatech.com^
 ||dns.is0mino.com^
+||mickedi.isgood.host^
 ||dns.ishan.pw^
 ||jabber-germany.de^
 ||jackyes.ovh^
@@ -405,20 +395,30 @@
 ||landerbrauver.ru^
 ||lastentarvike.fi^
 ||eu1.dns.lavate.ch^
-||us1.dns.lavate.ch^
 ||leecurrylawfirm.com^
 ||lelux.fi^
 ||doh.libredns.gr^
-||dot.libredns.gr^
 ||loadlow.me^
 ||doh.phdns2.lonet.org^
 ||doh.phdns3.lonet.org^
 ||doh.phdns4.lonet.org^
 ||doh.phdns5.lonet.org^
+||n5.lsasss.com^
 ||lukscasino-479-tr.xyz^
 ||lukscasino-929-tr.xyz^
+||mabuktogel.builders^
+||mabuktogel.business^
+||mabuktogel.cards^
+||mabuktogel.degree^
+||mabuktogel.enterprises^
+||mabuktogel.immobilien^
+||mabuktogel.limited^
+||mabuktogel.ltd^
+||mabuktogel.solutions^
 ||maqgie.xyz^
+||multi.dns.marbledfennec.net^
 ||masters-of-cloud.de^
+||mc-sft.cn^
 ||testguard.meexx.de^
 ||meganerd.nl^
 ||httpdns.meituan.com^
@@ -426,9 +426,11 @@
 ||httpdnsmultiapivip.meituan.com^
 ||mendozasdelivery.com^
 ||testaghome.meshkov.info^
+||muli.stusta.mhn.de^
 ||mikezhang.xyz^
 ||netcup.mismat.ch^
 ||dnstls.mobik.com^
+||naganohara-yoimiya.momokko.moe^
 ||morbitzer.de^
 ||ns.mtsoln.com^
 ||dns.mullvad.net^
@@ -439,7 +441,7 @@
 ||dns.velyn.my.id^
 ||dns.vmath.my.id^
 ||myadg.ru^
-||adblock.mydns.network^
+||najiakeji.top^
 ||chungocoai.name.vn^
 ||de-fra-w-p-1.nashkan.net^
 ||de-fsn-w-p-1.nashkan.net^
@@ -499,7 +501,6 @@
 ||dns.ours.luxe^
 ||pashagame456.com^
 ||dns.pccoach.nl^
-||rpz-public-resolver1.rrdns.pch.net^
 ||dns.peb-schmidt.de^
 ||dns.pernika.net^
 ||darya.persiannit.net^
@@ -537,9 +538,7 @@
 ||dns10.quad9.net^
 ||dns11.quad9.net^
 ||dns12.quad9.net^
-||dns13.quad9.net^
 ||dns9.quad9.net^
-||dns.quickline.ch^
 ||doh.quickline.ch^
 ||dns.quiet.rocks^
 ||dog.dns.qwer.pw^
@@ -583,7 +582,6 @@
 ||dns.scott-smith.us^
 ||dns.scuola.org^
 ||2.dnscrypt-cert.dns.seby.io^
-||doh.seby.io^
 ||doh-2.seby.io^
 ||dns.seia.io^
 ||dns1.serdcebolit.ru^
@@ -591,8 +589,6 @@
 ||shalenkov.dev^
 ||free.shecan.ir^
 ||do.shimul.me^
-||dnsovertls.sinodun.com^
-||dnsovertls3.sinodun.com^
 ||sitdns.com^
 ||clientdns3.softcom.net^
 ||solaxy.live^
@@ -611,8 +607,6 @@
 ||ibksturm.synology.me^
 ||dns.szpadel.ovh^
 ||dns.t-ipnet.de^
-||dns.t53.de^
-||httpdns.danuoyi.tbcache.com^
 ||tecdrive.site^
 ||dns1.techeasy.org^
 ||dns.technologycage.com^
@@ -642,6 +636,7 @@
 ||tri-dns.net^
 ||tributh.net^
 ||tuskythehusky.tech^
+||nat64.tuxis.nl^
 ||dns.twnic.tw^
 ||dns.txq.life^
 ||typaza.com^
@@ -683,7 +678,6 @@
 ||xbcpb668.com^
 ||xenergy.cc^
 ||doh.xfinity.com^
-||dot.xfinity.com^
 ||doh2.gslb2.xfinity.com^
 ||dns.xlion.tw^
 ||xn--durhre-yxa.de^

@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 11 Nov 2025 01:26 UTC
-! Version: 2025.1111.0126.52
+! Last modified: 11 Nov 2025 09:26 UTC
+! Version: 2025.1111.0926.51
 ! Syntax: AdBlock
-! Number of entries: 14326
+! Number of entries: 14334
 !
 ||01broker.com^
 ||01crypto.com^
@@ -1344,6 +1344,7 @@
 ||best-apotheke.online^
 ||best-bike-outdoor.com^
 ||best-camping-deals.com^
+||best-cheap-pharmacy.com^
 ||best-elekt.com^
 ||best-garden24.de^
 ||best-good-winery.com^
@@ -2232,7 +2233,6 @@
 ||cerabone.cz^
 ||ceramicjapan-de.com^
 ||ceramictablewareshop.com^
-||cerebrum-iq.com^
 ||certainlyo.com^
 ||cervus-bike.de^
 ||cescory.com^
@@ -3525,6 +3525,7 @@
 ||dualtronpower.shop^
 ||duavital.com^
 ||dubaifix.eu^
+||dubaihoteluae.com^
 ||ducherower.de^
 ||duckflix.de^
 ||duft-blumen.de^
@@ -4017,6 +4018,7 @@
 ||estrategen.de^
 ||esyqefp.top^
 ||etcydecor.de^
+||etercitenal.com^
 ||eternity.business^
 ||eternity-diamond.com^
 ||hippo2.eth.limo^
@@ -6220,6 +6222,7 @@
 ||hotel-marketing-advertising.com^
 ||hotelaustralien.de^
 ||hotelectronicshop.com^
+||hotelinphuket.net^
 ||hotelladen.com^
 ||hotels-colombo.com^
 ||hotels-colorado.net^
@@ -6227,6 +6230,7 @@
 ||hotelsinperm.ru^
 ||hotelsinvienna.org^
 ||hotelsofmenorca.com^
+||hotelsofnewyorkcity.net^
 ||hotelwareus.com^
 ||hotelwhales.com^
 ||hotix.de^
@@ -6326,6 +6330,7 @@
 ||hybridfahrrader.com^
 ||hydrip.de^
 ||hygienecleanshop.com^
+||hyip.com^
 ||hype-handel.de^
 ||hype-hoodies.com^
 ||hypelaced.co^
@@ -6502,6 +6507,7 @@
 ||inetzteil.de^
 ||inexpensivy.com^
 ||inferright.com^
+||inferutmati.com^
 ||infineink.com^
 ||infinitediamond.com^
 ||infinitrade.com^
@@ -6579,6 +6585,7 @@
 ||inteiograly.com^
 ||intelilawllp.com^
 ||intellisynex.com^
+||intentionalk.com^
 ||inter-investissement-holding.com^
 ||interactionm.com^
 ||interactivecoins.com^
@@ -10318,6 +10325,7 @@
 ||proupwholesale.com^
 ||provenxperts.com^
 ||proveri.de^
+||providedes.com^
 ||provise24.com^
 ||proximitye.com^
 ||proximityi.com^
@@ -10993,7 +11001,6 @@
 ||sakerwerkzeuge.de^
 ||sakimo.net^
 ||salanza-berlin.de^
-||sale-dress.com^
 ||sale-ersatzteile.com^
 ||sale-homedecor.com^
 ||sale-perfume.com^
@@ -11769,6 +11776,7 @@
 ||sparprime.com^
 ||sparwahnsinn24.de^
 ||spd-mossautal.de^
+||specializeg.com^
 ||specialmdassortment.com^
 ||specialmenswear.com^
 ||specialselling.com^

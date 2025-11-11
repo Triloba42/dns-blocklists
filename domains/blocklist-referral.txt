@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Nov 2025 19:31 UTC
-# Version: 2025.1110.1931.31
+# Last modified: 11 Nov 2025 09:15 UTC
+# Version: 2025.1111.0915.35
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1519
+# Number of entries: 1524
 #
 1-aclk.net
 1aurl.io
@@ -933,7 +933,6 @@ tracking.mailerswift.app
 mandrillapp.com
 tracker.marinsm.com
 trace.marketingviadigital.com
-mathtag.com
 maxconv.com
 mcclk.com
 track.mdrctr.com
@@ -956,6 +955,7 @@ go.microsoft.com
 target.microsoft.com
 email.microsoftemail.com
 click.email.microsoftemail.com
+image.email.microsoftemail.com
 view.email.microsoftemail.com
 email.microsoftonline.com
 click.email.microsoftonline.com
@@ -996,6 +996,7 @@ mkto-ab390087.com
 mkto-ab400124.com
 mkto-ab420081.com
 mkto-ab430114.com
+mkto-ab430126.com
 mkto-ab430187.com
 mkto-ab440025.com
 mkto-ab440098.com
@@ -1012,9 +1013,11 @@ mkto-ab560009.com
 mkto-ab560068.com
 mkto-ab560119.com
 mkto-ab570110.com
+mkto-ab570128.com
 mkto-ab580004.com
 mkto-ab600004.com
 mkto-ab620045.com
+mkto-ab620130.com
 mkto-ab630144.com
 mkto-ab640193.com
 mkto-ab650097.com
@@ -1028,6 +1031,7 @@ mkto-abm0229.com
 mkto-cs0007.com
 mkto-d0170.com
 mkto-g0180.com
+mkto-i0028.com
 mkto-j0126.com
 mkto-lon030291.com
 mkto-lon040152.com
@@ -1038,6 +1042,7 @@ mkto-lon090082.com
 mkto-lon100059.com
 mkto-lon100168.com
 mkto-mlm10010008.com
+mkto-nld1010057.com
 mkto-nld1040186.com
 mkto-p0016.com
 mkto-sj010104.com

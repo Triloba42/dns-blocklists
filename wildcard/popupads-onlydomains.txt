@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Nov 2025 05:24 UTC
-# Version: 2025.1111.0524.49
+# Last modified: 11 Nov 2025 09:24 UTC
+# Version: 2025.1111.0924.27
 # Syntax: Domains (without subdomains)
-# Number of entries: 66060
+# Number of entries: 66068
 #
 0.beer
 0.club
@@ -5972,10 +5972,7 @@ a0de95822c.856d79ad49.com
 858akaman.xyz
 85a90880b9.com
 86043854.xyz
-1337ul.8609.cc
-908.8609.cc
-985.8609.cc
-988.8609.cc
+8609.cc
 86124673.xyz
 86165466.xyz
 75003826de.8619047757.com
@@ -6170,11 +6167,7 @@ d34d3e1bba.91d02a6a8c.com
 93a72bfca9.com
 93febf18c6.com
 93tc.com
-495.9415.cc
-904.9415.cc
-914.9415.cc
-926.9415.cc
-928.9415.cc
+9415.cc
 9421d59b1d.com
 942442.top
 94444717.xyz
@@ -7460,8 +7453,16 @@ adorika.com
 prbzg.adoringgirl.net
 yvran.adoringgirl.net
 adoringgirls.net
-adoringirl.com
 adoringirl.net
+aolvog.adoringirl.com
+aomzlj.adoringirl.com
+argbq.adoringirl.com
+bebxbr.adoringirl.com
+dgkqxd.adoringirl.com
+keoarr.adoringirl.com
+nrjjke.adoringirl.com
+ogmrzv.adoringirl.com
+vxjdo.adoringirl.com
 adornexampleauthority.com
 adornmadeup.com
 adornmentpuzzlement.com
@@ -11799,8 +11800,7 @@ bcombdmnoidze.online
 bcpbtqpumbarw.online
 bcppd.gdn
 bcprm.com
-dciclc.bctnodv.top
-dcivlv.bctnodv.top
+bctnodv.top
 bctuafpdwarbm.site
 track.bcvc.mobi
 bcwpdvigokzca.space
@@ -14842,7 +14842,12 @@ calloove.com
 callousannounced.com
 callousbrake.com
 callousremoval.com
-calltogetprize.net
+keqoeb.calltogetprize.net
+ogjbnv.calltogetprize.net
+wexxrv.calltogetprize.net
+zolmmo.calltogetprize.net
+zowarv.calltogetprize.net
+zxzbv.calltogetprize.net
 callunaabiegh.qpon
 callvideo.com
 callyourinformer.com
@@ -16788,9 +16793,7 @@ cmpgns.net
 cmprotraf.club
 cmpuwps.com
 cmrdr.com
-276eefe2165e.cmsdurbv.top
-a38f0f2b74c4.cmsdurbv.top
-b84c7e3bdff5.cmsdurbv.top
+cmsdurbv.top
 cmtrk.com
 cmtrkg.com
 cmuadjagpm.com
@@ -16803,10 +16806,7 @@ dynamic.163data.com.cn.tv
 everpharmanet.cn.tv
 cn2f.cn
 cn846.com
-526c5dc94e12.cndsdsva.top
-530076989109.cndsdsva.top
-5d58890195ae.cndsdsva.top
-e49e0b120ad5.cndsdsva.top
+cndsdsva.top
 cndw.top
 cnesnnavxumlh.online
 cngcpy.com
@@ -16820,8 +16820,7 @@ cnt.my
 cntrealize.com
 cnwafglwlbcro.life
 dciclc.cnwuamf.top
-dciclc.cnwucnf.top
-dcivlv.cnwucnf.top
+cnwucnf.top
 cnyojprieezzh.store
 cnzixiang.com
 cnzz.biz
@@ -18722,7 +18721,8 @@ cstplan.com
 cstwpush.com
 csuhgqcwubodd.online
 cswjpyurbaiap.online
-ct.ws
+sportifymore.ct.ws
+voting-express-tl.ct.ws
 ct11.biz
 ct401.com
 ctasnet.com
@@ -18952,8 +18952,7 @@ cuwnkedfa.com
 cuybnvyuqlizr.space
 cuzqaskcyjyut.site
 cvastico.com
-dciclc.cvcnmtf.top
-dcivlv.cvcnmtf.top
+cvcnmtf.top
 cvdbvcrpzjrgv.website
 cvdinc.com
 cvfr74t.com
@@ -19650,8 +19649,8 @@ gwgkb.datlngllfe.com
 llmqba.datlngllfe.com
 rnxedd.datlngllfe.com
 datlngmatch.com
-datlngplace.com
 datlngplace.net
+reachedllkbxe.datlngplace.com
 gzbbg.datlngstory.com
 llkljl.datlngstory.com
 aorqrz.datlngweekends.net
@@ -19672,7 +19671,8 @@ jnoxow.datteshub.com
 jqmml.datteshub.com
 nrwkax.datteshub.com
 dattewonder.net
-dattiesfree.com
+nrjbow.dattiesfree.com
+zovlxd.dattiesfree.com
 bggrjw.datting4you.com
 bgogbq.datting4you.com
 dgwrzx.datting4you.com
@@ -22640,8 +22640,7 @@ ay.ectasiaeyemark.com
 ectedithconsuk.com
 ectenepenury.com
 ecteneunroven.shop
-dciclc.ectnodw.top
-dcivlv.ectnodw.top
+ectnodw.top
 ectozoaquagga.top
 ectsofcukorpor.com
 ectuklyeconen.com
@@ -25588,11 +25587,13 @@ mwvrgb.findgirlfor.com
 nrjbow.findgirlfor.com
 zovjwq.findgirlfor.com
 findgirlforyou.com
-findgirllfor.net
 bggndo.findgirllfor.com
 dgnwlj.findgirllfor.com
 jndogn.findgirllfor.com
+nrbodn.findgirllfor.net
+nrjnda.findgirllfor.net
 vnaqxk.findgirllfor.com
+warjxx.findgirllfor.net
 findgirlsdream.com
 findgirlsflirting.com
 findingexchange.com
@@ -26729,7 +26730,8 @@ freehookupaffair.com
 freeindianrummy.com
 freelocalwebcamchat.com
 freelovehere.com
-freeluckytiming.com
+dvkog.freeluckytiming.com
+xlvkl.freeluckytiming.com
 freelyglossarylend.com
 freemanaccordingly.com
 freemanenrichabout.com
@@ -31768,8 +31770,7 @@ huzi.com
 huzytgmqsnecd.website
 huzzahwhatintently.com
 huzzvariac.life
-dciclc.hvcnmtu.top
-dcivlv.hvcnmtu.top
+hvcnmtu.top
 hvdzdrovccwom.site
 hvefnbufkpxou.website
 hvert.site
@@ -33679,8 +33680,7 @@ ivaiptoagha.net
 ivajnwwpadtow.love
 ivanchinastandard.com
 ivangrammarfalling.com
-dciclc.ivcnmto.top
-dcivlv.ivcnmto.top
+ivcnmto.top
 ivcsmrt.com
 ivemjdir-g.top
 iviralpartners.com
@@ -34056,11 +34056,8 @@ jemsoksoomt.net
 jemtaucmowhu.top
 jenkinkuttab.com
 jennduncanphoto.com
-max.jenny4.fun
-wew.jenny4.fun
-wmx.jenny4.fun
+jenny4.fun
 wnw.jenny4.com
-wow.jenny4.fun
 news.jennydanny.com
 jennyvisits.com
 jenoga.xyz
@@ -34877,8 +34874,7 @@ juxpdnekqdmka.space
 juxtaposetextbookcaptivate.com
 juywkhbpmswmq.website
 juzaugleed.com
-dciclc.jvcnmta.top
-dcivlv.jvcnmta.top
+jvcnmta.top
 jvebyd.com
 jviot.com
 jvlrcbfxijxgk.store
@@ -35170,7 +35166,8 @@ kchhccjmzipel.site
 kcjkoxgldo.cyou
 kcjmivforjixu.online
 kcmstredk.com
-kcolb.site
+js.kcolb.site
+mngr.kcolb.site
 kcqbrwygxixdh.site
 dciclc.kctnodd.top
 kcxljicqwzjfd.space
@@ -35991,8 +35988,7 @@ kuzeyisigikres.com
 kvaaa.com
 kvarcureeny.com
 kvbojuxkwvcfk.global
-dciclc.kvcnmtd.top
-dcivlv.kvcnmtd.top
+kvcnmtd.top
 kvcon.de
 kvdnetmzqvwxw.store
 kvdqzsytlcxuf.space
@@ -36461,8 +36457,7 @@ lckyzl.com
 lclocation.com
 lcnmoccchdoij.vip
 lcskincarecenter.com
-dciclc.lctnodl.top
-dcivlv.lctnodl.top
+lctnodl.top
 lcuaerlknisgy.space
 lcugatnuhfpo.com
 lcwfab1.com
@@ -37830,7 +37825,9 @@ loveeforus.net
 aoaavz.loveematches.com
 bgwmxx.loveematches.com
 dgwwoj.loveematches.com
-loveentra.com
+vnaqke.loveentra.com
+vnwxkk.loveentra.com
+wdkll.loveentra.com
 grkzqx.loveeurdate.com
 kereva.loveeurdate.com
 llolwj.loveeurdate.com
@@ -38773,7 +38770,6 @@ mandombeth.cfd
 gu.mandsspartan.com
 ng.manedbenchy.cyou
 js.manga1000.top
-mangbaiz.xyz
 mangerolympicssnort.com
 mangeskapa.rest
 mangoads.net
@@ -39049,7 +39045,19 @@ matamant.com
 match-mate.jp
 match-mate.net
 match-member.com
-match2connects.com
+bgvgaq.match2connects.com
+dgzaln.match2connects.com
+grajlb.match2connects.com
+jnajxl.match2connects.com
+llmrxw.match2connects.com
+llwjnl.match2connects.com
+mwzwro.match2connects.com
+nrlgwr.match2connects.com
+ogqbrv.match2connects.com
+ogrkrm.match2connects.com
+qgkdar.match2connects.com
+wrdxj.match2connects.com
+xbqzrd.match2connects.com
 matchboxpalmsprings.com
 matchelitemuslim.com
 matcher.one
@@ -40923,7 +40931,6 @@ mrlscr.com
 mrmnd.com
 mrmrfvx134.cyou
 mrozqki.top
-mrpazk.xyz
 mrpqqtuzjnkdc.site
 mrqcxjbhluvew.xyz
 mrsivqqtsnlcx.site
@@ -43323,8 +43330,7 @@ ocpsimamdza.com
 octaplagaius.shop
 octaviantraprelease.com
 octinvemb.com
-dciclc.octnodk.top
-dcivlv.octnodk.top
+octnodk.top
 octo25.me
 octoads.shop
 octoberads.space
@@ -48579,8 +48585,7 @@ qcnragymlulzk.website
 qcqfkzglgynfr.site
 qcqobpxpeeiwh.store
 qcsrmdrmddyos.com
-dciclc.qctnody.top
-dcivlv.qctnody.top
+qctnody.top
 qcuoyo.icu
 qcuwpicccoscr.online
 qcwnfoqtqgvau.icu
@@ -50932,7 +50937,11 @@ aoalek.romanceafair.net
 www.dgrobw.romanceafair.net
 www.qgonmn.romanceafair.net
 wejexr.romanceafair.net
-romanceafairs.com
+www.anann.romanceafairs.com
+www.elmelj.romanceafairs.com
+www.rnoeqg.romanceafairs.com
+www.vnaqok.romanceafairs.com
+www.wedgex.romanceafairs.com
 anvren.romanceafalr.net
 romanceaffair.net
 bgdwjr.romancedale.com
@@ -52181,8 +52190,7 @@ scrufsirloin.com
 scrupulousyet.com
 scrutinizeordealscrutinize.com
 sctaylor.com
-dciclc.sctnodb.top
-dcivlv.sctnodb.top
+sctnodb.top
 scubaenterdane.com
 scuffleputrefy.com
 ld.scuftockster.com
@@ -52922,9 +52930,7 @@ ko.sheltaransack.com
 shemalesofhentai.com
 eo.shemdipolar.shop
 shempaurdou.net
-bnrs.shemrec.cc
-proll.shemrec.cc
-pundr.shemrec.cc
+shemrec.cc
 shemsoalto.net
 shenbingask.com
 shengfleming.com
@@ -56749,8 +56755,7 @@ tcreativeideasa.com
 tcrtidleivyai.space
 tcskitchensandcatering.xyz
 tcsmgstagingserver.com
-dciclc.tctnodi.top
-dcivlv.tctnodi.top
+tctnodi.top
 tctrbtdxbscuw.site
 tcudrocivr.com
 tcvlrtqsfqkbo.store
@@ -59384,8 +59389,7 @@ uciot.com
 uckiaaoul.rest
 ucourgompooveen.net
 ucpfezjbcrmwh.space
-dciclc.uctnodt.top
-dcivlv.uctnodt.top
+uctnodt.top
 ucuhyu.com
 ucuoknexq.global
 ucwkvipzetzxc.space
@@ -60947,7 +60951,12 @@ ogqerj.veritabiedate.net
 kemmel.veritabledate.net
 laowd.veritabledate.net
 xbaaoj.veritabledate.net
-veritabledates.net
+www.bgeab.veritabledates.net
+www.jnzlw.veritabledates.net
+www.kemxl.veritabledates.net
+www.xboed.veritabledates.net
+www.xbwab.veritabledates.net
+www.xbxxdl.veritabledates.net
 veritrol.com
 aoaelx.verltabiedate.net
 endggk.verltabiedate.net
@@ -61517,9 +61526,7 @@ viphirsaick.net
 vipmilan69.com
 viporalsurgery.com
 vipriver28.net
-cw32brt.vipspotflirts.life
-gwqpmrg.vipspotflirts.life
-k8cpmrdll.vipspotflirts.life
+vipspotflirts.life
 vipvs.com
 vipwealthmanagement.net
 vipwomans-zone.org
@@ -62403,8 +62410,7 @@ wcoaswaxkrt.com
 wcpgtxpzhpdgy.website
 wcpmoh.com
 wct.link
-dciclc.wctnode.top
-dcivlv.wctnode.top
+wctnode.top
 wcuggkuxfgutu.today
 wcuxkyjwndqxj.top
 wcvevntrztrdi.site
@@ -64098,9 +64104,7 @@ xghklnjmyljlc.site
 xgiiioziwwayu.store
 xgks.com
 xgolyqyfjuuwn.online
-1048877cc998.xgoxwcldkz.top
-680ad07504ce.xgoxwcldkz.top
-f971bc9f9ae8.xgoxwcldkz.top
+xgoxwcldkz.top
 xgozhrjmwwgxf.site
 xgraph.net
 xgsxkzscxapvj.online
@@ -65075,7 +65079,11 @@ sh.yourselseptate.com
 yoursiteintexas.com
 yourskiss.com
 yourstow.com
-yoursweetflirt.com
+d5ppmrhud.yoursweetflirt.com
+lrmpmre.yoursweetflirt.com
+t41pbrw.yoursweetflirt.com
+vkgpmr9.yoursweetflirt.com
+ygapmrg.yoursweetflirt.com
 yourtopwords.com
 hv.yourtthig.com
 yourube.com
@@ -65198,7 +65206,8 @@ yueyangbang.com
 yueyinglighting.com
 yugjwgg.top
 yuhuads.com
-yuhuan.cc
+59557com.yuhuan.cc
+wwwtk1976com.yuhuan.cc
 yuiiy.com
 yuintbradshed.com
 mv.yuitvr.com
@@ -66009,8 +66018,7 @@ zxenwgfnhknxs.click
 zxfqtqmtlldld.world
 zxgjrlpmaqyek.website
 zxinihfgkdpfb.space
-2774c5d7b48b.zxmenhmo.top
-bb6b7391a692.zxmenhmo.top
+zxmenhmo.top
 zxnmbtdwlyafw.website
 zxnymrendoxms.space
 zxttvkshqbded.space

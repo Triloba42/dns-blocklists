@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Nov 2025 01:26 UTC
-# Version: 2025.1111.0126.52
+# Last modified: 11 Nov 2025 09:26 UTC
+# Version: 2025.1111.0926.51
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14326
+# Number of entries: 14334
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -1343,6 +1343,7 @@ local=/besseregesunheit.com/
 local=/best-apotheke.online/
 local=/best-bike-outdoor.com/
 local=/best-camping-deals.com/
+local=/best-cheap-pharmacy.com/
 local=/best-elekt.com/
 local=/best-garden24.de/
 local=/best-good-winery.com/
@@ -2231,7 +2232,6 @@ local=/centsyshop.com/
 local=/cerabone.cz/
 local=/ceramicjapan-de.com/
 local=/ceramictablewareshop.com/
-local=/cerebrum-iq.com/
 local=/certainlyo.com/
 local=/cervus-bike.de/
 local=/cescory.com/
@@ -3524,6 +3524,7 @@ local=/dualtronnpower.de/
 local=/dualtronpower.shop/
 local=/duavital.com/
 local=/dubaifix.eu/
+local=/dubaihoteluae.com/
 local=/ducherower.de/
 local=/duckflix.de/
 local=/duft-blumen.de/
@@ -4016,6 +4017,7 @@ local=/estilobrasilofertas.com/
 local=/estrategen.de/
 local=/esyqefp.top/
 local=/etcydecor.de/
+local=/etercitenal.com/
 local=/eternity.business/
 local=/eternity-diamond.com/
 local=/hippo2.eth.limo/
@@ -6219,6 +6221,7 @@ local=/hotel-ds.com/
 local=/hotel-marketing-advertising.com/
 local=/hotelaustralien.de/
 local=/hotelectronicshop.com/
+local=/hotelinphuket.net/
 local=/hotelladen.com/
 local=/hotels-colombo.com/
 local=/hotels-colorado.net/
@@ -6226,6 +6229,7 @@ local=/hotels-in-tyrol.com/
 local=/hotelsinperm.ru/
 local=/hotelsinvienna.org/
 local=/hotelsofmenorca.com/
+local=/hotelsofnewyorkcity.net/
 local=/hotelwareus.com/
 local=/hotelwhales.com/
 local=/hotix.de/
@@ -6325,6 +6329,7 @@ local=/hxuenb.shop/
 local=/hybridfahrrader.com/
 local=/hydrip.de/
 local=/hygienecleanshop.com/
+local=/hyip.com/
 local=/hype-handel.de/
 local=/hype-hoodies.com/
 local=/hypelaced.co/
@@ -6501,6 +6506,7 @@ local=/inetchip.de/
 local=/inetzteil.de/
 local=/inexpensivy.com/
 local=/inferright.com/
+local=/inferutmati.com/
 local=/infineink.com/
 local=/infinitediamond.com/
 local=/infinitrade.com/
@@ -6578,6 +6584,7 @@ local=/inteigral.com/
 local=/inteiograly.com/
 local=/intelilawllp.com/
 local=/intellisynex.com/
+local=/intentionalk.com/
 local=/inter-investissement-holding.com/
 local=/interactionm.com/
 local=/interactivecoins.com/
@@ -10317,6 +10324,7 @@ local=/protovfurniture.com/
 local=/proupwholesale.com/
 local=/provenxperts.com/
 local=/proveri.de/
+local=/providedes.com/
 local=/provise24.com/
 local=/proximitye.com/
 local=/proximityi.com/
@@ -10992,7 +11000,6 @@ local=/sakaziq.com/
 local=/sakerwerkzeuge.de/
 local=/sakimo.net/
 local=/salanza-berlin.de/
-local=/sale-dress.com/
 local=/sale-ersatzteile.com/
 local=/sale-homedecor.com/
 local=/sale-perfume.com/
@@ -11768,6 +11775,7 @@ local=/sparmarie24.de/
 local=/sparprime.com/
 local=/sparwahnsinn24.de/
 local=/spd-mossautal.de/
+local=/specializeg.com/
 local=/specialmdassortment.com/
 local=/specialmenswear.com/
 local=/specialselling.com/
