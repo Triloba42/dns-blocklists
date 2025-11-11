@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Nov 2025 18:28 UTC
-# Version: 2025.1110.1828.11
+# Last modified: 11 Nov 2025 02:25 UTC
+# Version: 2025.1111.0225.53
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11620
+# Number of entries: 11619
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -2571,6 +2571,7 @@ local=/mixes.dfx.at/
 local=/tr-rh-zhuqiy.dgj055.icu/
 local=/tr-zhuqiy-1.dgj055.icu/
 local=/tr-zhuqiy-2.dgj055.icu/
+local=/tracker-zhuqiy.dgj055.icu/
 local=/trl-zhuqiy.dgj055.icu/
 local=/tracker.zhuqiy.dgj055.icu/
 local=/dhakadownload.com/
@@ -3178,7 +3179,6 @@ local=/torrentz.eu.com/
 local=/1.tracker.eu.org/
 local=/2.tracker.eu.org/
 local=/3.tracker.eu.org/
-local=/4.tracker.eu.org/
 local=/turiyabrucesta.eu.com/
 local=/eurekaddl.art/
 local=/eurekaddl.baby/
@@ -9245,7 +9245,6 @@ local=/sidewinderx.sytes.net/
 local=/thebazaar.sytes.net/
 local=/szeneworld.eu/
 local=/savaria.szerverem.hu/
-local=/tracker.t-1.org/
 local=/t-pb.org/
 local=/t-rb.org/
 local=/t-ru.org/

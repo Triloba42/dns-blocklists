@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Nov 2025 17:27 UTC
-# Version: 2025.1110.1727.14
+# Last modified: 11 Nov 2025 01:26 UTC
+# Version: 2025.1111.0126.52
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14328
+# Number of entries: 14326
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -1867,7 +1867,6 @@ local=/brennholzs.com/
 local=/brennholzschnell24.de/
 local=/brennholzscholl.com/
 local=/brennholzstein.de/
-local=/brennholzstore.com/
 local=/brennholzstore.de/
 local=/brennholzweber.de/
 local=/brennholzwerner.de/
@@ -10960,7 +10959,6 @@ local=/ryaneve.com/
 local=/ryderwearjapan.com/
 local=/ryderwearjapann.com/
 local=/rytewerkone.com/
-local=/s.kohler/
 local=/s-f-invest.at/
 local=/s2g-multiversand.com/
 local=/baxmusic-sale.sa.com/
