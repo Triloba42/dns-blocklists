@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Nov 2025 17:27 UTC
-# Version: 2025.1111.1727.09
+# Last modified: 11 Nov 2025 21:26 UTC
+# Version: 2025.1111.2126.44
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14345
+# Number of entries: 14347
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -1170,6 +1170,7 @@ local=/baumasters.com/
 local=/baumeistermodels.com/
 local=/baumwollbabywholesale.shop/
 local=/bauprofimaschinen.com/
+local=/baur-best.com/
 local=/baurino.com/
 local=/baushopping.com/
 local=/baustellenbedarfbillig.com/
@@ -2823,6 +2824,7 @@ local=/cryptoapextrade.com/
 local=/cryptoassetscontrol.com/
 local=/cryptobourse.net/
 local=/cryptocash24.com/
+local=/cryptocurrencyexz.com/
 local=/cryptofast.net/
 local=/cryptofundfx.com/
 local=/cryptoinnovatebot.net/
@@ -6635,6 +6637,7 @@ local=/iount.com/
 local=/iovannhecimovic.com/
 local=/iowautotrading.com/
 local=/ipanema-osterreich.at/
+local=/net.ipdwio.com/
 local=/iphone16-refurbed.de/
 local=/iprimmo.com/
 local=/iptvdutch.store/
@@ -6728,7 +6731,6 @@ local=/jean-weis.com/
 local=/jeansniedrigerpreis.com/
 local=/jeansrabatt.de/
 local=/jedermarkt.store/
-local=/jedermart.store/
 local=/jefercopellets.com/
 local=/jefferycooper.com/
 local=/jeffkelleher.shop/
@@ -7411,7 +7413,6 @@ local=/ro10.landunk.com/
 local=/ro9.landunk.com/
 local=/de1.landurm.com/
 local=/landwirtschaftlicheegbr.com/
-local=/landwirtschftlicheegbr.com/
 local=/lane-properties.com/
 local=/laneberg.de/
 local=/lanetech.de/
@@ -12563,6 +12564,7 @@ local=/thepetshopsonline.com/
 local=/thepetzone.vip/
 local=/thepharmacyexpress.net/
 local=/thepickupstorehouse.com/
+local=/theplayshopping.com/
 local=/thepocketknives.com/
 local=/thepocsport.com/
 local=/theprivateadult.com/

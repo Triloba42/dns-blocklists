@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762885920 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762900140 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 Nov 2025 18:32 UTC
-; Version: 2025.1111.1832.31
+; Last modified: 11 Nov 2025 22:29 UTC
+; Version: 2025.1111.2229.53
 ; Syntax: RPZ
-; Number of entries: 156488
+; Number of entries: 156490
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -9680,8 +9680,6 @@ analcam.club CNAME .
 *.analcam.club CNAME .
 angelentertainment.club CNAME .
 *.angelentertainment.club CNAME .
-anifap.club CNAME .
-*.anifap.club CNAME .
 animalpornxxxsexvideos.club CNAME .
 *.animalpornxxxsexvideos.club CNAME .
 animals-sex.club CNAME .
@@ -9990,6 +9988,8 @@ k2s.club CNAME .
 *.k2s.club CNAME .
 kajfporno.club CNAME .
 *.kajfporno.club CNAME .
+karachicallgirls.club CNAME .
+*.karachicallgirls.club CNAME .
 kfake.club CNAME .
 *.kfake.club CNAME .
 kibriseskort.club CNAME .
@@ -134564,6 +134564,8 @@ geyporno5.top CNAME .
 *.geyporno5.top CNAME .
 geyporno6.top CNAME .
 *.geyporno6.top CNAME .
+gg01.top CNAME .
+*.gg01.top CNAME .
 girl4.top CNAME .
 *.girl4.top CNAME .
 glamx.top CNAME .

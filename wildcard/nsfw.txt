@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Nov 2025 18:32 UTC
-# Version: 2025.1111.1832.31
+# Last modified: 11 Nov 2025 22:29 UTC
+# Version: 2025.1111.2229.53
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 78244
+# Number of entries: 78245
 #
 *.001-adult-toys-n-sex-dolls.com
 *.001218.xyz
@@ -4640,7 +4640,6 @@
 *.anhsexvl.com
 *.anhsonstudio.com
 *.anicosplaylove.com
-*.anifap.club
 *.anifap.com
 *.anifap.me
 *.anifap.ninja
@@ -28413,6 +28412,7 @@
 *.gfsexlandgstarf.shop
 *.gfteenporn.com
 *.gftranny.com
+*.gg01.top
 *.ggaya.com
 *.ggayy.com
 *.ggbases.com
@@ -36845,6 +36845,7 @@
 *.karabu.quebec
 *.karabukescort.com
 *.karabukescorts.com
+*.karachicallgirls.club
 *.karachicallgirlsescorts.xyz
 *.karachidolls.online
 *.karachienjoyment.com

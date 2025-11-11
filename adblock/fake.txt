@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 11 Nov 2025 17:27 UTC
-! Version: 2025.1111.1727.09
+! Last modified: 11 Nov 2025 21:26 UTC
+! Version: 2025.1111.2126.44
 ! Syntax: AdBlock
-! Number of entries: 14345
+! Number of entries: 14347
 !
 ||01broker.com^
 ||01crypto.com^
@@ -1171,6 +1171,7 @@
 ||baumeistermodels.com^
 ||baumwollbabywholesale.shop^
 ||bauprofimaschinen.com^
+||baur-best.com^
 ||baurino.com^
 ||baushopping.com^
 ||baustellenbedarfbillig.com^
@@ -2824,6 +2825,7 @@
 ||cryptoassetscontrol.com^
 ||cryptobourse.net^
 ||cryptocash24.com^
+||cryptocurrencyexz.com^
 ||cryptofast.net^
 ||cryptofundfx.com^
 ||cryptoinnovatebot.net^
@@ -6636,6 +6638,7 @@
 ||iovannhecimovic.com^
 ||iowautotrading.com^
 ||ipanema-osterreich.at^
+||net.ipdwio.com^
 ||iphone16-refurbed.de^
 ||iprimmo.com^
 ||iptvdutch.store^
@@ -6729,7 +6732,6 @@
 ||jeansniedrigerpreis.com^
 ||jeansrabatt.de^
 ||jedermarkt.store^
-||jedermart.store^
 ||jefercopellets.com^
 ||jefferycooper.com^
 ||jeffkelleher.shop^
@@ -7412,7 +7414,6 @@
 ||ro9.landunk.com^
 ||de1.landurm.com^
 ||landwirtschaftlicheegbr.com^
-||landwirtschftlicheegbr.com^
 ||lane-properties.com^
 ||laneberg.de^
 ||lanetech.de^
@@ -12564,6 +12565,7 @@
 ||thepetzone.vip^
 ||thepharmacyexpress.net^
 ||thepickupstorehouse.com^
+||theplayshopping.com^
 ||thepocketknives.com^
 ||thepocsport.com^
 ||theprivateadult.com^

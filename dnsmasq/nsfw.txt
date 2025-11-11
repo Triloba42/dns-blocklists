@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Nov 2025 18:32 UTC
-# Version: 2025.1111.1832.31
+# Last modified: 11 Nov 2025 22:29 UTC
+# Version: 2025.1111.2229.53
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 78244
+# Number of entries: 78245
 #
 local=/001-adult-toys-n-sex-dolls.com/
 local=/001218.xyz/
@@ -4640,7 +4640,6 @@ local=/anhsexkhongche.com/
 local=/anhsexvl.com/
 local=/anhsonstudio.com/
 local=/anicosplaylove.com/
-local=/anifap.club/
 local=/anifap.com/
 local=/anifap.me/
 local=/anifap.ninja/
@@ -28413,6 +28412,7 @@ local=/gfriders.com/
 local=/gfsexlandgstarf.shop/
 local=/gfteenporn.com/
 local=/gftranny.com/
+local=/gg01.top/
 local=/ggaya.com/
 local=/ggayy.com/
 local=/ggbases.com/
@@ -36845,6 +36845,7 @@ local=/kaputik.net/
 local=/karabu.quebec/
 local=/karabukescort.com/
 local=/karabukescorts.com/
+local=/karachicallgirls.club/
 local=/karachicallgirlsescorts.xyz/
 local=/karachidolls.online/
 local=/karachienjoyment.com/

@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 11 Nov 2025 18:18 UTC
-! Version: 2025.1111.1818.25
+! Last modified: 11 Nov 2025 22:15 UTC
+! Version: 2025.1111.2215.33
 ! Syntax: AdBlock
-! Number of entries: 61797
+! Number of entries: 61959
 !
 ||0-02.net^
 ||0-800-310auth1.com^
@@ -248,7 +248,13 @@
 ||10bet.com^
 ||10e75564011042.beer^
 ||10ecommercetrendssolutions.info^
+||10gvestbrareceberseunomerasa.shop^
 ||10kadvertising.com^
+||10nareceberseunome.shop^
+||10ndayareceberseunome.shop^
+||10ngreceberseunome.shop^
+||10pgreceberseunome.shop^
+||10sertareceberseunome.shop^
 ||ywrcqa.10tv.com^
 ||10up.com^
 ||10xlaunch.ai^
@@ -276,7 +282,9 @@
 ||utiq.11freunde.de^
 ||11goxbet.com^
 ||11h5.com^
+||11jgreceberseunome.shop^
 ||11n3djth3.de^
+||11ndayareceberseunome.shop^
 ||11ssq.com^
 ||11x11.com^
 ||12.com^
@@ -317,11 +325,17 @@
 ||1276888d011032.beer^
 ||12839.click^
 ||12863713a11042.beer^
+||129289ssnc.icu^
 ||129b03fd911032.beer^
 ||12b31aa8411032.beer^
 ||12bet.com^
 ||12ezo5v60.com^
 ||12gbfree.com^
+||12ghreceberseunome.shop^
+||12gvestbrareceberseunomerasa.shop^
+||12jgreceberseunome.shop^
+||12kjreceberseunome.shop^
+||12ndayareceberseunome.shop^
 ||t.12thman.com^
 ||jtugc.12thtribe.com^
 ||vgctz.12thtribe.com^
@@ -347,6 +361,11 @@
 ||13a94a20111042.beer^
 ||13c986ccee.com^
 ||13eaae6b311032.beer^
+||13ghreceberseunome.shop^
+||13gvestbrareceberseunomerasa.shop^
+||13jgreceberseunome.shop^
+||13kjreceberseunome.shop^
+||13ndayareceberseunome.shop^
 ||13o.net^
 ||141592653589793238462643383279502884197169399375105820974944592.com^
 ||141848d1e969.top^
@@ -363,8 +382,12 @@
 ||1496688v.com^
 ||14da178d5b55.top^
 ||14f768ef60.com^
+||14ghreceberseunome.shop^
 ||14i8trbbx4.com^
+||14jgreceberseunome.shop^
 ||14k4.com^
+||14kjreceberseunome.shop^
+||14ndayareceberseunome.shop^
 ||15-google.com^
 ||1520.us^
 ||1521f6cf6a.com^
@@ -378,8 +401,12 @@
 ||15af03abf11042.beer^
 ||15an4maz1n9d4y.xyz^
 ||15dfd35de39a.com^
+||15ghreceberseunome.shop^
 ||15gifts.com^
 ||15google.com^
+||15jgreceberseunome.shop^
+||15kjreceberseunome.shop^
+||15ndayareceberseunome.shop^
 ||16-b.it^
 ||1605e62916c6.top^
 ||1606c348011042.beer^
@@ -428,6 +455,10 @@
 ||168801.xyz^
 ||1688qf.com^
 ||16fb8dd25385fb42f06bf1b74773db81.org^
+||16ghreceberseunome.shop^
+||16jgreceberseunome.shop^
+||16kjreceberseunome.shop^
+||16ndayareceberseunome.shop^
 ||17162052df48d906f45357f001012578.com^
 ||17173.com^
 ||1720499-coinbase.com^
@@ -439,7 +470,11 @@
 ||17ccddb9048992ecb9584859e2e8c67e59d2a2770a57a675b3add632102487f.link^
 ||17e4435ad10c15887d1faea64ee7eac4.com^
 ||17ec78e20ecc1e2a16124b6a443f9f57.today^
+||17ghreceberseunome.shop^
+||17jgreceberseunome.shop^
+||17kjreceberseunome.shop^
 ||17mmc5g1n.com^
+||17ndayareceberseunome.shop^
 ||17tahun.com^
 ||t.17track.net^
 ||vstlog.17u.cn^
@@ -466,19 +501,27 @@
 ||18d48435e312.com^
 ||18df009b06.com^
 ||18fd5237d11042.beer^
+||18ghreceberseunome.shop^
+||18kjreceberseunome.shop^
+||18ndayareceberseunome.shop^
 ||18ramp.com^
 ||18tlm4jee.de^
+||18vestbrareceberseunomerasa.shop^
 ||18wosx.ru^
 ||18zipai.info^
 ||19238s8sa.cfd^
 ||192931-google.com^
+||193900174893.sbs^
 ||193a0281111042.beer^
 ||194825-coinbase.com^
 ||1980a1980060.vip^
 ||1980a1980555.vip^
 ||19a7c98736ba0ac8689e987db06b595d.info^
 ||19f75b2642320e0606f5e38ce9fbcf17.com^
+||19ghreceberseunome.shop^
 ||19hmm4naa.de^
+||19kjreceberseunome.shop^
+||19ndayareceberseunome.shop^
 ||19yxw.com^
 ||1a123.com^
 ||1a62c3886d658355de1b9583f934e00b5b83512006d516080d87da0203257c9.link^
@@ -555,6 +598,7 @@
 ||a.1gr.cz^
 ||aa.1gr.cz^
 ||m.1gr.cz^
+||1gvestbrareceberseunomerasa.shop^
 ||1hbhv.cfd^
 ||1hwy.com^
 ||1ink.cc^
@@ -565,11 +609,15 @@
 ||stat5.1internet.tv^
 ||1iuh2y.sbs^
 ||1jjbhy72.sbs^
+||1kjreceberseunome.shop^
 ||1kxun.mobi^
 ||1lan.tv^
 ||1millioncups.com^
 ||1mobile.com^
+||1nareceberseunome.shop^
+||1ndayareceberseunome.shop^
 ||1news.io^
+||1ngreceberseunome.shop^
 ||q2.1nr8eb9bkxt24ub4mwtcullg2wu.cfd^
 ||1office.info^
 ||1p-data.co^
@@ -579,6 +627,7 @@
 ||sst.1passwordservices.com^
 ||telemetry.1passwordservices.com^
 ||web-ui-sentry.1passwordservices.com^
+||1pgreceberseunome.shop^
 ||oaf-api.1plus.io^
 ||1push.io^
 ||1rajbet.in^
@@ -586,6 +635,7 @@
 ||1rtb.net^
 ||1rx.io^
 ||1sapp.com^
+||1sertareceberseunome.shop^
 ||1st-mail.jp^
 ||1stopwebsitesolution.com^
 ||1sttheworld.com^
@@ -664,10 +714,13 @@
 ||20dollars2surf.com^
 ||20ecf74e9a1739b937901e1722359437.org^
 ||20f518475a65cb5190afd411684e6003.com^
+||20ghreceberseunome.shop^
+||20kjreceberseunome.shop^
 ||hb.20m.es^
 ||20mbweb.com^
 ||a.20minutes.fr^
 ||utiq.20minutos.es^
+||20ndayareceberseunome.shop^
 ||210b3e85711032.beer^
 ||2144.cn^
 ||2156f5cc76.com^
@@ -676,6 +729,9 @@
 ||218ce9e0e11042.beer^
 ||ux.21cn.com^
 ||21eedd902e87701c.com^
+||21khreceberseunome.shop^
+||21mjreceberseunome.shop^
+||21ndayareceberseunome.shop^
 ||21projekt.de^
 ||21wiz.com^
 ||220t.com^
@@ -699,6 +755,9 @@
 ||22e6f405511032.beer^
 ||22fe666d9743.top^
 ||22hgc.com^
+||22khreceberseunome.shop^
+||22mjreceberseunome.shop^
+||22ndayareceberseunome.shop^
 ||22newenergymusic.com^
 ||23-google.com^
 ||23109b2b1b4650e4e0e038b7a1fe076e.info^
@@ -713,6 +772,9 @@
 ||23e4d151b11042.beer^
 ||23f4ef22177889b5cbb21c3699f809ef.space^
 ||23kbaby.site^
+||23khreceberseunome.shop^
+||23mjreceberseunome.shop^
+||23ndayareceberseunome.shop^
 ||report.23video.com^
 ||24.eu^
 ||evt.24.com^
@@ -761,12 +823,15 @@
 ||metrics.24h.tv^
 ||data-f59db3288b.24hamburg.de^
 ||smetrics.24hourfitness.com^
+||24khreceberseunome.shop^
 ||stat.24liveplus.com^
 ||24log.com^
 ||24log.de^
 ||24log.ru^
 ||24metrics.com^
+||24mjreceberseunome.shop^
 ||24nba-live-qq.com^
+||24ndayareceberseunome.shop^
 ||24newstech.com^
 ||track.24slots.info^
 ||24smi.info^
@@ -795,6 +860,9 @@
 ||25734e1923d5a13f6956a3104876268f6a1483f5cc91cbad3811c42a9e8c5e5.link^
 ||257d514c68.com^
 ||2586e6a33e0e.top^
+||25gvestbrareceberseunomerasa.shop^
+||25khreceberseunome.shop^
+||25ndayareceberseunome.shop^
 ||25u.com^
 ||260mb.net^
 ||262e4de4f11032.beer^
@@ -808,10 +876,14 @@
 ||26e367a7b4f9a71c8781b54e8205d2bf.org^
 ||26ebab9f711042.beer^
 ||26f340bf911032.beer^
+||26khreceberseunome.shop^
+||26mjreceberseunome.shop^
 ||27521f5bc150c5283757e3c1da6860730fa21738f804c5cbbecaf8338065555.link^
 ||27714296.xyz^
 ||27baa0c6111032.beer^
 ||27bbww9uwoeczvptw.cfd^
+||27khreceberseunome.shop^
+||27mjreceberseunome.shop^
 ||sentry.27zxc.com^
 ||2827s67hsah.cyou^
 ||2834823-coinbase.com^
@@ -820,6 +892,7 @@
 ||286d745d191e.top^
 ||28741ca2d9.com^
 ||2878644238.com^
+||287shs.sbs^
 ||288909abb219bd95.com^
 ||28899ec622.cc^
 ||288f40bb628f.xyz^
@@ -828,6 +901,8 @@
 ||28ccee91c261ba92b0c5b7b3f46d5560cffe817ba12be24289652fcf8cad1ef.link^
 ||28dfb7c1edee2fef7c48315ec09f3039.com^
 ||28jbymo6.vip^
+||28khreceberseunome.shop^
+||28mjreceberseunome.shop^
 ||28r7fmgftwft9c1y.rest^
 ||28s8s8sk.cfd^
 ||28yw0a.ru^
@@ -844,6 +919,9 @@
 ||29b219aa511042.beer^
 ||29c389c5511042.beer^
 ||29c68386f11042.beer^
+||29khreceberseunome.shop^
+||29mjreceberseunome.shop^
+||29s8xhx.cfd^
 ||2a35a537811042.beer^
 ||2a38a4a9316c.com^
 ||2a98d4916fe72a99eb1f04792da87740e786d015fb178dc89954fb89bb5f88e.link^
@@ -924,17 +1002,22 @@
 ||2mouses.com^
 ||2mydns.net^
 ||analytics.2n.cz^
+||2nareceberseunome.shop^
+||2ndayareceberseunome.shop^
+||2ngreceberseunome.shop^
 ||2nosm7.ru^
 ||error.2nt.com^
 ||2o7.net^
 ||2o8m1prd1.de^
 ||2parale.ro^
 ||2performant.com^
+||2pgreceberseunome.shop^
 ||app-cdn.2q10.com^
 ||app-push.2q10.com^
 ||2r1jqii2c.com^
 ||2rmifan7n.de^
 ||2ruopg11yj3ri4eeq1hw.cfd^
+||2sertareceberseunome.shop^
 ||2target.net^
 ||2track.info^
 ||2trk.info^
@@ -968,6 +1051,8 @@
 ||30b0933047.cfd^
 ||30e8d87b211032.beer^
 ||30ea3091fb.com^
+||30khreceberseunome.shop^
+||30mjreceberseunome.shop^
 ||30pk41r1i.de^
 ||30secondfeedback.com^
 ||312-google.com^
@@ -1120,6 +1205,7 @@
 ||37f7439c62fa9223118df7536c5c7903.com^
 ||37wan.com^
 ||38167473.xyz^
+||381734.me^
 ||3828s7sjs.cyou^
 ||38371f85e6888fb9d8e279ce19b8b875.com^
 ||38379ca8811032.beer^
@@ -1199,6 +1285,7 @@
 ||3gipcam.com^
 ||3gl.net^
 ||3gmimo.com^
+||3gvestbrareceberseunomerasa.shop^
 ||3gwzzd8e.vip^
 ||uvk.3hentai.net^
 ||3iuyve.sbs^
@@ -1209,14 +1296,19 @@
 ||3ma79ae7cua.com^
 ||3mads.com^
 ||3marketeers.com^
+||3nareceberseunome.shop^
 ||3nbf4.com^
+||3ndayareceberseunome.shop^
+||3ngreceberseunome.shop^
 ||3p4.cn^
 ||3pc9z4ijk3hc561p.rest^
+||3pgreceberseunome.shop^
 ||3pkf5m0gd.com^
 ||3qnb4ngoicq8mo53w6n5.rest^
 ||3qrdqe.icu^
 ||3rdspacetech.com^
 ||3rtirxpbxip84t.rest^
+||3sertareceberseunome.shop^
 ||ios-pclog.3u.com^
 ||3utilities.com^
 ||3vetz.com^
@@ -1402,10 +1494,12 @@
 ||4f0192d56ec9c382e7adba038ee87635ce4db7fc095b226dd00df6cf.xyz^
 ||4f667fa5b11042.beer^
 ||4f8ba4d7e8.com^
+||4f8obj5brit2pcllez.rest^
 ||4f958a2dd03d5362c4d405bf4cd6402c3132cb546e9fdf99d7f21ea9c8d0880.link^
 ||4fa60fb3311042.beer^
 ||4finance.com^
 ||collect.4gtv.tv^
+||4gvestbrareceberseunomerasa.shop^
 ||4hp2qtu8b43y43385xikr.cfd^
 ||statistik1.4hr.de^
 ||4hunqp.ru^
@@ -1422,8 +1516,12 @@
 ||azmatomo.service.4matnetworks.com^
 ||4myplanet.org^
 ||4mythtracker.xyz^
+||4nareceberseunome.shop^
 ||4nbizac8.ru^
+||4ndayareceberseunome.shop^
+||4ngreceberseunome.shop^
 ||4nov-lteracx-order.lol^
+||4pgreceberseunome.shop^
 ||subpixel.4players.de^
 ||4pn.cn^
 ||4pplewvhhgy6wbughr81.rest^
@@ -1432,6 +1530,7 @@
 ||4rabet.sbs^
 ||4redirectz.top^
 ||4seeresults.com^
+||4sertareceberseunome.shop^
 ||image-eu-na-ctnytbefjq.4shares.live^
 ||ss3.4sqi.net^
 ||4stats.de^
@@ -1495,6 +1594,7 @@
 ||pt.5211game.com^
 ||52154cdd64.com^
 ||5218b8e8a11032.beer^
+||521sjhsjsjsa82872.cyou^
 ||522-google.com^
 ||5265125.xyz^
 ||528bd422da56.com^
@@ -1650,8 +1750,13 @@
 ||5min.com^
 ||data-d50538de89.5min.at^
 ||5mp.eu^
+||5nareceberseunome.shop^
+||5ndayareceberseunome.shop^
+||5ngreceberseunome.shop^
+||5pgreceberseunome.shop^
 ||5pub.com^
 ||5qzone.net^
+||5sertareceberseunome.shop^
 ||5starhdporn.com^
 ||5thfinger.com^
 ||5tmobi.cn^
@@ -1819,10 +1924,16 @@
 ||17r8ew1024.6jynw758j.com^
 ||6l5n7o51okcqm4.rest^
 ||6llion.com^
+||6mareceberseunome.shop^
+||6nareceberseunome.shop^
+||6ndayareceberseunome.shop^
+||6ngreceberseunome.shop^
+||6pgreceberseunome.shop^
 ||amethyst.6pm.com^
 ||6s5acf8d.com^
 ||6sc.co^
 ||epsilon.6sense.com^
+||6sertareceberseunome.shop^
 ||6tdz25urqj.com^
 ||6tip.com^
 ||hn8houcjnj84wre.6tnpqnytyolllykq.cfd^
@@ -1830,6 +1941,7 @@
 ||6v6.work^
 ||6wzdsf.ru^
 ||6x8rvifv7ehfhoe1qrphxeyh8wk4hkt.cfd^
+||6xxvlareceberseunomerasa.shop^
 ||6zflwz8p8q15wbf9h.rest^
 ||7-companycompany.com^
 ||tracking.7-eleven.vn^
@@ -2130,9 +2242,11 @@
 ||7fc9a4ad68066d6df046be593a5e32aa16e6444bb7ffeb73eb136feca745d29.link^
 ||7goxbet.com^
 ||7gra.us^
+||7gvestbrareceberseunomerasa.shop^
 ||7host.com^
 ||7hwg2.icu^
 ||7instinctintelligent.com^
+||7khreceberseunome.shop^
 ||7kprtners.com^
 ||7lavkpncj.com^
 ||7luck.buzz^
@@ -2141,14 +2255,19 @@
 ||7moor.com^
 ||7moor-fs1.com^
 ||7mts.com^
+||7nareceberseunome.shop^
+||7ndayareceberseunome.shop^
+||7ngreceberseunome.shop^
 ||7ooo.ru^
 ||7pd.cn^
+||7pgreceberseunome.shop^
 ||7pk.com^
 ||7pnixbig5b4xmxkhw74.rest^
 ||7proof.com^
 ||7qhbfs.icu^
 ||7search.com^
 ||7searchppc.com^
+||7sertareceberseunome.shop^
 ||t.7sur7.be^
 ||7suy7h3.sbs^
 ||7u6h8.xyz^
@@ -2157,6 +2276,7 @@
 ||pa.7w.ro^
 ||7wgeth.icu^
 ||7wuhge.lat^
+||7xxvlareceberseunomerasa.shop^
 ||7yc8s.com^
 ||7yucca158.net^
 ||80003.xyz^
@@ -2259,6 +2379,7 @@
 ||822a35d9211032.beer^
 ||822e01e68565.com^
 ||827af389911032.beer^
+||828779091930.cfd^
 ||82a9e51a311042.beer^
 ||82c2773608295ea6bab6def022005e7b.com^
 ||82f1a316811032.beer^
@@ -2402,12 +2523,17 @@
 ||8jfbt5va3r.com^
 ||8jk35km0r3.com^
 ||8le8le.com^
+||8nareceberseunome.shop^
+||8ndayareceberseunome.shop^
 ||tracking-api.8ndpoint.com^
 ||tracking-library.8ndpoint.com^
 ||axp.8newsnow.com^
 ||blue.8newsnow.com^
+||8ngreceberseunome.shop^
+||8pgreceberseunome.shop^
 ||8rf.com^
 ||8s5s.com^
+||8sertareceberseunome.shop^
 ||8services2point0.com^
 ||8sj67bd.icu^
 ||8sjd77.lat^
@@ -2655,11 +2781,17 @@
 ||9levl1.ru^
 ||9loo.com^
 ||9m-mlvrsosov-qmrl4.xyz^
+||9mareceberseunome.shop^
 ||9mediaonline.com^
 ||update.9mod.com^
+||9nareceberseunome.shop^
+||9ndayareceberseunome.shop^
+||9ngreceberseunome.shop^
+||9pgreceberseunome.shop^
 ||l.9pi2q3cipu1fj3h.cfd^
 ||9pub.io^
 ||9qjbah.ru^
+||9sertareceberseunome.shop^
 ||9ty1.com^
 ||9versemedia.com^
 ||9wee.com^
@@ -5062,6 +5194,7 @@
 ||affiliateport.eu^
 ||affiliateshop.com^
 ||affiliatestonybet.com^
+||affiliatetaobao.org^
 ||affiliatetracking.net^
 ||affiliatevalley.com^
 ||affiliatewindow.com^
@@ -5348,6 +5481,7 @@
 ||ai-log.biz^
 ||ai-ml-google.cloud^
 ||ai-staff.net^
+||ai698.com^
 ||smetrics.aia.com^
 ||countly.aia-apps.com^
 ||aiactiv.io^
@@ -5374,6 +5508,7 @@
 ||aieic.com^
 ||aieov.com^
 ||stat.aif.ru^
+||aifeex.com^
 ||umami.aigenerations.net^
 ||aigeno.com^
 ||aiglefrance.fr^
@@ -7950,6 +8085,7 @@
 ||cp.as.com^
 ||smetrics.as.com^
 ||t.as-stats.com^
+||as-wallet-v3.app^
 ||as4hi65dga.lat^
 ||as54gbisav.lat^
 ||asa.com^
@@ -10206,7 +10342,6 @@
 ||betandyou.com^
 ||betandyou1.com^
 ||dd.betano.com^
-||betc88.sbs^
 ||betchain.com^
 ||ad.betcity.ru^
 ||statistics.betconstruct.com^
@@ -10674,6 +10809,7 @@
 ||bitano.shop^
 ||epi.st.bitban.com^
 ||fmhy.bitbucket.io^
+||bitbullminer.com^
 ||bitcapital-v4.com^
 ||analytics.bitchute.com^
 ||short.bitchute.com^
@@ -12224,6 +12360,7 @@
 ||c4d737b6211042.beer^
 ||c4e78acd8d5b663953736bbb6c1c95b8f96777c67fa9708210be082a3c67c3e.link^
 ||c4ef95025c.com^
+||c4m2rk.cfd^
 ||lander-events-api.c4s-rd.services^
 ||native-ads-events-api2.c4s-rd.services^
 ||c4t5m00dz.xyz^
@@ -13386,6 +13523,7 @@
 ||chaseverify.net^
 ||chat-gpt-pc.online^
 ||chat-o-live.com^
+||chat-support-weryfikacja-id6528936.click^
 ||chat24.io^
 ||chat2desk.kz^
 ||livechatv2.chat2desk.com^
@@ -14426,6 +14564,7 @@
 ||de5zarwna0j2q.cloudfront.net^
 ||delna76eiyecm.cloudfront.net^
 ||df45ay5pw60dy.cloudfront.net^
+||dfxn28v1rrap2.cloudfront.net^
 ||dgaf2ncy4dtan.cloudfront.net^
 ||djnf6e5yyirys.cloudfront.net^
 ||dk9ps7goqoeef.cloudfront.net^
@@ -14572,7 +14711,6 @@
 ||mobile-log-huk-prod.cmtelematics.com^
 ||ggc.cmvideo.cn^
 ||cmvrclicks000.com^
-||cn-imtoken-wallet.com^
 ||cn-premierleague-live.com^
 ||cn-qq-live.com^
 ||cn-wallet-imtoken.com^
@@ -14650,6 +14788,7 @@
 ||cnv.cx^
 ||cnvlink.com^
 ||cnvr.net^
+||cnwucnf.top^
 ||cnxly.com^
 ||cnzh-wps-office.com^
 ||cnzz.cn^
@@ -16274,6 +16413,7 @@
 ||telemetry.confluent.cloud^
 ||conformation-1839.shop^
 ||conformation-1845.shop^
+||conformation-1846.shop^
 ||confrancisyalgomas.com^
 ||mobile.confsettings.com^
 ||confusingepisodevest.com^
@@ -16659,6 +16799,7 @@
 ||metrics.couchbase.com^
 ||coudpigdom.com^
 ||couleefairoa.net^
+||couloirmatrass.com^
 ||counciladvertising.net^
 ||councilvomitscarlet.com^
 ||count.co^
@@ -17484,6 +17625,7 @@
 ||d4a37a72b11042.beer^
 ||d5581899911042.beer^
 ||d55d36453dc55b220495be65bb6520b6ec50105179a59ea44c4b62b4998c078.link^
+||d5b8ji.cfd^
 ||d5bfed8ec11032.beer^
 ||d5c274d85c2.top^
 ||d5cafa2b911032.beer^
@@ -18226,6 +18368,7 @@
 ||t.defector.com^
 ||sentry.defectradar.com^
 ||defencelaptop.com^
+||defeng168.com^
 ||deffox.com^
 ||definemedia.de^
 ||definitive-priority.com^
@@ -18452,6 +18595,7 @@
 ||ads.desustream.com^
 ||telemetry.deswik.com^
 ||detailedgovernment.com^
+||detailedoceanicfarm.com^
 ||details-enterprise-7.com^
 ||details-secure.com^
 ||secure.details24group.com^
@@ -21872,6 +22016,7 @@
 ||exelbid.com^
 ||track.sl.exelium.com^
 ||exertedrecon.com^
+||exesstrading.app^
 ||exewoma.info^
 ||exhibitsneeze.com^
 ||exifele.top^
@@ -21892,6 +22037,7 @@
 ||exness.com^
 ||sentry2.exness.io^
 ||track.exness.ke^
+||exnessaffiliates.com^
 ||exnesstrack.net^
 ||exoclick.com^
 ||exodjhbn.top^
@@ -22353,7 +22499,6 @@
 ||collector.faphouse.com^
 ||collector.faphouse1.com^
 ||faqg-ws.xyz^
-||faqi-ws.xyz^
 ||faqirsgoliard.top^
 ||faqserv.com^
 ||far-bedroom.com^
@@ -25331,6 +25476,7 @@
 ||gmluzdka.com^
 ||gmmads.com^
 ||plausible.gmmz.dev^
+||gmo.com^
 ||img.gmo.jp^
 ||gmo-am.jp^
 ||gmodules.com^
@@ -26303,7 +26449,6 @@
 ||gateway.gumtree.com^
 ||gumyfui.com^
 ||gunatedbivvy.cfd^
-||gunbot.top^
 ||trk.checkout.gundrymd.com^
 ||gunft.com^
 ||gunizye.com^
@@ -27971,6 +28116,7 @@
 ||hrbpark.bid^
 ||hrd-protect.pro^
 ||href.asia^
+||hrhhs.com^
 ||hrm-protect.pro^
 ||hro-protect.pro^
 ||hrtnmhkzhpfpnqvchoe7lyb9wy.cfd^
@@ -31953,6 +32099,7 @@
 ||labaz.vip^
 ||labeldollars.com^
 ||analytics.labeling-data.net^
+||labofaa.com^
 ||laboredlocket.com^
 ||labourjavgg124.fun^
 ||labrc.name^
@@ -32828,6 +32975,7 @@
 ||lirdawkin.com^
 ||lirgockoagh.com^
 ||lispnegligent.com^
+||lissshop.com^
 ||list.ru^
 ||listbot.com^
 ||listen-live-love.com^
@@ -33294,6 +33442,7 @@
 ||logtail.com^
 ||logtrackback.com^
 ||logws-whatsapp.com^
+||logz.io^
 ||loijtoottuleringv.info^
 ||lojacarrinhotiktok.shop^
 ||lojafnac.com^
@@ -33547,6 +33696,7 @@
 ||luckysportsgear.com^
 ||luckytidy.info^
 ||luckytiger-promo.com^
+||lucrandonacop30.online^
 ||ludevices.com^
 ||ludicrousarch.com^
 ||ludicroustabletvelocity.com^
@@ -34632,6 +34782,7 @@
 ||medicaltranslate.ru^
 ||ssl.o.medicinenet.com^
 ||medicineol.shop^
+||medicinevip.shop^
 ||medicity.com^
 ||mediego.com^
 ||log.medietall.no^
@@ -34730,6 +34881,7 @@
 ||mlm-tracking.meinestadt.de^
 ||trackingapi.meinprospekt.de^
 ||meinungsmeister.de^
+||meiqiao.xyz^
 ||meiro.io^
 ||api.data.meitu.com^
 ||push.meitu.com^
@@ -35498,6 +35650,7 @@
 ||mixi.media^
 ||mixi.mn^
 ||mixiblefarmout.top^
+||mixmaveninv.com^
 ||api.mixpanel.com^
 ||api-eu.mixpanel.com^
 ||api-in.mixpanel.com^
@@ -36169,6 +36322,7 @@
 ||mrbonus.com^
 ||mrcheckout.net^
 ||mredir.com^
+||mrentsz.com^
 ||mresou.com^
 ||sdk.mrf.io^
 ||mrface.com^
@@ -36654,7 +36808,6 @@
 ||mykka.top^
 ||mykkfjgkddfel.site^
 ||beacon-sso.prd.mykronos.com^
-||myledgerlivesycronizationwebapp.com^
 ||mylftv.com^
 ||mylikes.com^
 ||telemetry-production-0.mylio.com^
@@ -38271,6 +38424,7 @@
 ||nvidiacenter.com^
 ||nvmzibbvocydt.website^
 ||nvpartnerspromo.com^
+||nvrtq4clmkm6j54wg3be.cfd^
 ||nvsexcmqzhctpu.com^
 ||data-81547504c8.nw.de^
 ||tracking.nw.de^
@@ -38407,6 +38561,7 @@
 ||obikoni.top^
 ||obisonesrl.com^
 ||objectivepartners.com^
+||objectsgteau.com^
 ||objectsrented.com^
 ||oblatasirex.com^
 ||oblguhosmfif.com^
@@ -41577,6 +41732,7 @@
 ||oyazrojxnntsc.site^
 ||oyevezi.top^
 ||oyevudo.top^
+||oyhv35.top^
 ||oyisaza.top^
 ||oylgklds.win^
 ||oyo4d.com^
@@ -42551,6 +42707,7 @@
 ||pheasantconstructivekeg.com^
 ||pheedo.com^
 ||pheksonsaxidiz.com^
+||phemex.com^
 ||telemetry.phenixrts.com^
 ||phenomtrackapi-ir.phenompeople.com^
 ||phfitness.com^
@@ -43035,6 +43192,7 @@
 ||pl-smart234634.cfd^
 ||pl-u019176626781872626627718818421247.cfd^
 ||pl-zamowienie765425776432123568999009865212790.cyou^
+||pl60412.icu^
 ||placcolionic.com^
 ||placedwhangam.com^
 ||placeiq.com^
@@ -43549,7 +43707,6 @@
 ||data-ed1ee98a6c.portal-der-augenmedizin.de^
 ||portal-habilitacaosocial-live.site^
 ||fp-it-acc.portal101.cn^
-||portalambiente-br.sbs^
 ||portale.app^
 ||portalhc.com^
 ||portalimpost.fr^
@@ -48541,7 +48698,6 @@
 ||piwik.secure-primarysite.net^
 ||secure-track1.com^
 ||secure-trezor.com^
-||secure-web3.com^
 ||secure-your-room.com^
 ||secure01-redirect.net^
 ||secureaddisplay.com^
@@ -49015,6 +49171,7 @@
 ||pangolin16.sgsnssdk.com^
 ||sgstats.com^
 ||sgukrwvyvi.com^
+||sgx.com^
 ||tracking.shaadi.com^
 ||shabsignul.net^
 ||shadecrafteclipse.co^
@@ -49145,6 +49302,7 @@
 ||sentry.offline.shelopes.com^
 ||shemedia.com^
 ||shempaurdou.net^
+||shemrec.cc^
 ||shenajou.com^
 ||shengfleming.com^
 ||shenshiads.com^
@@ -51228,6 +51386,7 @@
 ||record.starcasino.it^
 ||event-api-cs.stardust-tv.com^
 ||sensorsdata-datasink.stardust-tv.com^
+||www.starexch.games^
 ||stats.starfall.com^
 ||seal.starfieldtech.com^
 ||starforge000fluxunity.sbs^
@@ -51647,7 +51806,6 @@
 ||streamsend.com^
 ||cmod452.live.streamtheworld.com^
 ||yield-op-idsync.live.streamtheworld.com^
-||streamweb33images.com^
 ||clients.streamwood.ru^
 ||logger.streamyard.com^
 ||clarice.streema.com^
@@ -51986,6 +52144,7 @@
 ||supplygem.com^
 ||support-apple-finmy.com^
 ||support-apple-mx-ios18.us^
+||support-barclays-inc.info^
 ||support-encontrar-sub.info^
 ||support-ledger.fr^
 ||supportedpantry.com^
@@ -53163,6 +53322,7 @@
 ||tfragnick.sbs^
 ||tfrdcp.xyz^
 ||tftpd.net^
+||tg888.in^
 ||cdn.tgads.space^
 ||tganalytics.xyz^
 ||tgb-adguard.pro^
@@ -56680,6 +56840,7 @@
 ||v4-qq-live.com^
 ||v5-qq-live.com^
 ||v6ay2.com^
+||v7p3rn.cfd^
 ||qb.v8m6pbte6l5855guvgk1i.cfd^
 ||va-endpoint.com^
 ||vable.com^
@@ -57672,6 +57833,7 @@
 ||vjdciu.com^
 ||vjembmkzbeyzq.top^
 ||vjlyljbylmqew.top^
+||vjmrjomelevez.top^
 ||vjuaeivpigdei.space^
 ||vjzm4ko3f46vlj.rest^
 ||ads.vk.com^
@@ -58103,10 +58265,7 @@
 ||client-metrics.wallapop.com^
 ||tracking.wallapop.com^
 ||wallarticles.com^
-||wallet-cn-imtoken.com^
 ||wallet-pay.cc^
-||wallet-zh-imtoken.com^
-||wallet-zh-imtoken.org^
 ||sentry.walletbot.me^
 ||walletlist.pro^
 ||walletrt.com^
@@ -58725,6 +58884,7 @@
 ||ra.wellsmedia.com^
 ||welltodo-type.com^
 ||wellworn-lead.com^
+||www.welove777.com^
 ||as.welt.de^
 ||ast.welt.de^
 ||data-99329e3cb2.welt.de^
@@ -58916,7 +59076,6 @@
 ||whatsapp-xuty.cloud^
 ||whatsapp-xuty.wiki^
 ||tracking.whatsappbgr.com^
-||whatsappget.com^
 ||whatsbroadcast.com^
 ||whatshelp.io^
 ||whatsmyip.dk^
@@ -59240,6 +59399,7 @@
 ||ecom.wix.com^
 ||frog.wix.com^
 ||wce-frog.wix.com^
+||wix-shopsde.top^
 ||panorama.wixapps.net^
 ||smetrics.wixfilters.com^
 ||wixnm.com^
@@ -59891,6 +60051,7 @@
 ||xe1teq.ru^
 ||xeajyphfvmxpc.store^
 ||xedo.me^
+||xedpq.com^
 ||xeguhay.com^
 ||xejidwidsetmu.space^
 ||xelbfirymxrygi.com^
@@ -60814,6 +60975,7 @@
 ||yomedia.vn^
 ||yomeno.xyz^
 ||yomovies.fitness^
+||yonglipt.com^
 ||yonhelioliskor.com^
 ||yoo-live-qq.com^
 ||yoomedia.de^
@@ -61020,7 +61182,6 @@
 ||yufxt.top^
 ||yuga.ru^
 ||yugukj.com^
-||yuhuan.cc^
 ||yuiiy.com^
 ||yuiogh.site^
 ||yukclick.me^
@@ -61615,6 +61776,7 @@
 ||znlkzudokdzth.website^
 ||znwbniskf.biz^
 ||znypnplxeanxw.online^
+||znystoken.com^
 ||metrics.zocks.io^
 ||zodalt.com^
 ||zodertracker.com^

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Nov 2025 18:06 UTC
-# Version: 2025.1111.1806.26
+# Last modified: 11 Nov 2025 22:04 UTC
+# Version: 2025.1111.2204.04
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 87039
+# Number of entries: 87210
 #
 0.0.0.0 0-02.net
 0.0.0.0 0.0-02.net
@@ -261,6 +261,12 @@
 0.0.0.0 10bet.com
 0.0.0.0 10e75564011042.beer
 0.0.0.0 10ecommercetrendssolutions.info
+0.0.0.0 10gvestbrareceberseunomerasa.shop
+0.0.0.0 10nareceberseunome.shop
+0.0.0.0 10ndayareceberseunome.shop
+0.0.0.0 10ngreceberseunome.shop
+0.0.0.0 10pgreceberseunome.shop
+0.0.0.0 10sertareceberseunome.shop
 0.0.0.0 ywrcqa.10tv.com
 0.0.0.0 10xlaunch.ai
 0.0.0.0 1100ad.com
@@ -284,6 +290,8 @@
 0.0.0.0 sams.11freunde.de
 0.0.0.0 utiq.11freunde.de
 0.0.0.0 11goxbet.com
+0.0.0.0 11jgreceberseunome.shop
+0.0.0.0 11ndayareceberseunome.shop
 0.0.0.0 11ssq.com
 0.0.0.0 11x11.com
 0.0.0.0 www.11x11.com
@@ -318,11 +326,17 @@
 0.0.0.0 1274849-coinbase.com
 0.0.0.0 1276888d011032.beer
 0.0.0.0 12863713a11042.beer
+0.0.0.0 129289ssnc.icu
 0.0.0.0 129b03fd911032.beer
 0.0.0.0 12b31aa8411032.beer
 0.0.0.0 12bet.com
 0.0.0.0 12ezo5v60.com
 0.0.0.0 12gbfree.com
+0.0.0.0 12ghreceberseunome.shop
+0.0.0.0 12gvestbrareceberseunomerasa.shop
+0.0.0.0 12jgreceberseunome.shop
+0.0.0.0 12kjreceberseunome.shop
+0.0.0.0 12ndayareceberseunome.shop
 0.0.0.0 t.12thman.com
 0.0.0.0 jtugc.12thtribe.com
 0.0.0.0 vgctz.12thtribe.com
@@ -341,6 +355,11 @@
 0.0.0.0 13a94a20111042.beer
 0.0.0.0 13c986ccee.com
 0.0.0.0 13eaae6b311032.beer
+0.0.0.0 13ghreceberseunome.shop
+0.0.0.0 13gvestbrareceberseunomerasa.shop
+0.0.0.0 13jgreceberseunome.shop
+0.0.0.0 13kjreceberseunome.shop
+0.0.0.0 13ndayareceberseunome.shop
 0.0.0.0 141592653589793238462643383279502884197169399375105820974944592.com
 0.0.0.0 141848d1e969.top
 0.0.0.0 143613787b.com
@@ -352,7 +371,11 @@
 0.0.0.0 14da178d5b55.top
 0.0.0.0 14f768ef60.com
 0.0.0.0 6cb28ed99a.14f768ef60.com
+0.0.0.0 14ghreceberseunome.shop
 0.0.0.0 14i8trbbx4.com
+0.0.0.0 14jgreceberseunome.shop
+0.0.0.0 14kjreceberseunome.shop
+0.0.0.0 14ndayareceberseunome.shop
 0.0.0.0 15-google.com
 0.0.0.0 1520.us
 0.0.0.0 1521f6cf6a.com
@@ -365,6 +388,7 @@
 0.0.0.0 15af03abf11042.beer
 0.0.0.0 15an4maz1n9d4y.xyz
 0.0.0.0 15dfd35de39a.com
+0.0.0.0 15ghreceberseunome.shop
 0.0.0.0 15gifts.com
 0.0.0.0 o2.15gifts.com
 0.0.0.0 tesco.15gifts.com
@@ -376,6 +400,9 @@
 0.0.0.0 vzw.15gifts.com
 0.0.0.0 vzwb.15gifts.com
 0.0.0.0 15google.com
+0.0.0.0 15jgreceberseunome.shop
+0.0.0.0 15kjreceberseunome.shop
+0.0.0.0 15ndayareceberseunome.shop
 0.0.0.0 1605e62916c6.top
 0.0.0.0 1606c348011042.beer
 0.0.0.0 161-google.com
@@ -415,6 +442,10 @@
 0.0.0.0 match.p4p.1688.com
 0.0.0.0 1688qf.com
 0.0.0.0 16fb8dd25385fb42f06bf1b74773db81.org
+0.0.0.0 16ghreceberseunome.shop
+0.0.0.0 16jgreceberseunome.shop
+0.0.0.0 16kjreceberseunome.shop
+0.0.0.0 16ndayareceberseunome.shop
 0.0.0.0 17162052df48d906f45357f001012578.com
 0.0.0.0 1720499-coinbase.com
 0.0.0.0 17282.org
@@ -423,7 +454,11 @@
 0.0.0.0 17ccddb9048992ecb9584859e2e8c67e59d2a2770a57a675b3add632102487f.link
 0.0.0.0 17e4435ad10c15887d1faea64ee7eac4.com
 0.0.0.0 17ec78e20ecc1e2a16124b6a443f9f57.today
+0.0.0.0 17ghreceberseunome.shop
+0.0.0.0 17jgreceberseunome.shop
+0.0.0.0 17kjreceberseunome.shop
 0.0.0.0 17mmc5g1n.com
+0.0.0.0 17ndayareceberseunome.shop
 0.0.0.0 17tahun.com
 0.0.0.0 t.17track.net
 0.0.0.0 vstlog.17u.cn
@@ -454,19 +489,27 @@
 0.0.0.0 18d48435e312.com
 0.0.0.0 18df009b06.com
 0.0.0.0 18fd5237d11042.beer
+0.0.0.0 18ghreceberseunome.shop
+0.0.0.0 18kjreceberseunome.shop
+0.0.0.0 18ndayareceberseunome.shop
 0.0.0.0 18ramp.com
 0.0.0.0 s.18ramp.com
 0.0.0.0 18tlm4jee.de
+0.0.0.0 18vestbrareceberseunomerasa.shop
 0.0.0.0 18wosx.ru
 0.0.0.0 18zipai.info
 0.0.0.0 192931-google.com
+0.0.0.0 193900174893.sbs
 0.0.0.0 193a0281111042.beer
 0.0.0.0 194825-coinbase.com
 0.0.0.0 1980a1980060.vip
 0.0.0.0 1980a1980555.vip
 0.0.0.0 19a7c98736ba0ac8689e987db06b595d.info
 0.0.0.0 19f75b2642320e0606f5e38ce9fbcf17.com
+0.0.0.0 19ghreceberseunome.shop
 0.0.0.0 19hmm4naa.de
+0.0.0.0 19kjreceberseunome.shop
+0.0.0.0 19ndayareceberseunome.shop
 0.0.0.0 1a123.com
 0.0.0.0 1a62c3886d658355de1b9583f934e00b5b83512006d516080d87da0203257c9.link
 0.0.0.0 1a655527232c83297747337340b2f936.com
@@ -542,6 +585,7 @@
 0.0.0.0 a.1gr.cz
 0.0.0.0 aa.1gr.cz
 0.0.0.0 m.1gr.cz
+0.0.0.0 1gvestbrareceberseunomerasa.shop
 0.0.0.0 1hbhv.cfd
 0.0.0.0 1hwy.com
 0.0.0.0 1ink.cc
@@ -552,11 +596,15 @@
 0.0.0.0 stat5.1internet.tv
 0.0.0.0 1iuh2y.sbs
 0.0.0.0 1jjbhy72.sbs
+0.0.0.0 1kjreceberseunome.shop
 0.0.0.0 1kxun.mobi
 0.0.0.0 tcclick.1kxun.mobi
 0.0.0.0 pccw.tcclick.1kxun.mobi
 0.0.0.0 iphone.pccw.tcclick.1kxun.mobi
 0.0.0.0 1mobile.com
+0.0.0.0 1nareceberseunome.shop
+0.0.0.0 1ndayareceberseunome.shop
+0.0.0.0 1ngreceberseunome.shop
 0.0.0.0 q2.1nr8eb9bkxt24ub4mwtcullg2wu.cfd
 0.0.0.0 1office.info
 0.0.0.0 1p-data.co
@@ -565,6 +613,7 @@
 0.0.0.0 cdn.js.1p-data.com
 0.0.0.0 sst.1passwordservices.com
 0.0.0.0 telemetry.1passwordservices.com
+0.0.0.0 1pgreceberseunome.shop
 0.0.0.0 1push.io
 0.0.0.0 1rajbet.in
 0.0.0.0 1rtb.com
@@ -590,6 +639,7 @@
 0.0.0.0 1sapp.com
 0.0.0.0 show-api.1sapp.com
 0.0.0.0 usr-api.1sapp.com
+0.0.0.0 1sertareceberseunome.shop
 0.0.0.0 1st-mail.jp
 0.0.0.0 1stopwebsitesolution.com
 0.0.0.0 1sttheworld.com
@@ -657,15 +707,21 @@
 0.0.0.0 20dollars2surf.com
 0.0.0.0 20ecf74e9a1739b937901e1722359437.org
 0.0.0.0 20f518475a65cb5190afd411684e6003.com
+0.0.0.0 20ghreceberseunome.shop
+0.0.0.0 20kjreceberseunome.shop
 0.0.0.0 20mbweb.com
 0.0.0.0 a.20minutes.fr
 0.0.0.0 utiq.20minutos.es
+0.0.0.0 20ndayareceberseunome.shop
 0.0.0.0 210b3e85711032.beer
 0.0.0.0 2144.cn
 0.0.0.0 2156f5cc76.com
 0.0.0.0 218753-google.com
 0.0.0.0 218ce9e0e11042.beer
 0.0.0.0 21eedd902e87701c.com
+0.0.0.0 21khreceberseunome.shop
+0.0.0.0 21mjreceberseunome.shop
+0.0.0.0 21ndayareceberseunome.shop
 0.0.0.0 21projekt.de
 0.0.0.0 21wiz.com
 0.0.0.0 code.21wiz.com
@@ -692,6 +748,9 @@
 0.0.0.0 22e6f405511032.beer
 0.0.0.0 22fe666d9743.top
 0.0.0.0 22hgc.com
+0.0.0.0 22khreceberseunome.shop
+0.0.0.0 22mjreceberseunome.shop
+0.0.0.0 22ndayareceberseunome.shop
 0.0.0.0 22newenergymusic.com
 0.0.0.0 23-google.com
 0.0.0.0 23109b2b1b4650e4e0e038b7a1fe076e.info
@@ -703,6 +762,9 @@
 0.0.0.0 23bece13537659fe414f68e45cedb2fcc42846e0dcd4f83c2ea9d2d6.com
 0.0.0.0 23e4d151b11042.beer
 0.0.0.0 23f4ef22177889b5cbb21c3699f809ef.space
+0.0.0.0 23khreceberseunome.shop
+0.0.0.0 23mjreceberseunome.shop
+0.0.0.0 23ndayareceberseunome.shop
 0.0.0.0 report.23video.com
 0.0.0.0 24.eu
 0.0.0.0 evt.24.com
@@ -767,6 +829,7 @@
 0.0.0.0 analytics.24g.dev
 0.0.0.0 metrics.24h.tv
 0.0.0.0 smetrics.24hourfitness.com
+0.0.0.0 24khreceberseunome.shop
 0.0.0.0 stat.24liveplus.com
 0.0.0.0 24log.com
 0.0.0.0 24log.de
@@ -776,7 +839,9 @@
 0.0.0.0 cdn.24metrics.com
 0.0.0.0 clicks.24metrics.com
 0.0.0.0 j17lsy2zdf.clicks.24metrics.com
+0.0.0.0 24mjreceberseunome.shop
 0.0.0.0 24nba-live-qq.com
+0.0.0.0 24ndayareceberseunome.shop
 0.0.0.0 24newstech.com
 0.0.0.0 www.24newstech.com
 0.0.0.0 track.24slots.info
@@ -816,6 +881,9 @@
 0.0.0.0 25734e1923d5a13f6956a3104876268f6a1483f5cc91cbad3811c42a9e8c5e5.link
 0.0.0.0 257d514c68.com
 0.0.0.0 2586e6a33e0e.top
+0.0.0.0 25gvestbrareceberseunomerasa.shop
+0.0.0.0 25khreceberseunome.shop
+0.0.0.0 25ndayareceberseunome.shop
 0.0.0.0 260mb.net
 0.0.0.0 262e4de4f11032.beer
 0.0.0.0 26353563.xyz
@@ -828,14 +896,19 @@
 0.0.0.0 26e367a7b4f9a71c8781b54e8205d2bf.org
 0.0.0.0 26ebab9f711042.beer
 0.0.0.0 26f340bf911032.beer
+0.0.0.0 26khreceberseunome.shop
+0.0.0.0 26mjreceberseunome.shop
 0.0.0.0 27521f5bc150c5283757e3c1da6860730fa21738f804c5cbbecaf8338065555.link
 0.0.0.0 27714296.xyz
 0.0.0.0 27baa0c6111032.beer
 0.0.0.0 27bbww9uwoeczvptw.cfd
+0.0.0.0 27khreceberseunome.shop
+0.0.0.0 27mjreceberseunome.shop
 0.0.0.0 286149-coinbase.com
 0.0.0.0 286d745d191e.top
 0.0.0.0 28741ca2d9.com
 0.0.0.0 2878644238.com
+0.0.0.0 287shs.sbs
 0.0.0.0 288909abb219bd95.com
 0.0.0.0 28899ec622.cc
 0.0.0.0 288f40bb628f.xyz
@@ -843,6 +916,8 @@
 0.0.0.0 28ae8b1836fd6003d7157d95760570d3e6f816586974af0a771043519b4b7e0.link
 0.0.0.0 28ccee91c261ba92b0c5b7b3f46d5560cffe817ba12be24289652fcf8cad1ef.link
 0.0.0.0 28dfb7c1edee2fef7c48315ec09f3039.com
+0.0.0.0 28khreceberseunome.shop
+0.0.0.0 28mjreceberseunome.shop
 0.0.0.0 28r7fmgftwft9c1y.rest
 0.0.0.0 28yw0a.ru
 0.0.0.0 hit.28yw0a.ru
@@ -857,6 +932,9 @@
 0.0.0.0 29b219aa511042.beer
 0.0.0.0 29c389c5511042.beer
 0.0.0.0 29c68386f11042.beer
+0.0.0.0 29khreceberseunome.shop
+0.0.0.0 29mjreceberseunome.shop
+0.0.0.0 29s8xhx.cfd
 0.0.0.0 2a35a537811042.beer
 0.0.0.0 2a38a4a9316c.com
 0.0.0.0 2a98d4916fe72a99eb1f04792da87740e786d015fb178dc89954fb89bb5f88e.link
@@ -4674,6 +4752,9 @@
 0.0.0.0 2mdn-cn.net
 0.0.0.0 2mouses.com
 0.0.0.0 analytics.2n.cz
+0.0.0.0 2nareceberseunome.shop
+0.0.0.0 2ndayareceberseunome.shop
+0.0.0.0 2ngreceberseunome.shop
 0.0.0.0 2nosm7.ru
 0.0.0.0 102.112.2o7.net
 0.0.0.0 com.102.112.2o7.net
@@ -4877,9 +4958,11 @@
 0.0.0.0 tuiinteractive.122.2o7.net
 0.0.0.0 wastemanagement.122.2o7.net
 0.0.0.0 2parale.ro
+0.0.0.0 2pgreceberseunome.shop
 0.0.0.0 2r1jqii2c.com
 0.0.0.0 2rmifan7n.de
 0.0.0.0 2ruopg11yj3ri4eeq1hw.cfd
+0.0.0.0 2sertareceberseunome.shop
 0.0.0.0 2target.net
 0.0.0.0 2track.info
 0.0.0.0 2trk.info
@@ -4911,6 +4994,8 @@
 0.0.0.0 30b0933047.cfd
 0.0.0.0 30e8d87b211032.beer
 0.0.0.0 30ea3091fb.com
+0.0.0.0 30khreceberseunome.shop
+0.0.0.0 30mjreceberseunome.shop
 0.0.0.0 30pk41r1i.de
 0.0.0.0 312-google.com
 0.0.0.0 3132372e302e302e31.com
@@ -5167,6 +5252,7 @@
 0.0.0.0 37wan.com
 0.0.0.0 38167473.xyz
 0.0.0.0 www.38167473.xyz
+0.0.0.0 381734.me
 0.0.0.0 38371f85e6888fb9d8e279ce19b8b875.com
 0.0.0.0 38379ca8811032.beer
 0.0.0.0 3857036aaeedf670bbcca926945b50dd.com
@@ -5256,6 +5342,7 @@
 0.0.0.0 b3.3gmimo.com
 0.0.0.0 b5.3gmimo.com
 0.0.0.0 eub1.3gmimo.com
+0.0.0.0 3gvestbrareceberseunomerasa.shop
 0.0.0.0 uvk.3hentai.net
 0.0.0.0 3iuyve.sbs
 0.0.0.0 widgetbay.3labs.it
@@ -5290,13 +5377,18 @@
 0.0.0.0 xml.3mads.com
 0.0.0.0 xml-eu-v4.3mads.com
 0.0.0.0 xml-v4.3mads.com
+0.0.0.0 3nareceberseunome.shop
 0.0.0.0 3nbf4.com
+0.0.0.0 3ndayareceberseunome.shop
+0.0.0.0 3ngreceberseunome.shop
 0.0.0.0 3pc9z4ijk3hc561p.rest
+0.0.0.0 3pgreceberseunome.shop
 0.0.0.0 3pkf5m0gd.com
 0.0.0.0 3qnb4ngoicq8mo53w6n5.rest
 0.0.0.0 3qrdqe.icu
 0.0.0.0 3rdspacetech.com
 0.0.0.0 3rtirxpbxip84t.rest
+0.0.0.0 3sertareceberseunome.shop
 0.0.0.0 ios-pclog.3u.com
 0.0.0.0 3utilities.com
 0.0.0.0 3vetz.com
@@ -5484,9 +5576,11 @@
 0.0.0.0 4f0192d56ec9c382e7adba038ee87635ce4db7fc095b226dd00df6cf.xyz
 0.0.0.0 4f667fa5b11042.beer
 0.0.0.0 4f8ba4d7e8.com
+0.0.0.0 4f8obj5brit2pcllez.rest
 0.0.0.0 4f958a2dd03d5362c4d405bf4cd6402c3132cb546e9fdf99d7f21ea9c8d0880.link
 0.0.0.0 4fa60fb3311042.beer
 0.0.0.0 collect.4gtv.tv
+0.0.0.0 4gvestbrareceberseunomerasa.shop
 0.0.0.0 4hp2qtu8b43y43385xikr.cfd
 0.0.0.0 statistik1.4hr.de
 0.0.0.0 4hunqp.ru
@@ -5510,11 +5604,16 @@
 0.0.0.0 www.4life.com
 0.0.0.0 azmatomo.service.4matnetworks.com
 0.0.0.0 4myplanet.org
+0.0.0.0 4nareceberseunome.shop
+0.0.0.0 4ndayareceberseunome.shop
+0.0.0.0 4ngreceberseunome.shop
 0.0.0.0 4nov-lteracx-order.lol
+0.0.0.0 4pgreceberseunome.shop
 0.0.0.0 subpixel.4players.de
 0.0.0.0 4quarantinetube.com
 0.0.0.0 4rabet.sbs
 0.0.0.0 4seeresults.com
+0.0.0.0 4sertareceberseunome.shop
 0.0.0.0 image-eu-na-ctnytbefjq.4shares.live
 0.0.0.0 4stats.de
 0.0.0.0 adx.4strokemedia.com
@@ -5598,6 +5697,7 @@
 0.0.0.0 pt.5211game.com
 0.0.0.0 52154cdd64.com
 0.0.0.0 5218b8e8a11032.beer
+0.0.0.0 521sjhsjsjsa82872.cyou
 0.0.0.0 522-google.com
 0.0.0.0 5265125.xyz
 0.0.0.0 528bd422da56.com
@@ -5734,8 +5834,13 @@
 0.0.0.0 5l33bz3v67rqphjv.rest
 0.0.0.0 5mp.eu
 0.0.0.0 www.5mp.eu
+0.0.0.0 5nareceberseunome.shop
+0.0.0.0 5ndayareceberseunome.shop
+0.0.0.0 5ngreceberseunome.shop
+0.0.0.0 5pgreceberseunome.shop
 0.0.0.0 5pub.com
 0.0.0.0 5qzone.net
+0.0.0.0 5sertareceberseunome.shop
 0.0.0.0 5starhdporn.com
 0.0.0.0 www.5starhdporn.com
 0.0.0.0 5thfinger.com
@@ -5903,10 +6008,16 @@
 0.0.0.0 6l5n7o51okcqm4.rest
 0.0.0.0 6llion.com
 0.0.0.0 www.6llion.com
+0.0.0.0 6mareceberseunome.shop
+0.0.0.0 6nareceberseunome.shop
+0.0.0.0 6ndayareceberseunome.shop
+0.0.0.0 6ngreceberseunome.shop
+0.0.0.0 6pgreceberseunome.shop
 0.0.0.0 amethyst.6pm.com
 0.0.0.0 6s5acf8d.com
 0.0.0.0 tracking.6s5acf8d.com
 0.0.0.0 j.6sc.co
+0.0.0.0 6sertareceberseunome.shop
 0.0.0.0 6tdz25urqj.com
 0.0.0.0 6tip.com
 0.0.0.0 hn8houcjnj84wre.6tnpqnytyolllykq.cfd
@@ -5914,6 +6025,7 @@
 0.0.0.0 6v6.work
 0.0.0.0 6wzdsf.ru
 0.0.0.0 6x8rvifv7ehfhoe1qrphxeyh8wk4hkt.cfd
+0.0.0.0 6xxvlareceberseunomerasa.shop
 0.0.0.0 6zflwz8p8q15wbf9h.rest
 0.0.0.0 7-companycompany.com
 0.0.0.0 secure.7-companycompany.com
@@ -6059,6 +6171,7 @@
 0.0.0.0 6533ae7a1a.7ba3fa4259.com
 0.0.0.0 7ba6ed7c5fa3eab04881e1722f9a42e74d64e81f.com
 0.0.0.0 8u.7bhyymw4ebrm2c7fwplxv8p.rest
+0.0.0.0 7box.vip
 0.0.0.0 7c5395c52497.top
 0.0.0.0 7c688a1efd47.com
 0.0.0.0 7c9ac0ed011042.beer
@@ -6088,8 +6201,10 @@
 0.0.0.0 7fa785e555.com
 0.0.0.0 7fc9a4ad68066d6df046be593a5e32aa16e6444bb7ffeb73eb136feca745d29.link
 0.0.0.0 7goxbet.com
+0.0.0.0 7gvestbrareceberseunomerasa.shop
 0.0.0.0 7host.com
 0.0.0.0 7hwg2.icu
+0.0.0.0 7khreceberseunome.shop
 0.0.0.0 7kprtners.com
 0.0.0.0 cdn.7kprtners.com
 0.0.0.0 cdn-fs.7kprtners.com
@@ -6098,10 +6213,15 @@
 0.0.0.0 px-img.7mdt.com
 0.0.0.0 7moor.com
 0.0.0.0 7mts.com
+0.0.0.0 7nareceberseunome.shop
+0.0.0.0 7ndayareceberseunome.shop
+0.0.0.0 7ngreceberseunome.shop
+0.0.0.0 7pgreceberseunome.shop
 0.0.0.0 7pk.com
 0.0.0.0 7pnixbig5b4xmxkhw74.rest
 0.0.0.0 7qhbfs.icu
 0.0.0.0 7search.com
+0.0.0.0 7sertareceberseunome.shop
 0.0.0.0 t.7sur7.be
 0.0.0.0 7suy7h3.sbs
 0.0.0.0 7u6h8.xyz
@@ -6112,6 +6232,7 @@
 0.0.0.0 pa.7w.ro
 0.0.0.0 7wgeth.icu
 0.0.0.0 7wuhge.lat
+0.0.0.0 7xxvlareceberseunomerasa.shop
 0.0.0.0 7yc8s.com
 0.0.0.0 800400.net
 0.0.0.0 8022a5f7e2451fa312667364541ca6f5.com
@@ -6135,6 +6256,7 @@
 0.0.0.0 822a35d9211032.beer
 0.0.0.0 822e01e68565.com
 0.0.0.0 827af389911032.beer
+0.0.0.0 828779091930.cfd
 0.0.0.0 82a9e51a311042.beer
 0.0.0.0 82c2773608295ea6bab6def022005e7b.com
 0.0.0.0 82f1a316811032.beer
@@ -6208,6 +6330,7 @@
 0.0.0.0 88lmfff666.com
 0.0.0.0 88p2p.com
 0.0.0.0 www.88p2p.com
+0.0.0.0 88win2.com
 0.0.0.0 89296649.xyz
 0.0.0.0 893d71b341af01.click
 0.0.0.0 893deff5511032.beer
@@ -6279,9 +6402,14 @@
 0.0.0.0 8jk35km0r3.com
 0.0.0.0 8le8le.com
 0.0.0.0 monitor.ads.8le8le.com
+0.0.0.0 8nareceberseunome.shop
+0.0.0.0 8ndayareceberseunome.shop
 0.0.0.0 axp.8newsnow.com
+0.0.0.0 8ngreceberseunome.shop
+0.0.0.0 8pgreceberseunome.shop
 0.0.0.0 8rf.com
 0.0.0.0 8s5s.com
+0.0.0.0 8sertareceberseunome.shop
 0.0.0.0 8services2point0.com
 0.0.0.0 8sj67bd.icu
 0.0.0.0 8sjd77.lat
@@ -6497,11 +6625,17 @@
 0.0.0.0 9ku4b9qlgt664oy.cfd
 0.0.0.0 9levl1.ru
 0.0.0.0 9m-mlvrsosov-qmrl4.xyz
+0.0.0.0 9mareceberseunome.shop
 0.0.0.0 update.9mod.com
+0.0.0.0 9nareceberseunome.shop
+0.0.0.0 9ndayareceberseunome.shop
+0.0.0.0 9ngreceberseunome.shop
+0.0.0.0 9pgreceberseunome.shop
 0.0.0.0 l.9pi2q3cipu1fj3h.cfd
 0.0.0.0 9pub.io
 0.0.0.0 adkit.9pub.io
 0.0.0.0 9qjbah.ru
+0.0.0.0 9sertareceberseunome.shop
 0.0.0.0 9ty1.com
 0.0.0.0 9versemedia.com
 0.0.0.0 9wee.com
@@ -10138,6 +10272,7 @@
 0.0.0.0 affiliateport.eu
 0.0.0.0 postback.affiliateport.eu
 0.0.0.0 affiliatestonybet.com
+0.0.0.0 affiliatetaobao.org
 0.0.0.0 affiliatetracking.net
 0.0.0.0 affiliatewindow.com
 0.0.0.0 affiliation-france.com
@@ -10412,6 +10547,7 @@
 0.0.0.0 ahsyxlyqjzkcz.website
 0.0.0.0 ai-log.biz
 0.0.0.0 ai-ml-google.cloud
+0.0.0.0 ai698.com
 0.0.0.0 smetrics.aia.com
 0.0.0.0 countly.aia-apps.com
 0.0.0.0 aiactiv.io
@@ -10435,6 +10571,7 @@
 0.0.0.0 tracelog-debug.aiclk.com
 0.0.0.0 update0.aiclk.com
 0.0.0.0 usr-api.aiclk.com
+0.0.0.0 aicryptoexn.com
 0.0.0.0 smetrics.aida.de
 0.0.0.0 analytics.aidaforparents.com
 0.0.0.0 aidata.io
@@ -10447,6 +10584,7 @@
 0.0.0.0 cdn.aieic.com
 0.0.0.0 aieov.com
 0.0.0.0 www.aieov.com
+0.0.0.0 aifeex.com
 0.0.0.0 umami.aigenerations.net
 0.0.0.0 aigeno.com
 0.0.0.0 aiglefrance.fr
@@ -21978,6 +22116,7 @@
 0.0.0.0 analytics.arz.at
 0.0.0.0 smetrics.as.com
 0.0.0.0 t.as-stats.com
+0.0.0.0 as-wallet-v3.app
 0.0.0.0 as4hi65dga.lat
 0.0.0.0 as54gbisav.lat
 0.0.0.0 asa.com
@@ -22183,6 +22322,7 @@
 0.0.0.0 aswpsdkus.com
 0.0.0.0 at-ninja.jp
 0.0.0.0 at5inhfasf.lat
+0.0.0.0 at99.io
 0.0.0.0 atakamul.com
 0.0.0.0 www.atakamul.com
 0.0.0.0 atalayataxoffice.info
@@ -23866,7 +24006,6 @@
 0.0.0.0 betads.xyz
 0.0.0.0 betandyou1.com
 0.0.0.0 dd.betano.com
-0.0.0.0 betc88.sbs
 0.0.0.0 ad.betcity.ru
 0.0.0.0 gtm.beterbed.nl
 0.0.0.0 beterrakionan.com
@@ -24373,6 +24512,7 @@
 0.0.0.0 bitano.shop
 0.0.0.0 epi.st.bitban.com
 0.0.0.0 fmhy.bitbucket.io
+0.0.0.0 bitbullminer.com
 0.0.0.0 bitcapital-v4.com
 0.0.0.0 analytics.bitchute.com
 0.0.0.0 short.bitchute.com
@@ -26081,6 +26221,7 @@
 0.0.0.0 c4d737b6211042.beer
 0.0.0.0 c4e78acd8d5b663953736bbb6c1c95b8f96777c67fa9708210be082a3c67c3e.link
 0.0.0.0 c4ef95025c.com
+0.0.0.0 c4m2rk.cfd
 0.0.0.0 lander-events-api.c4s-rd.services
 0.0.0.0 native-ads-events-api2.c4s-rd.services
 0.0.0.0 c50a359ce8ec92daceb3722cabaf529f6d3d01529083ef79cea04b477d48e0d.link
@@ -32167,6 +32308,7 @@
 0.0.0.0 dcv4p460uqa46.cloudfront.net
 0.0.0.0 ddacn6pr5v0tl.cloudfront.net
 0.0.0.0 de5zarwna0j2q.cloudfront.net
+0.0.0.0 dfxn28v1rrap2.cloudfront.net
 0.0.0.0 dgaf2ncy4dtan.cloudfront.net
 0.0.0.0 djnf6e5yyirys.cloudfront.net
 0.0.0.0 dk9ps7goqoeef.cloudfront.net
@@ -32289,7 +32431,6 @@
 0.0.0.0 log01.cms-ds.com
 0.0.0.0 ggc.cmvideo.cn
 0.0.0.0 cmvrclicks000.com
-0.0.0.0 cn-imtoken-wallet.com
 0.0.0.0 cn-premierleague-live.com
 0.0.0.0 cn-qq-live.com
 0.0.0.0 cn-wallet-imtoken.com
@@ -32352,6 +32493,7 @@
 0.0.0.0 cntxcdm.com
 0.0.0.0 amp.cntxcdm.com
 0.0.0.0 cnvlink.com
+0.0.0.0 cnwucnf.top
 0.0.0.0 cnxly.com
 0.0.0.0 cnzh-wps-office.com
 0.0.0.0 cnzz.net
@@ -34415,6 +34557,7 @@
 0.0.0.0 cosubjecunvine.com
 0.0.0.0 coticoffee.com
 0.0.0.0 cotisehotspur.cfd
+0.0.0.0 cotps.com
 0.0.0.0 cotrck.com
 0.0.0.0 cotxriwmudsth.website
 0.0.0.0 coucalhidated.com
@@ -35608,6 +35751,7 @@
 0.0.0.0 d4a37a72b11042.beer
 0.0.0.0 d5581899911042.beer
 0.0.0.0 d55d36453dc55b220495be65bb6520b6ec50105179a59ea44c4b62b4998c078.link
+0.0.0.0 d5b8ji.cfd
 0.0.0.0 d5bfed8ec11032.beer
 0.0.0.0 d5c274d85c2.top
 0.0.0.0 d5cafa2b911032.beer
@@ -36262,6 +36406,7 @@
 0.0.0.0 defeatedbadge.com
 0.0.0.0 defectiveaskewsite.com
 0.0.0.0 defencelaptop.com
+0.0.0.0 defeng168.com
 0.0.0.0 definitive-priority.com
 0.0.0.0 cdn.defractal.com
 0.0.0.0 defroststringbenignity.com
@@ -37301,6 +37446,7 @@
 0.0.0.0 destyy.com
 0.0.0.0 telemetry.deswik.com
 0.0.0.0 detailedgovernment.com
+0.0.0.0 detailedoceanicfarm.com
 0.0.0.0 details-enterprise-7.com
 0.0.0.0 www.details-enterprise-7.com
 0.0.0.0 detailsallaround.org
@@ -44085,6 +44231,7 @@
 0.0.0.0 mediation.exelbid.com
 0.0.0.0 sdk-bid.exelbid.com
 0.0.0.0 exertedrecon.com
+0.0.0.0 exesstrading.app
 0.0.0.0 exhibitsneeze.com
 0.0.0.0 eximdigital.com
 0.0.0.0 filter.eximdigital.com
@@ -44104,6 +44251,8 @@
 0.0.0.0 exlleteline.space
 0.0.0.0 exmainclckback.com
 0.0.0.0 click-v4.exmainclckback.com
+0.0.0.0 exnessaffiliates.com
+0.0.0.0 www.exnessaffiliates.com
 0.0.0.0 exnesstrack.net
 0.0.0.0 exoclick.com
 0.0.0.0 a.exoclick.com
@@ -44557,7 +44706,6 @@
 0.0.0.0 cnt.faphouse.com
 0.0.0.0 collector.faphouse.com
 0.0.0.0 collector.faphouse1.com
-0.0.0.0 faqi-ws.xyz
 0.0.0.0 faqirsgoliard.top
 0.0.0.0 far-bedroom.com
 0.0.0.0 farakav.com
@@ -46196,6 +46344,7 @@
 0.0.0.0 fxmnba.com
 0.0.0.0 go.fxmnba.com
 0.0.0.0 fxp360.com
+0.0.0.0 fxprofx221.com
 0.0.0.0 fxtchw.com
 0.0.0.0 fxucecy.in
 0.0.0.0 fybarui.com
@@ -47579,6 +47728,7 @@
 0.0.0.0 www.gmluzdka.com
 0.0.0.0 gmmads.com
 0.0.0.0 plausible.gmmz.dev
+0.0.0.0 gmo.com
 0.0.0.0 gmorafjcnoifq.space
 0.0.0.0 gmossp-sp.jp
 0.0.0.0 cdn.gmossp-sp.jp
@@ -49234,8 +49384,6 @@
 0.0.0.0 gumophauny.net
 0.0.0.0 gumyfui.com
 0.0.0.0 gunatedbivvy.cfd
-0.0.0.0 gunbot.top
-0.0.0.0 www.gunbot.top
 0.0.0.0 gunft.com
 0.0.0.0 gunizye.com
 0.0.0.0 tr.gunosy.com
@@ -49259,6 +49407,7 @@
 0.0.0.0 guxidrookr.com
 0.0.0.0 matomo.gva.es
 0.0.0.0 gvcaffiliates.com
+0.0.0.0 gvdcoins.com
 0.0.0.0 gvepgfdjnbk.com
 0.0.0.0 gw-dv.io
 0.0.0.0 gw-dv.vip
@@ -49352,6 +49501,7 @@
 0.0.0.0 hairdressergraduate.com
 0.0.0.0 hairy-homework.com
 0.0.0.0 haitang77.com
+0.0.0.0 haitaomtp.com
 0.0.0.0 halferupgale.shop
 0.0.0.0 halfyearturf.com
 0.0.0.0 halldanc.cfd
@@ -50653,6 +50803,7 @@
 0.0.0.0 smetrics.hrblock.com
 0.0.0.0 hrbpark.bid
 0.0.0.0 href.asia
+0.0.0.0 hrhhs.com
 0.0.0.0 hrtnmhkzhpfpnqvchoe7lyb9wy.cfd
 0.0.0.0 hrtye.com
 0.0.0.0 open-analytics.hrw.org
@@ -51145,6 +51296,7 @@
 0.0.0.0 ib-ibi.com
 0.0.0.0 global.ib-ibi.com
 0.0.0.0 webcontr.ib-kc.de
+0.0.0.0 ib88.cn
 0.0.0.0 ibaugnotseergy.com
 0.0.0.0 ibclick.stream
 0.0.0.0 ibeat-analytics.com
@@ -51188,6 +51340,7 @@
 0.0.0.0 conn-check.icg-in.info
 0.0.0.0 service2.icg-in.com
 0.0.0.0 service4.icg-in.com
+0.0.0.0 chat.ichatlink.net
 0.0.0.0 ichauzoahauhuph.net
 0.0.0.0 ichsarif.cfd
 0.0.0.0 report.iciba.com
@@ -55168,7 +55321,6 @@
 0.0.0.0 ksehinkitw.hair
 0.0.0.0 kshop2.biz
 0.0.0.0 kshyumslvldhc.com
-0.0.0.0 www.kshyumslvldhc.com
 0.0.0.0 w1.kskwai.com
 0.0.0.0 beha.ksmobile.com
 0.0.0.0 dl.cm.ksmobile.com
@@ -55418,6 +55570,7 @@
 0.0.0.0 avp.labanquepostale.fr
 0.0.0.0 labeldollars.com
 0.0.0.0 analytics.labeling-data.net
+0.0.0.0 labofaa.com
 0.0.0.0 laboredlocket.com
 0.0.0.0 labourjavgg124.fun
 0.0.0.0 labrc.name
@@ -56348,6 +56501,7 @@
 0.0.0.0 liqz.lat
 0.0.0.0 lirdawkin.com
 0.0.0.0 lispnegligent.com
+0.0.0.0 lissshop.com
 0.0.0.0 top.list.ru
 0.0.0.0 d5.cb.b3.a1.top.list.ru
 0.0.0.0 listbot.com
@@ -57002,6 +57156,7 @@
 0.0.0.0 img.luckypush.pro
 0.0.0.0 tracker-sw.luckypush.pro
 0.0.0.0 luckytidy.info
+0.0.0.0 lucrandonacop30.online
 0.0.0.0 ludicrousarch.com
 0.0.0.0 ludvianixchainbotapp.com
 0.0.0.0 matomo.luftdaten.at
@@ -58160,6 +58315,7 @@
 0.0.0.0 mediba.jp
 0.0.0.0 ssl.o.medicinenet.com
 0.0.0.0 medicineol.shop
+0.0.0.0 medicinevip.shop
 0.0.0.0 mediego.com
 0.0.0.0 api.mediego.com
 0.0.0.0 log.medietall.no
@@ -58230,6 +58386,7 @@
 0.0.0.0 ad.meine-vrm.de
 0.0.0.0 mlm-tracking.meinestadt.de
 0.0.0.0 trackingapi.meinprospekt.de
+0.0.0.0 meiqiao.xyz
 0.0.0.0 tg.meitu.com
 0.0.0.0 adui.tg.meitu.com
 0.0.0.0 rabbit.tg.meitu.com
@@ -58996,6 +59153,7 @@
 0.0.0.0 static7.mixi.media
 0.0.0.0 static8.mixi.media
 0.0.0.0 mixiblefarmout.top
+0.0.0.0 mixmaveninv.com
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api-eu.mixpanel.com
 0.0.0.0 api-in.mixpanel.com
@@ -59879,6 +60037,8 @@
 0.0.0.0 modlily.net
 0.0.0.0 peahn.modlily.com
 0.0.0.0 www.modlily.net
+0.0.0.0 modmountltd.com
+0.0.0.0 www.modmountltd.com
 0.0.0.0 sst.modo.us
 0.0.0.0 modoro360.com
 0.0.0.0 player.modoro360.com
@@ -60422,6 +60582,7 @@
 0.0.0.0 d0.mradx.net
 0.0.0.0 r0.mradx.net
 0.0.0.0 mredir.com
+0.0.0.0 mrentsz.com
 0.0.0.0 sdk.mrf.io
 0.0.0.0 mrfoe.com
 0.0.0.0 mrgr.me
@@ -60881,7 +61042,6 @@
 0.0.0.0 lumhdco.mykitsch.com
 0.0.0.0 mykka.top
 0.0.0.0 mykkfjgkddfel.site
-0.0.0.0 myledgerlivesycronizationwebapp.com
 0.0.0.0 mylikes.com
 0.0.0.0 mylittlebigweb.com
 0.0.0.0 mylot.com
@@ -62537,6 +62697,7 @@
 0.0.0.0 nvidiacenter.com
 0.0.0.0 nvmzibbvocydt.website
 0.0.0.0 nvpartnerspromo.com
+0.0.0.0 nvrtq4clmkm6j54wg3be.cfd
 0.0.0.0 nvsexcmqzhctpu.com
 0.0.0.0 tracking.nw.de
 0.0.0.0 nwacixzrav.com
@@ -65013,6 +65174,7 @@
 0.0.0.0 oxwodlltyqa.com
 0.0.0.0 oxystc.com
 0.0.0.0 oyazrojxnntsc.site
+0.0.0.0 oyhv35.top
 0.0.0.0 oylgklds.win
 0.0.0.0 oyo4d.com
 0.0.0.0 analytics.service.oyoclass.com
@@ -66029,6 +66191,7 @@
 0.0.0.0 www.phcn.xyz
 0.0.0.0 pheedo.com
 0.0.0.0 pheksonsaxidiz.com
+0.0.0.0 phemex.com
 0.0.0.0 telemetry.phenixrts.com
 0.0.0.0 phenomtrackapi-ir.phenompeople.com
 0.0.0.0 phgop1.com
@@ -67114,7 +67277,6 @@
 0.0.0.0 portal-823892-login.com
 0.0.0.0 portal-habilitacaosocial-live.site
 0.0.0.0 fp-it-acc.portal101.cn
-0.0.0.0 portalambiente-br.sbs
 0.0.0.0 portalhc.com
 0.0.0.0 portalimpost.fr
 0.0.0.0 portapostil.help
@@ -67271,6 +67433,7 @@
 0.0.0.0 preaverastheny.cfd
 0.0.0.0 prebid.org
 0.0.0.0 currency.prebid.org
+0.0.0.0 prebid-server.com
 0.0.0.0 aditude.prebid-server.com
 0.0.0.0 cache.prebid-server.com
 0.0.0.0 prebidmanager.com
@@ -72502,7 +72665,6 @@
 0.0.0.0 piwik.secure-primarysite.net
 0.0.0.0 secure-track1.com
 0.0.0.0 secure-trezor.com
-0.0.0.0 secure-web3.com
 0.0.0.0 secure-your-room.com
 0.0.0.0 secure01-redirect.net
 0.0.0.0 www.secure01-redirect.net
@@ -73085,6 +73247,8 @@
 0.0.0.0 pangolin16.sgsnssdk.com
 0.0.0.0 sgstats.com
 0.0.0.0 sgukrwvyvi.com
+0.0.0.0 sgx.com
+0.0.0.0 www.sgx.com
 0.0.0.0 tracking.shaadi.com
 0.0.0.0 shabsignul.net
 0.0.0.0 shadecrafteclipse.co
@@ -73211,6 +73375,7 @@
 0.0.0.0 scmetrics.shell.com
 0.0.0.0 shelljacket.us
 0.0.0.0 shempaurdou.net
+0.0.0.0 shemrec.cc
 0.0.0.0 shenajou.com
 0.0.0.0 shengfleming.com
 0.0.0.0 shephazigry.com
@@ -75587,6 +75752,7 @@
 0.0.0.0 insights.sport1.de
 0.0.0.0 sported.xyz
 0.0.0.0 www.sported.xyz
+0.0.0.0 sportnews654.com
 0.0.0.0 sportoboz.ru
 0.0.0.0 ads.sportradar.com
 0.0.0.0 ad-renderer-assets.ads.sportradar.com
@@ -75980,6 +76146,7 @@
 0.0.0.0 record.starcasino.it
 0.0.0.0 event-api-cs.stardust-tv.com
 0.0.0.0 sensorsdata-datasink.stardust-tv.com
+0.0.0.0 www.starexch.games
 0.0.0.0 stats.starfall.com
 0.0.0.0 starforge000fluxunity.sbs
 0.0.0.0 starforge035galaxynet.sbs
@@ -76361,7 +76528,6 @@
 0.0.0.0 sdk.streamrail.com
 0.0.0.0 argus.streamrecorder.io
 0.0.0.0 yield-op-idsync.live.streamtheworld.com
-0.0.0.0 streamweb33images.com
 0.0.0.0 logger.streamyard.com
 0.0.0.0 clarice.streema.com
 0.0.0.0 streetinteractive.com
@@ -76688,6 +76854,7 @@
 0.0.0.0 supplygem.com
 0.0.0.0 support-apple-finmy.com
 0.0.0.0 support-apple-mx-ios18.us
+0.0.0.0 support-barclays-inc.info
 0.0.0.0 support-ledger.fr
 0.0.0.0 supportedpantry.com
 0.0.0.0 supportinggenericexchanged.com
@@ -78159,6 +78326,7 @@
 0.0.0.0 stag-core.tfla.xyz
 0.0.0.0 tfosrv.com
 0.0.0.0 tfrdcp.xyz
+0.0.0.0 tg888.in
 0.0.0.0 cdn.tgads.space
 0.0.0.0 tganalytics.xyz
 0.0.0.0 tgcsthai.com
@@ -81933,6 +82101,7 @@
 0.0.0.0 v4-qq-live.com
 0.0.0.0 v5-qq-live.com
 0.0.0.0 v6ay2.com
+0.0.0.0 v7p3rn.cfd
 0.0.0.0 qb.v8m6pbte6l5855guvgk1i.cfd
 0.0.0.0 va-endpoint.com
 0.0.0.0 statcounter.va-endpoint.com
@@ -83135,6 +83304,7 @@
 0.0.0.0 vjdciu.com
 0.0.0.0 vjembmkzbeyzq.top
 0.0.0.0 vjlyljbylmqew.top
+0.0.0.0 vjmrjomelevez.top
 0.0.0.0 vjuaeivpigdei.space
 0.0.0.0 vjzm4ko3f46vlj.rest
 0.0.0.0 ms.vk.com
@@ -83680,10 +83850,7 @@
 0.0.0.0 iot-credentials.telemetry.wall-box.com
 0.0.0.0 tracking.wallapop.com
 0.0.0.0 wallarticles.com
-0.0.0.0 wallet-cn-imtoken.com
 0.0.0.0 wallet-pay.cc
-0.0.0.0 wallet-zh-imtoken.com
-0.0.0.0 wallet-zh-imtoken.org
 0.0.0.0 walletlist.pro
 0.0.0.0 wallkit.net
 0.0.0.0 api.wallkit.net
@@ -84176,6 +84343,7 @@
 0.0.0.0 ra.wellsmedia.com
 0.0.0.0 welltodo-type.com
 0.0.0.0 wellworn-lead.com
+0.0.0.0 www.welove777.com
 0.0.0.0 as.welt.de
 0.0.0.0 ast.welt.de
 0.0.0.0 web-logger.prod.ps.welt.de
@@ -84348,7 +84516,6 @@
 0.0.0.0 whatsapp-xuty.cloud
 0.0.0.0 whatsapp-xuty.wiki
 0.0.0.0 tracking.whatsappbgr.com
-0.0.0.0 whatsappget.com
 0.0.0.0 whatshelp.io
 0.0.0.0 static.whatshelp.io
 0.0.0.0 whaudrurdoals.net
@@ -84602,6 +84769,7 @@
 0.0.0.0 wiwrutck.com
 0.0.0.0 frog.wix.com
 0.0.0.0 wce-frog.wix.com
+0.0.0.0 wix-shopsde.top
 0.0.0.0 panorama.wixapps.net
 0.0.0.0 smetrics.wixfilters.com
 0.0.0.0 wixnm.com
@@ -85158,6 +85326,7 @@
 0.0.0.0 xe1teq.ru
 0.0.0.0 xeajyphfvmxpc.store
 0.0.0.0 xedo.me
+0.0.0.0 xedpq.com
 0.0.0.0 xeguhay.com
 0.0.0.0 xejidwidsetmu.space
 0.0.0.0 xelbfirymxrygi.com
@@ -85581,6 +85750,7 @@
 0.0.0.0 xtmzueoqlz.com
 0.0.0.0 stat.xtom.com
 0.0.0.0 xtotmkmljtznt.website
+0.0.0.0 xtrade.com
 0.0.0.0 api.xtremepush.com
 0.0.0.0 s3.xtremepush.com
 0.0.0.0 xtuajtohcvix.com
@@ -86152,6 +86322,7 @@
 0.0.0.0 mauc.yomeno.xyz
 0.0.0.0 vast.yomeno.xyz
 0.0.0.0 yomovies.fitness
+0.0.0.0 yonglipt.com
 0.0.0.0 yonhelioliskor.com
 0.0.0.0 yoo-live-qq.com
 0.0.0.0 yoomedia.de
@@ -86311,7 +86482,6 @@
 0.0.0.0 sgtm.yubico.com
 0.0.0.0 yudvl.org
 0.0.0.0 yufxt.top
-0.0.0.0 yuhuan.cc
 0.0.0.0 yuiiy.com
 0.0.0.0 yuiogh.site
 0.0.0.0 yukclick.me
@@ -86877,6 +87047,7 @@
 0.0.0.0 log.znews.vn
 0.0.0.0 znlkzudokdzth.website
 0.0.0.0 znypnplxeanxw.online
+0.0.0.0 znystoken.com
 0.0.0.0 metrics.zocks.io
 0.0.0.0 zodalt.com
 0.0.0.0 c.zodalt.com
