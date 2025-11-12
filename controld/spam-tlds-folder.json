@@ -393,6 +393,13 @@
       }
     },
     {
+      "PK": "*.courses",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.credit",
       "action": {
         "do": 0,

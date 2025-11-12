@@ -12,10 +12,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 12 Nov 2025 05:49 UTC
-! Version: 2025.1112.0549.39
+! Last modified: 12 Nov 2025 22:36 UTC
+! Version: 2025.1112.2236.08
 ! Syntax: uBlock
-! Number of latin TLDs: 281 - non-latin TLDs: 151
+! Number of latin TLDs: 282 - non-latin TLDs: 151
 !
 ||actor^$doc
 ||africa^$doc,domain=~nation.africa
@@ -72,6 +72,7 @@
 ||consulting^$doc
 ||cool^$doc,domain=~cnyes.cool|~compromise.cool|~shirtz.cool|~upbitit.cool
 ||coupons^$doc
+||courses^$doc
 ||credit^$doc
 ||cyou^$doc,domain=~hammertime.cyou
 ||dad^$doc,domain=~daily.dad|~dear.dad|~gdflix.dad|~gdtot.dad|~rad.dad

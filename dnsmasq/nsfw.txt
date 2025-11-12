@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Nov 2025 18:31 UTC
-# Version: 2025.1112.1831.14
+# Last modified: 12 Nov 2025 22:31 UTC
+# Version: 2025.1112.2231.08
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 77999
+# Number of entries: 77997
 #
 local=/001-adult-toys-n-sex-dolls.com/
 local=/001218.xyz/
@@ -5512,6 +5512,7 @@ local=/arxnxxxxxxhd.rest/
 local=/arxnxxxxxxhd.site/
 local=/arxnxxxxxxhd.space/
 local=/arxnxxxxxxhd.store/
+local=/arxnxxxxxxhd.today/
 local=/arxnxxxxxxhd.website/
 local=/arxnxxxxxxxhd.art/
 local=/arxnxxxxxxxhd.autos/
@@ -26013,7 +26014,6 @@ local=/gadgetxxx.xyz/
 local=/gafiles.com/
 local=/gagaxxxxxxx.com/
 local=/gagayi.xyz/
-local=/gagaymd.com/
 local=/gaggedfemales.com/
 local=/gaggedgirls.tv/
 local=/gaggedlist.com/
@@ -30605,7 +30605,6 @@ local=/henbaneporn.com/
 local=/hendico.com/
 local=/henfus.com/
 local=/hengjijt.com/
-local=/hennojin.com/
 local=/henny.in/
 local=/henrydougalerotica.com/
 local=/hentai.cloud/
@@ -73902,7 +73901,6 @@ local=/xhmoon4.com/
 local=/xhmoon5.com/
 local=/xhms.pro/
 local=/xhmy.life/
-local=/xhnumber.xyz/
 local=/xhocean.com/
 local=/xhofficial.com/
 local=/xholecam.com/

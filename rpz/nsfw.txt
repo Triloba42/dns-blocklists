@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762972260 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762986660 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 Nov 2025 18:31 UTC
-; Version: 2025.1112.1831.14
+; Last modified: 12 Nov 2025 22:31 UTC
+; Version: 2025.1112.2231.08
 ; Syntax: RPZ
-; Number of entries: 155998
+; Number of entries: 155994
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -34848,8 +34848,6 @@ gafiles.com CNAME .
 *.gafiles.com CNAME .
 gagaxxxxxxx.com CNAME .
 *.gagaxxxxxxx.com CNAME .
-gagaymd.com CNAME .
-*.gagaymd.com CNAME .
 gaggedfemales.com CNAME .
 *.gaggedfemales.com CNAME .
 gaggedlist.com CNAME .
@@ -39130,8 +39128,6 @@ henfus.com CNAME .
 *.henfus.com CNAME .
 hengjijt.com CNAME .
 *.hengjijt.com CNAME .
-hennojin.com CNAME .
-*.hennojin.com CNAME .
 henrydougalerotica.com CNAME .
 *.henrydougalerotica.com CNAME .
 hentai.com CNAME .
@@ -133656,6 +133652,8 @@ analporno24.today CNAME .
 *.analporno24.today CNAME .
 arhivporno.today CNAME .
 *.arhivporno.today CNAME .
+arxnxxxxxxhd.today CNAME .
+*.arxnxxxxxxhd.today CNAME .
 babe.today CNAME .
 *.babe.today CNAME .
 camwhores.today CNAME .
@@ -155596,8 +155594,6 @@ xhamsterdeutsch.xyz CNAME .
 *.xhamsterdeutsch.xyz CNAME .
 xhing.xyz CNAME .
 *.xhing.xyz CNAME .
-xhnumber.xyz CNAME .
-*.xhnumber.xyz CNAME .
 xlporn.xyz CNAME .
 *.xlporn.xyz CNAME .
 xnxc.xyz CNAME .

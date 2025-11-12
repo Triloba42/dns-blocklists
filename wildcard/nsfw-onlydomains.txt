@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Nov 2025 18:31 UTC
-# Version: 2025.1112.1831.14
+# Last modified: 12 Nov 2025 22:31 UTC
+# Version: 2025.1112.2231.08
 # Syntax: Domains (without subdomains)
-# Number of entries: 77999
+# Number of entries: 77997
 #
 001-adult-toys-n-sex-dolls.com
 001218.xyz
@@ -5512,6 +5512,7 @@ arxnxxxxxxhd.rest
 arxnxxxxxxhd.site
 arxnxxxxxxhd.space
 arxnxxxxxxhd.store
+arxnxxxxxxhd.today
 arxnxxxxxxhd.website
 arxnxxxxxxxhd.art
 arxnxxxxxxxhd.autos
@@ -26013,7 +26014,6 @@ gadgetxxx.xyz
 gafiles.com
 gagaxxxxxxx.com
 gagayi.xyz
-gagaymd.com
 gaggedfemales.com
 gaggedgirls.tv
 gaggedlist.com
@@ -30605,7 +30605,6 @@ henbaneporn.com
 hendico.com
 henfus.com
 hengjijt.com
-hennojin.com
 henny.in
 henrydougalerotica.com
 hentai.cloud
@@ -73902,7 +73901,6 @@ xhmoon4.com
 xhmoon5.com
 xhms.pro
 xhmy.life
-xhnumber.xyz
 xhocean.com
 xhofficial.com
 xholecam.com
