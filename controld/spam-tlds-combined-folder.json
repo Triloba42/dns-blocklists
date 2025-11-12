@@ -105,6 +105,13 @@
       }
     },
     {
+      "PK": "acstuff.club",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "activated.win",
       "action": {
         "do": 1,
@@ -402,6 +409,13 @@
       "PK": "*.asia",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "assettocorsa.club",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },
@@ -2556,6 +2570,13 @@
     },
     {
       "PK": "glitchproductions.store",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "goflix.sbs",
       "action": {
         "do": 1,
         "status": 1

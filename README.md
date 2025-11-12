@@ -395,7 +395,7 @@ Two variants are available:
 >               
 > Current status of the data provided:
 > - OpenSquat: :yellow_circle: - Mon, 10 Nov 2025 05:30:20 UTC / 10848777 domains                
-> - Stamus Labs: :green_circle: - Tue, 11 Nov 2025 04:58:34 UTC / 10495423 domains                
+> - Stamus Labs: :green_circle: - Wed, 12 Nov 2025 05:03:23 UTC / 10495423 domains                
                    
 #### :new: **NRDs:** Include all newly registered domains     
 
