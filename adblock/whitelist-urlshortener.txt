@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 11 Nov 2025 17:28 UTC
-! Version: 2025.1111.1728.48
+! Last modified: 13 Nov 2025 06:05 UTC
+! Version: 2025.1113.0605.13
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -1459,7 +1459,6 @@
 @@||c.centralretail.com^
 @@||centurylinke.com^
 @@||cepet.in^
-@@||indico.cern.ch^
 @@||certifyde.app^
 @@||ceyss.link^
 @@||cf2.me^
@@ -5077,6 +5076,7 @@
 @@||nearurl.com^
 @@||neatlink.ca^
 @@||nectarios.info^
+@@||neexulro.net^
 @@||nefeli.live^
 @@||neflixenomovies.com^
 @@||nej.md^

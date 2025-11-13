@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Nov 2025 17:28 UTC
-# Version: 2025.1111.1728.48
+# Last modified: 13 Nov 2025 06:05 UTC
+# Version: 2025.1113.0605.13
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9493
+# Number of entries: 9492
 #
 local=/0.gp/
 local=/00m.in/
@@ -1505,7 +1505,6 @@ local=/centi.ai/
 local=/c.centralretail.com/
 local=/centurylinke.com/
 local=/cepet.in/
-local=/indico.cern.ch/
 local=/certifyde.app/
 local=/cesinthi.com/
 local=/ceyss.link/

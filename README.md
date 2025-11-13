@@ -395,7 +395,7 @@ Two variants are available:
 >               
 > Current status of the data provided:
 > - OpenSquat: :green_circle: - Wed, 12 Nov 2025 05:30:17 UTC / 10627672 domains                
-> - Stamus Labs: :green_circle: - Wed, 12 Nov 2025 05:03:23 UTC / 10508848 domains                
+> - Stamus Labs: :green_circle: - Thu, 13 Nov 2025 05:04:35 UTC / 10508848 domains                
                    
 #### :new: **NRDs:** Include all newly registered domains     
 
@@ -575,7 +575,7 @@ A blocklist for blocking all known URL/link shortener.
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 9493 compressed domains
+**Entries:** 9492 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
