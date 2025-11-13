@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763029740 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763044200 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 13 Nov 2025 10:29 UTC
-; Version: 2025.1113.1029.28
+; Last modified: 13 Nov 2025 14:30 UTC
+; Version: 2025.1113.1430.53
 ; Syntax: RPZ
-; Number of entries: 155340
+; Number of entries: 155312
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -8292,8 +8292,6 @@ xxx18.chat CNAME .
 *.xxx18.chat CNAME .
 xxxgpt.chat CNAME .
 *.xxxgpt.chat CNAME .
-porno.cheap CNAME .
-*.porno.cheap CNAME .
 porno365.christmas CNAME .
 *.porno365.christmas CNAME .
 slut.church CNAME .
@@ -12174,8 +12172,6 @@ www2.3wisp.com CNAME .
 *.6627xxx.com CNAME .
 666movies.com CNAME .
 *.666movies.com CNAME .
-668sex.com CNAME .
-*.668sex.com CNAME .
 66casting.com CNAME .
 *.66casting.com CNAME .
 66dayexperiment.com CNAME .
@@ -12474,8 +12470,6 @@ www2.3wisp.com CNAME .
 *.91wangs-porn.com CNAME .
 91xingse.com CNAME .
 *.91xingse.com CNAME .
-91xxx33.com CNAME .
-*.91xxx33.com CNAME .
 91xxxins.com CNAME .
 *.91xxxins.com CNAME .
 91xxxxx.com CNAME .
@@ -29382,8 +29376,6 @@ endsexualmisconductinsport.com CNAME .
 *.endsexualmisconductinsport.com CNAME .
 enduroslut.com CNAME .
 *.enduroslut.com CNAME .
-enemaslut.com CNAME .
-*.enemaslut.com CNAME .
 energaya-consulting.com CNAME .
 *.energaya-consulting.com CNAME .
 eng-adult-friendfinder.com CNAME .
@@ -33328,8 +33320,6 @@ fotka.com CNAME .
 *.fotka.com CNAME .
 foto-pisi.com CNAME .
 *.foto-pisi.com CNAME .
-foto-z.com CNAME .
-*.foto-z.com CNAME .
 fotodemulhernua.com CNAME .
 *.fotodemulhernua.com CNAME .
 fotodepenis.com CNAME .
@@ -39972,8 +39962,6 @@ hollywood-xposed.com CNAME .
 *.hollywood-xposed.com CNAME .
 hollywoodseniorsexpo.com CNAME .
 *.hollywoodseniorsexpo.com CNAME .
-hollywoodsex.com CNAME .
-*.hollywoodsex.com CNAME .
 hollywoodstreetking.com CNAME .
 *.hollywoodstreetking.com CNAME .
 hollywoodwhores.com CNAME .
@@ -57300,8 +57288,6 @@ pikap-porno.com CNAME .
 *.pikap-porno.com CNAME .
 pilatingayrimenkul.com CNAME .
 *.pilatingayrimenkul.com CNAME .
-pillowpornoz.com CNAME .
-*.pillowpornoz.com CNAME .
 pilluporno.com CNAME .
 *.pilluporno.com CNAME .
 pilluvideot.com CNAME .
@@ -62076,8 +62062,6 @@ prostitutkimoskvycity.com CNAME .
 *.prostitutkimoskvycity.com CNAME .
 prostitutkinizhnevartovskasex.com CNAME .
 *.prostitutkinizhnevartovskasex.com CNAME .
-prostitutkinovosibirskarelax.com CNAME .
-*.prostitutkinovosibirskarelax.com CNAME .
 prostitutkinovosibirskasexy.com CNAME .
 *.prostitutkinovosibirskasexy.com CNAME .
 prostitutkirest.com CNAME .
@@ -72212,8 +72196,6 @@ sussextorchheating.com CNAME .
 *.sussextorchheating.com CNAME .
 sussextransportcare.com CNAME .
 *.sussextransportcare.com CNAME .
-sussexwebdesigns.com CNAME .
-*.sussexwebdesigns.com CNAME .
 sussexwindshields.com CNAME .
 *.sussexwindshields.com CNAME .
 sussexwinestories.com CNAME .
@@ -101436,8 +101418,6 @@ pornxxx.me CNAME .
 *.pornxxx.me CNAME .
 pornyoung.me CNAME .
 *.pornyoung.me CNAME .
-porzo.me CNAME .
-*.porzo.me CNAME .
 prostitutki.me CNAME .
 *.prostitutki.me CNAME .
 protinok.me CNAME .
@@ -111690,6 +111670,8 @@ bestelinks.nl CNAME .
 *.bestelinks.nl CNAME .
 bestetieten.nl CNAME .
 *.bestetieten.nl CNAME .
+bestorganizing.nl CNAME .
+*.bestorganizing.nl CNAME .
 bijlesplein.nl CNAME .
 *.bijlesplein.nl CNAME .
 binkdate.nl CNAME .
@@ -117538,8 +117520,6 @@ pornopomidorno.org CNAME .
 *.pornopomidorno.org CNAME .
 pornopont.org CNAME .
 *.pornopont.org CNAME .
-pornoramas.org CNAME .
-*.pornoramas.org CNAME .
 pornorusskie.org CNAME .
 *.pornorusskie.org CNAME .
 pornosdeutsch.org CNAME .
@@ -123568,8 +123548,6 @@ katyaburg.ru CNAME .
 *.katyaburg.ru CNAME .
 kazahskiy-seks.ru CNAME .
 *.kazahskiy-seks.ru CNAME .
-keep-heat.ru CNAME .
-*.keep-heat.ru CNAME .
 keytorg.ru CNAME .
 *.keytorg.ru CNAME .
 kfngpu.ru CNAME .
@@ -124930,8 +124908,6 @@ wondersex.ru CNAME .
 *.wondersex.ru CNAME .
 workescort.ru CNAME .
 *.workescort.ru CNAME .
-x-art-erotic.ru CNAME .
-*.x-art-erotic.ru CNAME .
 x-narod.ru CNAME .
 *.x-narod.ru CNAME .
 x-pirat.ru CNAME .
@@ -130446,8 +130422,6 @@ weddingsexcellence.shop CNAME .
 *.weddingsexcellence.shop CNAME .
 weddingsexpertise.shop CNAME .
 *.weddingsexpertise.shop CNAME .
-whispermoon.shop CNAME .
-*.whispermoon.shop CNAME .
 widegasexecutive.shop CNAME .
 *.widegasexecutive.shop CNAME .
 xiuxiusex.shop CNAME .
@@ -132874,8 +132848,6 @@ avtub.tax CNAME .
 *.avtub.tax CNAME .
 javhd.tax CNAME .
 *.javhd.tax CNAME .
-porno.tax CNAME .
-*.porno.tax CNAME .
 sextop2.tax CNAME .
 *.sextop2.tax CNAME .
 xvideos.tax CNAME .

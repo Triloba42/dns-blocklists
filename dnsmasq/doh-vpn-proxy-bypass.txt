@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Nov 2025 14:35 UTC
-# Version: 2025.1112.1435.18
+# Last modified: 13 Nov 2025 14:34 UTC
+# Version: 2025.1113.1434.45
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6919
+# Number of entries: 6927
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -405,6 +405,7 @@ local=/rootdns.anir0y.in/
 local=/aniscartujo.com/
 local=/sanns.aniuo.com/
 local=/anixlab.com/
+local=/xz.anjumanallana.in/
 local=/dns.anne-pierre.fr/
 local=/dns.anon.no/
 local=/a-regist.anondns.net/
@@ -571,6 +572,7 @@ local=/sg-dns1.bancuh.com/
 local=/sg-dns2.bancuh.com/
 local=/barnabech.fr/
 local=/base99.com/
+local=/archlinuxisthebestlol.baselinux.net/
 local=/bootnbo.baselinux.net/
 local=/nirbolt.baselinux.net/
 local=/nirbyteproxbolt.baselinux.net/
@@ -864,6 +866,7 @@ local=/coolkidd.chickenkiller.com/
 local=/jayisthe.chickenkiller.com/
 local=/jordanmadethis.chickenkiller.com/
 local=/freedns.kiuo-utopias.chickenkiller.com/
+local=/grapesceleste.lobo.chickenkiller.com/
 local=/andersonalcantara.my28.chickenkiller.com/
 local=/soulsorcereryt.chickenkiller.com/
 local=/whydidiask.chickenkiller.com/
@@ -2925,6 +2928,7 @@ local=/iwebproxy.com/
 local=/ixl.plus/
 local=/ag.iyn.one/
 local=/dns.izyserv.site/
+local=/thecia.j2e.nl/
 local=/jabber-germany.de/
 local=/jabber-server.de/
 local=/adg.jabertechnologies.ch/
@@ -3792,6 +3796,7 @@ local=/pi1.node15.com/
 local=/nodemaven.com/
 local=/nodepay.ai/
 local=/dns.nodoa.me/
+local=/citybabyboy.noen.cx/
 local=/nfnvr.noiselink.com/
 local=/nolagvpn.com/
 local=/sink.nolo.ltd/
@@ -4113,6 +4118,7 @@ local=/adguard.piekacz.pl/
 local=/dns.pierzchlewicz.pl/
 local=/dns.pieterdherde.com/
 local=/dns1.pietjacobs.be/
+local=/rothschild.pii.at/
 local=/dns.pine-home.de/
 local=/pingproxy.com/
 local=/pinkproxy.xyz/
@@ -6730,6 +6736,7 @@ local=/my.worksheetsforteachers.org/
 local=/noturmotherlol.worksheetsforteachers.org/
 local=/pdf.worksheetsforteachers.org/
 local=/worldgravityapp.com/
+local=/104.218.50.66.worldplus-intl.org/
 local=/worldvpn.net/
 local=/worldwideproxy4u.win/
 local=/wossow.com/
@@ -6799,6 +6806,7 @@ local=/dns.yandex.ru/
 local=/common.dot.dns.yandex.net/
 local=/family.dot.dns.yandex.net/
 local=/safe.dot.dns.yandex.net/
+local=/vinnyisbunslol.yao.cl/
 local=/adguard.yare.hk/
 local=/agh-hetzner.yasirafique.com/
 local=/yasosy.pro/

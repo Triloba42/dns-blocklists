@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Nov 2025 10:27 UTC
-# Version: 2025.1113.1027.05
+# Last modified: 13 Nov 2025 14:28 UTC
+# Version: 2025.1113.1428.21
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 45403
+# Number of entries: 45399
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -13920,7 +13920,6 @@ local=/clubhouse-casino.click/
 local=/clubhousecasinoau.org/
 local=/clubloungecasino.com/
 local=/clubnika-casino.casino/
-local=/clubnika-casino.ru/
 local=/clubnika-casino-dcr.top/
 local=/clubnika-casino-dvg.top/
 local=/clubnika-casino-ec.top/
@@ -18285,6 +18284,7 @@ local=/fairgocasinopokies.com/
 local=/fairgocasinos.net/
 local=/fairgocasinovip.com/
 local=/fairgocasinowins.com/
+local=/fairgovip.com/
 local=/fairground-slots.com/
 local=/fairiesbets.xyz/
 local=/fairlay.com/
@@ -21245,7 +21245,6 @@ local=/gunsbet-casinos.com/
 local=/gunsbet35.com/
 local=/gunsbetcasino-au.com/
 local=/gunungpokerku.club/
-local=/guru.poker/
 local=/guru365.com/
 local=/gurubaruspy77.online/
 local=/gurucasino.click/
@@ -27054,7 +27053,6 @@ local=/luxslot.net/
 local=/luxukcasino.com/
 local=/luxuricasino.com/
 local=/luxury.casino/
-local=/luxury-casinocanada.com/
 local=/luxury86.com/
 local=/luxurycasino.com/
 local=/luxurycasino.us/
@@ -36470,7 +36468,6 @@ local=/royalzinocasino.pl/
 local=/royspins-casino.in/
 local=/royssbet.casino/
 local=/rp.casino/
-local=/rp777.art/
 local=/rp8888link.top/
 local=/rpa8888.xyz/
 local=/rpaa05.com/
@@ -39895,7 +39892,6 @@ local=/taigameiwin68.club/
 local=/taigameiwins.net/
 local=/taikaspins.com/
 local=/tainakf.com/
-local=/taishet.com/
 local=/taison01.com/
 local=/taisunwin.pro/
 local=/taiv8.com/

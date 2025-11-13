@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762958100 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763044440 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 Nov 2025 14:35 UTC
-; Version: 2025.1112.1435.18
+; Last modified: 13 Nov 2025 14:34 UTC
+; Version: 2025.1113.1434.45
 ; Syntax: RPZ
-; Number of entries: 13838
+; Number of entries: 13854
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -217,6 +217,8 @@ cube.neubsi.at CNAME .
 *.cube.neubsi.at CNAME .
 dns.neubsi.at CNAME .
 *.dns.neubsi.at CNAME .
+rothschild.pii.at CNAME .
+*.rothschild.pii.at CNAME .
 dns.sv-zauner.at CNAME .
 *.dns.sv-zauner.at CNAME .
 tecworx.at CNAME .
@@ -733,6 +735,8 @@ owens-chemistry-tutor-info.topcargoteam.cl CNAME .
 *.owens-chemistry-tutor-info.topcargoteam.cl CNAME .
 shop.woodworker.cl CNAME .
 *.shop.woodworker.cl CNAME .
+vinnyisbunslol.yao.cl CNAME .
+*.vinnyisbunslol.yao.cl CNAME .
 baconmania.click CNAME .
 *.baconmania.click CNAME .
 farewellkou.click CNAME .
@@ -1623,6 +1627,8 @@ jordanmadethis.chickenkiller.com CNAME .
 *.jordanmadethis.chickenkiller.com CNAME .
 freedns.kiuo-utopias.chickenkiller.com CNAME .
 *.freedns.kiuo-utopias.chickenkiller.com CNAME .
+grapesceleste.lobo.chickenkiller.com CNAME .
+*.grapesceleste.lobo.chickenkiller.com CNAME .
 andersonalcantara.my28.chickenkiller.com CNAME .
 *.andersonalcantara.my28.chickenkiller.com CNAME .
 soulsorcereryt.chickenkiller.com CNAME .
@@ -6129,6 +6135,8 @@ vps.avc.cx CNAME .
 *.vps.avc.cx CNAME .
 freedom.cx CNAME .
 *.freedom.cx CNAME .
+citybabyboy.noen.cx CNAME .
+*.citybabyboy.noen.cx CNAME .
 adguard.dantynes.cyou CNAME .
 *.adguard.dantynes.cyou CNAME .
 adb-dns.sapient.cyou CNAME .
@@ -7467,6 +7475,8 @@ dot.anir0y.in CNAME .
 *.dot.anir0y.in CNAME .
 rootdns.anir0y.in CNAME .
 *.rootdns.anir0y.in CNAME .
+xz.anjumanallana.in CNAME .
+*.xz.anjumanallana.in CNAME .
 next.atomix.in CNAME .
 *.next.atomix.in CNAME .
 vps.atomix.in CNAME .
@@ -8907,6 +8917,8 @@ freevpnme.b-cdn.net CNAME .
 *.freevpnme.b-cdn.net CNAME .
 hola-client-cdn4.b-cdn.net CNAME .
 *.hola-client-cdn4.b-cdn.net CNAME .
+archlinuxisthebestlol.baselinux.net CNAME .
+*.archlinuxisthebestlol.baselinux.net CNAME .
 bootnbo.baselinux.net CNAME .
 *.bootnbo.baselinux.net CNAME .
 nirbolt.baselinux.net CNAME .
@@ -10355,6 +10367,8 @@ it-works4u.nl CNAME .
 *.it-works4u.nl CNAME .
 itworks4u.nl CNAME .
 *.itworks4u.nl CNAME .
+thecia.j2e.nl CNAME .
+*.thecia.j2e.nl CNAME .
 doh.jeroenhd.nl CNAME .
 *.doh.jeroenhd.nl CNAME .
 dns.joey01245.nl CNAME .
@@ -11391,6 +11405,8 @@ noturmotherlol.worksheetsforteachers.org CNAME .
 *.noturmotherlol.worksheetsforteachers.org CNAME .
 pdf.worksheetsforteachers.org CNAME .
 *.pdf.worksheetsforteachers.org CNAME .
+104.218.50.66.worldplus-intl.org CNAME .
+*.104.218.50.66.worldplus-intl.org CNAME .
 look.xshentx.org CNAME .
 *.look.xshentx.org CNAME .
 yoyovpn.org CNAME .

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Nov 2025 10:27 UTC
-# Version: 2025.1113.1027.05
+# Last modified: 13 Nov 2025 14:28 UTC
+# Version: 2025.1113.1428.21
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 45403
+# Number of entries: 45399
 #
 *.0-casino.info
 *.000-online-casino.com
@@ -13920,7 +13920,6 @@
 *.clubhousecasinoau.org
 *.clubloungecasino.com
 *.clubnika-casino.casino
-*.clubnika-casino.ru
 *.clubnika-casino-dcr.top
 *.clubnika-casino-dvg.top
 *.clubnika-casino-ec.top
@@ -18285,6 +18284,7 @@
 *.fairgocasinos.net
 *.fairgocasinovip.com
 *.fairgocasinowins.com
+*.fairgovip.com
 *.fairground-slots.com
 *.fairiesbets.xyz
 *.fairlay.com
@@ -21245,7 +21245,6 @@
 *.gunsbet35.com
 *.gunsbetcasino-au.com
 *.gunungpokerku.club
-*.guru.poker
 *.guru365.com
 *.gurubaruspy77.online
 *.gurucasino.click
@@ -27054,7 +27053,6 @@
 *.luxukcasino.com
 *.luxuricasino.com
 *.luxury.casino
-*.luxury-casinocanada.com
 *.luxury86.com
 *.luxurycasino.com
 *.luxurycasino.us
@@ -36470,7 +36468,6 @@
 *.royspins-casino.in
 *.royssbet.casino
 *.rp.casino
-*.rp777.art
 *.rp8888link.top
 *.rpa8888.xyz
 *.rpaa05.com
@@ -39895,7 +39892,6 @@
 *.taigameiwins.net
 *.taikaspins.com
 *.tainakf.com
-*.taishet.com
 *.taison01.com
 *.taisunwin.pro
 *.taiv8.com

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Nov 2025 10:26 UTC
-# Version: 2025.1113.1026.34
+# Last modified: 13 Nov 2025 14:27 UTC
+# Version: 2025.1113.1427.49
 # Syntax: Domains (without subdomains)
-# Number of entries: 87753
+# Number of entries: 87749
 #
 0-casino.info
 000-online-casino.com
@@ -27171,7 +27171,6 @@ clubhousecasinoau.org
 clubloungecasino.com
 clubnika-casino.buzz
 clubnika-casino.casino
-clubnika-casino.ru
 clubnika-casino-club.ru
 clubnika-casino-dcr.top
 clubnika-casino-dvg.top
@@ -35290,6 +35289,7 @@ fairgocasinos.net
 fairgocasinos-au.com
 fairgocasinovip.com
 fairgocasinowins.com
+fairgovip.com
 fairground-slots.com
 fairgroundslotsi.com
 fairiesbets.xyz
@@ -40678,7 +40678,6 @@ gunturkeren.xyz
 gunungbromo.site
 gunungpokerku.club
 gurita4d-1.xyz
-guru.poker
 guru-slots.com
 guru365.com
 gurubaruspy77.online
@@ -51601,7 +51600,6 @@ luxukcasino.com
 luxur-casinoz.com
 luxuricasino.com
 luxury.casino
-luxury-casinocanada.com
 luxury-mansion.com
 luxury77.wiki
 luxury86.com
@@ -71015,7 +71013,6 @@ royspinscasino.net
 royspinscasino.org
 royssbet.casino
 rp.casino
-rp777.art
 rp8888glab.top
 rp8888link.top
 rp8888mean.top
@@ -77678,7 +77675,6 @@ taihitclub.casino
 taikaspins.com
 taimanclub.app
 tainakf.com
-taishet.com
 taison01.com
 taisunwin.pro
 taiv8.com

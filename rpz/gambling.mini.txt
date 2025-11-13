@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763029620 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763044080 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 13 Nov 2025 10:27 UTC
-; Version: 2025.1113.1027.05
+; Last modified: 13 Nov 2025 14:28 UTC
+; Version: 2025.1113.1428.21
 ; Syntax: RPZ
-; Number of entries: 90806
+; Number of entries: 90798
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -594,8 +594,6 @@ rock7.art CNAME .
 *.rock7.art CNAME .
 rox-casino.art CNAME .
 *.rox-casino.art CNAME .
-rp777.art CNAME .
-*.rp777.art CNAME .
 semar123.art CNAME .
 *.semar123.art CNAME .
 sigra369.art CNAME .
@@ -27688,6 +27686,8 @@ fairgocasinovip.com CNAME .
 *.fairgocasinovip.com CNAME .
 fairgocasinowins.com CNAME .
 *.fairgocasinowins.com CNAME .
+fairgovip.com CNAME .
+*.fairgovip.com CNAME .
 fairground-slots.com CNAME .
 *.fairground-slots.com CNAME .
 fairlay.com CNAME .
@@ -36168,8 +36168,6 @@ luxukcasino.com CNAME .
 *.luxukcasino.com CNAME .
 luxuricasino.com CNAME .
 *.luxuricasino.com CNAME .
-luxury-casinocanada.com CNAME .
-*.luxury-casinocanada.com CNAME .
 luxury86.com CNAME .
 *.luxury86.com CNAME .
 luxurycasino.com CNAME .
@@ -47966,8 +47964,6 @@ taikaspins.com CNAME .
 *.taikaspins.com CNAME .
 tainakf.com CNAME .
 *.tainakf.com CNAME .
-taishet.com CNAME .
-*.taishet.com CNAME .
 taison01.com CNAME .
 *.taison01.com CNAME .
 taiv8.com CNAME .
@@ -69186,8 +69182,6 @@ gibraltars.poker CNAME .
 *.gibraltars.poker CNAME .
 grandprixpoker.poker CNAME .
 *.grandprixpoker.poker CNAME .
-guru.poker CNAME .
-*.guru.poker CNAME .
 hapek.poker CNAME .
 *.hapek.poker CNAME .
 hindilinks4u.poker CNAME .
@@ -71034,8 +71028,6 @@ cazinoprofislots.ru CNAME .
 *.cazinoprofislots.ru CNAME .
 chestnyecasino.ru CNAME .
 *.chestnyecasino.ru CNAME .
-clubnika-casino.ru CNAME .
-*.clubnika-casino.ru CNAME .
 clubnikacasinopay.ru CNAME .
 *.clubnikacasinopay.ru CNAME .
 cryptobosscasino-mm8t.ru CNAME .

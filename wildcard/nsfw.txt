@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Nov 2025 10:29 UTC
-# Version: 2025.1113.1029.28
+# Last modified: 13 Nov 2025 14:30 UTC
+# Version: 2025.1113.1430.53
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 77670
+# Number of entries: 77656
 #
 *.001-adult-toys-n-sex-dolls.com
 *.001218.xyz
@@ -1112,7 +1112,6 @@
 *.666movies.com
 *.666sex.net
 *.668.xxx
-*.668sex.com
 *.66casting.com
 *.66dayexperiment.com
 *.66xing.cc
@@ -1432,7 +1431,6 @@
 *.91xingse.com
 *.91xj.link
 *.91xxx-12.cfd
-*.91xxx33.com
 *.91xxxins.com
 *.91xxxxx.com
 *.91zuixindizhi.com
@@ -8151,6 +8149,7 @@
 *.bestofthelist.com
 *.bestofvictoriawhite.com
 *.bestofxh.xyz
+*.bestorganizing.nl
 *.bestpclips.com
 *.bestphonesex.company
 *.bestporn.net
@@ -20268,7 +20267,6 @@
 *.endofyearoffersexpedition.xyz
 *.endsexualmisconductinsport.com
 *.enduroslut.com
-*.enemaslut.com
 *.ener.ru
 *.energaya-consulting.com
 *.energiebesparingsexpert.nl
@@ -24312,7 +24310,6 @@
 *.foto-pisi.com
 *.foto-private.ru
 *.foto-samoletov.ru
-*.foto-z.com
 *.fotoalbum.eu
 *.fotocelebrity.net
 *.fotodemulhernua.com
@@ -31348,7 +31345,6 @@
 *.hollywire.com
 *.hollywood-xposed.com
 *.hollywoodseniorsexpo.com
-*.hollywoodsex.com
 *.hollywoodstreetking.com
 *.hollywoodwhores.com
 *.hollywouldproductions.com
@@ -36627,7 +36623,6 @@
 *.keenporntube.com
 *.boymeetsboy.keenspace.com
 *.ghastly.keenspace.com
-*.keep-heat.ru
 *.keep2porn.com
 *.keep2porn.net
 *.keep2share.cc
@@ -47636,7 +47631,6 @@
 *.pilateyoga.ru
 *.pilatingayrimenkul.com
 *.pilipinay.tv
-*.pillowpornoz.com
 *.pillowtalk.nz
 *.pilluporno.com
 *.pilluvideot.com
@@ -49879,7 +49873,6 @@
 *.porno.black
 *.porno.cafe
 *.porno.ceo
-*.porno.cheap
 *.porno.city
 *.porno.com
 *.porno.computer
@@ -49896,7 +49889,6 @@
 *.porno.sexy
 *.porno.supply
 *.porno.surf
-*.porno.tax
 *.porno.vegas
 *.porno.watch
 *.ar.porno.cymru
@@ -50979,7 +50971,6 @@
 *.pornorak.cc
 *.pornorama.blog
 *.pornorama.com
-*.pornoramas.org
 *.pornorasskazy.com
 *.pornoraum.com
 *.pornorazzi.com
@@ -52317,7 +52308,6 @@
 *.porus.mom
 *.poryes.de
 *.porzo.com
-*.porzo.me
 *.porzz.com
 *.poseposter.com
 *.posergirls.com
@@ -52875,7 +52865,6 @@
 *.prostitutkinalchikadosug.info
 *.prostitutkinarofomiinskadosug.info
 *.prostitutkinizhnevartovskasex.com
-*.prostitutkinovosibirskarelax.com
 *.prostitutkinovosibirskasexy.com
 *.prostitutkipitera.org
 *.prostitutkipuschinodosug.info
@@ -65496,7 +65485,6 @@
 *.sussextourism-alliance.info
 *.sussextourismalliance.info
 *.sussextransportcare.com
-*.sussexwebdesigns.com
 *.sussexwindshields.com
 *.sussexwinestories.com
 *.sussexwoodstoves.com
@@ -72613,7 +72601,6 @@
 *.whispermedical.com
 *.whispermixer.xyz
 *.whispermob.com
-*.whispermoon.shop
 *.whispermoonstudio.org
 *.whispermountainoutbreak.com
 *.whispermove.store
@@ -73132,7 +73119,6 @@
 *.wzzhaopin.com
 *.x-angels.com
 *.x-arab.com
-*.x-art-erotic.ru
 *.x-cam.ch
 *.x-cfnm.net
 *.x-change.life
